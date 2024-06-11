@@ -1,0 +1,234 @@
+[
+    {
+        "rank": "1",
+        "name": "Jennifer Eucharia BUCKLEY",
+        "age": "49",
+        "country": "SLO",
+        "score": "4T4z 8 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Geila MACI\u00c0 MART\u00cdN",
+        "age": "55",
+        "country": "ESP",
+        "score": "3T4z 3 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Lucile SAUREL",
+        "age": "24",
+        "country": "FRA",
+        "score": "3T4z 6 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Anastasiia KOBETS",
+        "age": "38",
+        "country": "UKR",
+        "score": "3T3z 8 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "No\u00e9 LOOSER",
+        "age": "11",
+        "country": "SUI",
+        "score": "3T3z 9 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Amber SCHIFFELEERS",
+        "age": "12",
+        "country": "NED",
+        "score": "3T3z 12 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "7",
+                "zones": "5"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Martina BUR\u0160\u00cdKOV\u00c1",
+        "age": "19",
+        "country": "SVK",
+        "score": "2T3z 6 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Roxana WIENAND",
+        "age": "33",
+        "country": "GER",
+        "score": "2T2z 5 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "3",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

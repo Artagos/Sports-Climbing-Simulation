@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Ludovico FOSSALI",
+                "country": "",
+                "time": "5.07"
+            },
+            {
+                "name": "Erik NOYA CARDONA",
+                "country": "",
+                "time": "5.21"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Marco RONTINI",
+                "country": "",
+                "time": "5.53"
+            },
+            {
+                "name": "Luca ROBBIATI",
+                "country": "",
+                "time": "11.48"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Ludovico FOSSALI",
+                "country": "",
+                "time": "5.24"
+            },
+            {
+                "name": "Marco RONTINI",
+                "country": "",
+                "time": "5.52"
+            },
+            {
+                "name": "Luca ROBBIATI",
+                "country": "",
+                "time": "5.27"
+            },
+            {
+                "name": "Erik NOYA CARDONA",
+                "country": "",
+                "time": "5.22"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Ludovico FOSSALI",
+                "country": "",
+                "time": "5.42"
+            },
+            {
+                "name": "Lawrence BOGESCHDORFER",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Marco RONTINI",
+                "country": "",
+                "time": "6.54"
+            },
+            {
+                "name": "Yaroslav TKACH",
+                "country": "",
+                "time": "7.82"
+            },
+            {
+                "name": "Luca ROBBIATI",
+                "country": "",
+                "time": "5.40"
+            },
+            {
+                "name": "Kostiantyn PAVLENKO",
+                "country": "",
+                "time": "5.50"
+            },
+            {
+                "name": "Erik NOYA CARDONA",
+                "country": "",
+                "time": "5.30"
+            },
+            {
+                "name": "Alessandro BOULOS",
+                "country": "",
+                "time": "5.42"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Ludovico FOSSALI",
+                "country": "",
+                "time": "6.22"
+            },
+            {
+                "name": "J\u00e9r\u00f4me MOREL",
+                "country": "",
+                "time": "6.35"
+            },
+            {
+                "name": "Hryhorii ILCHYSHYN",
+                "country": "",
+                "time": "5.78"
+            },
+            {
+                "name": "Lawrence BOGESCHDORFER",
+                "country": "",
+                "time": "5.64"
+            },
+            {
+                "name": "Sebastian LUCKE",
+                "country": "",
+                "time": "6.22"
+            },
+            {
+                "name": "Marco RONTINI",
+                "country": "",
+                "time": "5.78"
+            },
+            {
+                "name": "Yaroslav TKACH",
+                "country": "",
+                "time": "5.64"
+            },
+            {
+                "name": "Alessandro GIORGIANNI",
+                "country": "",
+                "time": "7.59"
+            },
+            {
+                "name": "Luca ROBBIATI",
+                "country": "",
+                "time": "6.67"
+            },
+            {
+                "name": "Aodhan UMLAUF",
+                "country": "",
+                "time": "7.01"
+            },
+            {
+                "name": "Kostiantyn PAVLENKO",
+                "country": "",
+                "time": "5.60"
+            },
+            {
+                "name": "Miguel G\u00d3MEZ BARRIOS",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Erik NOYA CARDONA",
+                "country": "",
+                "time": "5.49"
+            },
+            {
+                "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+                "country": "",
+                "time": "5.75"
+            },
+            {
+                "name": "Alessandro BOULOS",
+                "country": "",
+                "time": "5.52"
+            },
+            {
+                "name": "Unax UTERGA FLAMARIQUE",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    }
+]

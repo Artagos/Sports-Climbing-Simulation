@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Giulia RANDI",
+                "country": "",
+                "time": "7.27"
+            },
+            {
+                "name": "Leslie Adriana ROMERO P\u00c9REZ",
+                "country": "",
+                "time": "7.34"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Martyna STOKOWIEC",
+                "country": "",
+                "time": "9.51"
+            },
+            {
+                "name": "Maria SZWED",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Giulia RANDI",
+                "country": "",
+                "time": "7.54"
+            },
+            {
+                "name": "Martyna STOKOWIEC",
+                "country": "",
+                "time": "7.86"
+            },
+            {
+                "name": "Maria SZWED",
+                "country": "",
+                "time": "10.23"
+            },
+            {
+                "name": "Leslie Adriana ROMERO P\u00c9REZ",
+                "country": "",
+                "time": "8.21"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Giulia RANDI",
+                "country": "",
+                "time": "7.74"
+            },
+            {
+                "name": "Alina SHCHYHARIEVA",
+                "country": "",
+                "time": "12.06"
+            },
+            {
+                "name": "Oksana BUROVA",
+                "country": "",
+                "time": "9.19"
+            },
+            {
+                "name": "Martyna STOKOWIEC",
+                "country": "",
+                "time": "8.22"
+            },
+            {
+                "name": "Maria SZWED",
+                "country": "",
+                "time": "7.53"
+            },
+            {
+                "name": "Sara STROCCHI",
+                "country": "",
+                "time": "7.95"
+            },
+            {
+                "name": "Leslie Adriana ROMERO P\u00c9REZ",
+                "country": "",
+                "time": "7.65"
+            },
+            {
+                "name": "Daria TKACHOVA",
+                "country": "",
+                "time": "8.36"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Giulia RANDI",
+                "country": "",
+                "time": "7.48"
+            },
+            {
+                "name": "Lucie MRAZOVA",
+                "country": "",
+                "time": "9.64"
+            },
+            {
+                "name": "Polina KHALKEVYCH",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Alina SHCHYHARIEVA",
+                "country": "",
+                "time": "8.91"
+            },
+            {
+                "name": "Julia KOCH",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Oksana BUROVA",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Martyna STOKOWIEC",
+                "country": "",
+                "time": "7.91"
+            },
+            {
+                "name": "Arianna MORTARINO",
+                "country": "",
+                "time": "8.70"
+            },
+            {
+                "name": "Maria SZWED",
+                "country": "",
+                "time": "7.50"
+            },
+            {
+                "name": "Mina Josephine SCHULTZ",
+                "country": "",
+                "time": "13.67"
+            },
+            {
+                "name": "Sara STROCCHI",
+                "country": "",
+                "time": "7.72"
+            },
+            {
+                "name": "Nele THOMAS",
+                "country": "",
+                "time": "8.35"
+            },
+            {
+                "name": "Leslie Adriana ROMERO P\u00c9REZ",
+                "country": "",
+                "time": "7.54"
+            },
+            {
+                "name": "Johanna NAGL",
+                "country": "",
+                "time": "8.72"
+            },
+            {
+                "name": "Daria TKACHOVA",
+                "country": "",
+                "time": "8.18"
+            },
+            {
+                "name": "Eva MENGOLI",
+                "country": "",
+                "time": "8.82"
+            }
+        ]
+    }
+]

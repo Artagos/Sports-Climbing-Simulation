@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Janja GARNBRET",
+        "rank": "1",
+        "country": null,
+        "score": "50+"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "2",
+        "country": null,
+        "score": "45+"
+    },
+    {
+        "athlete_name": "Manon HILY",
+        "rank": "3",
+        "country": null,
+        "score": "41+"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "rank": "4",
+        "country": null,
+        "score": "40+"
+    },
+    {
+        "athlete_name": "Aleksandra TOTKOVA",
+        "rank": "5",
+        "country": null,
+        "score": "40+"
+    },
+    {
+        "athlete_name": "Eliska ADAMOVSKA",
+        "rank": "6",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Hannah MEUL",
+        "rank": "7",
+        "country": null,
+        "score": "37"
+    },
+    {
+        "athlete_name": "Ievgeniia KAZBEKOVA",
+        "rank": "8",
+        "country": null,
+        "score": "18+"
+    }
+]

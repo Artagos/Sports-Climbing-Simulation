@@ -1,0 +1,582 @@
+[
+    {
+        "rank": "1",
+        "name": "Rodrigo IASI HANADA",
+        "age": "15",
+        "country": "BRA",
+        "score": "3T3z 14 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "6",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Alejo SUTER",
+        "age": "3",
+        "country": "ARG",
+        "score": "2T3z 8 13",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Tomas CHICAIZA DAVILA",
+        "age": "22",
+        "country": "ECU",
+        "score": "2T2z 6 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Felipe HO FOGANHOLO",
+        "age": "13",
+        "country": "BRA",
+        "score": "2T2z 9 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "6",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Asael PEREZ",
+        "age": "33",
+        "country": "VEN",
+        "score": "2T2z 12 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "8",
+                "zones": "8"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Maximo Dario LORGER",
+        "age": "5",
+        "country": "ARG",
+        "score": "1T3z 4 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Lautaro Nicol\u00e1s SORIA SANCHEZ",
+        "age": "4",
+        "country": "ARG",
+        "score": "1T3z 4 19",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "10"
+            }
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Davi CARVALHO PERES",
+        "age": "17",
+        "country": "BRA",
+        "score": "1T2z 3 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Nahuel Gustavo GOMEZ",
+        "age": "6",
+        "country": "ARG",
+        "score": "1T2z 4 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Renan DENARDO",
+        "age": "16",
+        "country": "BRA",
+        "score": "1T2z 10 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "10",
+                "zones": "8"
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Kenu PUERTA WONG",
+        "age": "30",
+        "country": "PER",
+        "score": "1T1z 4 2",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Gabriel LANCHEROS POVEDA",
+        "age": "19",
+        "country": "COL",
+        "score": "1T1z 6 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "6",
+                "zones": "6"
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Juan Martin PE\u00d1A",
+        "age": "25",
+        "country": "ECU",
+        "score": "0T3z 0 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "6"
+            }
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Felipe FERREIRA PINTO",
+        "age": "12",
+        "country": "BRA",
+        "score": "0T1z 0 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Francisco SANCHEZ TRAPES",
+        "age": "7",
+        "country": "ARG",
+        "score": "0T1z 0 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "David Natanael VARELA",
+        "age": "2",
+        "country": "ARG",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Christian Josue ZUMBA RODRIGUEZ",
+        "age": "23",
+        "country": "ECU",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Leonardo Matias ANTUNEZ FIGUEROA",
+        "age": "28",
+        "country": "PER",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Carlos GONZALEZ OQUENDO",
+        "age": "26",
+        "country": "ECU",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "",
+        "name": "Diego LEQUERICA BUSCAGLIA",
+        "age": "29",
+        "country": "PER",
+        "score": "DNS",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

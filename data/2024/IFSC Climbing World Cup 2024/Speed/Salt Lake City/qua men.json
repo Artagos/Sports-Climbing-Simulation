@@ -1,0 +1,382 @@
+[
+    {
+        "rank": "1",
+        "name": "Samuel WATSON",
+        "age": "127",
+        "country": "USA",
+        "scores": [
+            "4.99",
+            "5.36"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Yaroslav TKACH",
+        "age": "129",
+        "country": "UKR",
+        "scores": [
+            "5.19",
+            "5.48"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Zach HAMMER",
+        "age": "126",
+        "country": "USA",
+        "scores": [
+            "5.24",
+            "6.32"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Matteo ZURLONI",
+        "age": "140",
+        "country": "ITA",
+        "scores": [
+            "5.26",
+            "5.31"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Beknur ALTYNBEKOV",
+        "age": "119",
+        "country": "KAZ",
+        "scores": [
+            "5.30",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Jingjie HUANG",
+        "age": "141",
+        "country": "CHN",
+        "scores": [
+            "5.33",
+            "5.36"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Yu LIN",
+        "age": "131",
+        "country": "CHN",
+        "scores": [
+            "5.34",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Merritt ERNSBERGER",
+        "age": "120",
+        "country": "USA",
+        "scores": [
+            "5.41",
+            "7.34"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "John BROSLER",
+        "age": "147",
+        "country": "USA",
+        "scores": [
+            "5.44",
+            "8.68"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Dingfeng ZHANG",
+        "age": "154",
+        "country": "CHN",
+        "scores": [
+            "5.45",
+            "5.48"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Noah BRATSCHI",
+        "age": "134",
+        "country": "USA",
+        "scores": [
+            "5.48",
+            "6.47"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Kazuki TANII",
+        "age": "136",
+        "country": "JPN",
+        "scores": [
+            "5.48",
+            "5.72"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Kostiantyn PAVLENKO",
+        "age": "125",
+        "country": "UKR",
+        "scores": [
+            "5.51",
+            "5.60"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Shouhong CHU",
+        "age": "124",
+        "country": "CHN",
+        "scores": [
+            "5.52",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Kevin AMON",
+        "age": "121",
+        "country": "AUT",
+        "scores": [
+            "5.55",
+            "6.20"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Damir TOKTAROV",
+        "age": "137",
+        "country": "KAZ",
+        "scores": [
+            "5.55",
+            "5.72"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Michael HOM",
+        "age": "156",
+        "country": "USA",
+        "scores": [
+            "5.60",
+            "7.01"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Ethan PITCHER",
+        "age": "145",
+        "country": "CAN",
+        "scores": [
+            "5.70",
+            "5.83"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Shuto FUJINO",
+        "age": "133",
+        "country": "JPN",
+        "scores": [
+            "5.71",
+            "7.32"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Luca ROBBIATI",
+        "age": "148",
+        "country": "ITA",
+        "scores": [
+            "5.77",
+            "5.84"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Matvey YESSIPOV",
+        "age": "143",
+        "country": "KAZ",
+        "scores": [
+            "5.78",
+            "5.90"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Thomas LIN",
+        "age": "152",
+        "country": "USA",
+        "scores": [
+            "5.81",
+            "5.91"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Ryo OMASA",
+        "age": "128",
+        "country": "JPN",
+        "scores": [
+            "5.81",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Alisher MURAT",
+        "age": "142",
+        "country": "KAZ",
+        "scores": [
+            "5.85",
+            "6.45"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Joshua BRUYNS",
+        "age": "135",
+        "country": "RSA",
+        "scores": [
+            "5.93",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Linus BADER",
+        "age": "123",
+        "country": "GER",
+        "scores": [
+            "5.96",
+            "6.14"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Lucas VALES",
+        "age": "130",
+        "country": "USA",
+        "scores": [
+            "6.00",
+            "6.36"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Logan MINER",
+        "age": "153",
+        "country": "USA",
+        "scores": [
+            "6.11",
+            "7.89"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Dylan LE",
+        "age": "155",
+        "country": "CAN",
+        "scores": [
+            "6.16",
+            "6.27"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Tomas CHICAIZA DAVILA",
+        "age": "150",
+        "country": "ECU",
+        "scores": [
+            "6.17",
+            "6.31"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Matthew FALL",
+        "age": "151",
+        "country": "GBR",
+        "scores": [
+            "6.20",
+            "6.41"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Ginta UEGAKI",
+        "age": "132",
+        "country": "JPN",
+        "scores": [
+            "6.22",
+            "7.87"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Evan HOMAN",
+        "age": "144",
+        "country": "USA",
+        "scores": [
+            "6.67",
+            "6.88"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Ned JOHNSTON",
+        "age": "149",
+        "country": "NZL",
+        "scores": [
+            "6.92",
+            "7.23"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Pedro EGG",
+        "age": "146",
+        "country": "BRA",
+        "scores": [
+            "6.99",
+            "8.41"
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "Flynn CHISHOLM",
+        "age": "138",
+        "country": "NZL",
+        "scores": [
+            "7.04",
+            "8.10"
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Kenu PUERTA WONG",
+        "age": "139",
+        "country": "PER",
+        "scores": [
+            "8.55",
+            "9.17"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "Lukas KNAPP",
+        "age": "122",
+        "country": "AUT",
+        "scores": [
+            "FALSE START",
+            "FALSE START"
+        ]
+    }
+]

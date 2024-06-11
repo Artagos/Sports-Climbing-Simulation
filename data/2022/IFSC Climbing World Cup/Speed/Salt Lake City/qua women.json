@@ -1,0 +1,263 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "country": "49 \u2022 POL",
+        "scores": [
+            "6.89",
+            "8.62"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Aleksandra KALUCKA",
+        "country": "51 \u2022 POL",
+        "scores": [
+            "7.24",
+            "7.51"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Emma HUNT",
+        "country": "74 \u2022 USA",
+        "scores": [
+            "7.29",
+            "7.61"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Aurelia SARISSON",
+        "country": "18 \u2022 FRA",
+        "scores": [
+            "7.45",
+            "9.15"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Natalia KALUCKA",
+        "country": "48 \u2022 POL",
+        "scores": [
+            "7.47",
+            "7.47"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Patrycja CHUDZIAK",
+        "country": "50 \u2022 POL",
+        "scores": [
+            "7.67",
+            "8.30"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Beatrice COLLI",
+        "country": "32 \u2022 ITA",
+        "scores": [
+            "7.89",
+            "9.62"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Franziska RITTER",
+        "country": "25 \u2022 GER",
+        "scores": [
+            "7.90",
+            "8.16"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Andrea ROJAS",
+        "country": "13 \u2022 ECU",
+        "scores": [
+            "8.03",
+            "8.26"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Capucine VIGLIONE",
+        "country": "16 \u2022 FRA",
+        "scores": [
+            "8.07",
+            "11.31"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Giulia RANDI",
+        "country": "31 \u2022 ITA",
+        "scores": [
+            "8.12",
+            "8.45"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Victoire ANDRIER",
+        "country": "17 \u2022 FRA",
+        "scores": [
+            "8.20",
+            "8.54"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Nuria BROCKFELD",
+        "country": "29 \u2022 GER",
+        "scores": [
+            "8.40",
+            "8.76"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Tetiana KOLKOTINA",
+        "country": "96 \u2022 UKR",
+        "scores": [
+            "8.55",
+            "8.68"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Piper KELLY",
+        "country": "72 \u2022 USA",
+        "scores": [
+            "8.66",
+            "8.69"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Karin HAYASHI",
+        "country": "37 \u2022 JPN",
+        "scores": [
+            "8.66",
+            "9.22"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Fumika KAWAKAMI",
+        "country": "38 \u2022 JPN",
+        "scores": [
+            "8.78",
+            "9.64"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Anna BROZEK",
+        "country": "52 \u2022 POL",
+        "scores": [
+            "8.81",
+            "8.91"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Callie CLOSE",
+        "country": "73 \u2022 USA",
+        "scores": [
+            "8.94",
+            "10.01"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "15 \u2022 ESP",
+        "scores": [
+            "9.04",
+            "14.21"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Sophia CURCIO",
+        "country": "70 \u2022 USA",
+        "scores": [
+            "9.40",
+            "10.04"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Olivia MA",
+        "country": "78 \u2022 USA",
+        "scores": [
+            "9.48",
+            "10.10"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Valeria MACIAS FERREIRA",
+        "country": "45 \u2022 MEX",
+        "scores": [
+            "10.04",
+            "10.72"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Alejandra CONTRERAS",
+        "country": "11 \u2022 CHI",
+        "scores": [
+            "10.10",
+            "11.65"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Isabel GIFFORD",
+        "country": "77 \u2022 USA",
+        "scores": [
+            "10.76",
+            "11.09"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Arantza FERN\u00c1NDEZ GUTIERREZ",
+        "country": "46 \u2022 MEX",
+        "scores": [
+            "10.99",
+            "11.62"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Grace CROWLEY",
+        "country": "97 \u2022 AUS",
+        "scores": [
+            "11.48",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Liberty RUNNELS",
+        "country": "71 \u2022 USA",
+        "scores": [
+            "13.43",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Mar\u00eda Fernanda HIDALGO AMEZQUITA",
+        "country": "47 \u2022 MEX",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    }
+]

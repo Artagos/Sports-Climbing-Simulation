@@ -1,0 +1,2960 @@
+[
+    {
+        "rank": "1",
+        "name": "Mejdi SCHALCK",
+        "age": "203",
+        "country": "FRA",
+        "score": "4T5z 9 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "1",
+        "name": "Dohyun LEE",
+        "age": "253",
+        "country": "KOR",
+        "score": "4T5z 7 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Kokoro FUJII",
+        "age": "251",
+        "country": "JPN",
+        "score": "4T5z 8 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Maximillian MILNE",
+        "age": "204",
+        "country": "GBR",
+        "score": "4T5z 12 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "7",
+                "zones": "7"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Tomoa NARASAKI",
+        "age": "252",
+        "country": "JPN",
+        "score": "4T5z 8 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "5",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Sam AVEZOU",
+        "age": "209",
+        "country": "FRA",
+        "score": "3T5z 6 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Mathieu TERNANT",
+        "age": "212",
+        "country": "FRA",
+        "score": "3T5z 13 19",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "10",
+                "zones": "10"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Manuel CORNU",
+        "age": "272",
+        "country": "FRA",
+        "score": "4T5z 9 13",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "9"
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Jongwon CHON",
+        "age": "254",
+        "country": "KOR",
+        "score": "4T4z 7 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Toby ROBERTS",
+        "age": "224",
+        "country": "GBR",
+        "score": "3T5z 19 24",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "15",
+                "zones": "15"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Yoshiyuki OGATA",
+        "age": "201",
+        "country": "JPN",
+        "score": "3T4z 6 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Alberto GIN\u00c9S L\u00d3PEZ",
+        "age": "262",
+        "country": "ESP",
+        "score": "4T4z 15 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "10",
+                "zones": "10"
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Nicolai UZNIK",
+        "age": "207",
+        "country": "AUT",
+        "score": "3T4z 10 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Yuji INOUE",
+        "age": "260",
+        "country": "JPN",
+        "score": "3T5z 15 16",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "6",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "6",
+                "zones": "6"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Yannick FLOH\u00c9",
+        "age": "202",
+        "country": "GER",
+        "score": "3T3z 5 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Nicolas COLLIN",
+        "age": "278",
+        "country": "BEL",
+        "score": "3T4z 4 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Hannes VAN DUYSEN",
+        "age": "210",
+        "country": "BEL",
+        "score": "3T3z 8 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Ritsu KAYOTANI",
+        "age": "270",
+        "country": "JPN",
+        "score": "3T4z 5 16",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "11"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Sean BAILEY",
+        "age": "258",
+        "country": "USA",
+        "score": "3T4z 11 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "5",
+                "zones": "4"
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Simon LORENZI",
+        "age": "216",
+        "country": "BEL",
+        "score": "2T5z 3 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Paul JENFT",
+        "age": "205",
+        "country": "FRA",
+        "score": "2T5z 3 17",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "11"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Alex KHAZANOV",
+        "age": "264",
+        "country": "ISR",
+        "score": "3T3z 10 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "8",
+                "zones": "8"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Jakob SCHUBERT",
+        "age": "255",
+        "country": "AUT",
+        "score": "2T4z 2 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Daiki SANO",
+        "age": "223",
+        "country": "JPN",
+        "score": "2T4z 5 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Mickael MAWEM",
+        "age": "261",
+        "country": "FRA",
+        "score": "2T4z 2 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Zan LOVENJAK SUDAR",
+        "age": "215",
+        "country": "SLO",
+        "score": "2T4z 5 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Anze PEHARC",
+        "age": "256",
+        "country": "SLO",
+        "score": "2T4z 4 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Luka POTOCAR",
+        "age": "229",
+        "country": "SLO",
+        "score": "2T4z 6 17",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "5",
+                "tops": "5",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Sorato ANRAKU",
+        "age": "263",
+        "country": "JPN",
+        "score": "2T4z 5 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Slav KIROV",
+        "age": "236",
+        "country": "BUL",
+        "score": "2T4z 7 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "6",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Colin DUFFY",
+        "age": "206",
+        "country": "USA",
+        "score": "2T3z 2 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Jernej KRUDER",
+        "age": "269",
+        "country": "SLO",
+        "score": "2T4z 5 15",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "11"
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Hamish MCARTHUR",
+        "age": "208",
+        "country": "GBR",
+        "score": "2T3z 3 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Yunchan SONG",
+        "age": "294",
+        "country": "KOR",
+        "score": "2T4z 14 16",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "11",
+                "zones": "11"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Stefan SCHERZ",
+        "age": "273",
+        "country": "AUT",
+        "score": "2T3z 2 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Dayan AKHTAR",
+        "age": "244",
+        "country": "GBR",
+        "score": "2T2z 3 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Zach GALLA",
+        "age": "217",
+        "country": "USA",
+        "score": "2T2z 5 2",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Nikolay RUSEV",
+        "age": "271",
+        "country": "BUL",
+        "score": "2T3z 4 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Oscar BAUDRAND",
+        "age": "275",
+        "country": "CAN",
+        "score": "2T3z 4 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "Michael PICCOLRUAZ",
+        "age": "220",
+        "country": "ITA",
+        "score": "1T4z 1 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "Filip SCHENK",
+        "age": "222",
+        "country": "ITA",
+        "score": "1T4z 1 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "42",
+        "name": "Geva LEVIN",
+        "age": "285",
+        "country": "ISR",
+        "score": "2T3z 5 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "4",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "Jan-Luca POSCH",
+        "age": "213",
+        "country": "AUT",
+        "score": "1T4z 1 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "Nimrod MARCUS",
+        "age": "266",
+        "country": "ISR",
+        "score": "2T3z 6 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "Max KLEESATTEL",
+        "age": "211",
+        "country": "GER",
+        "score": "1T3z 1 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "Jesse GRUPPER",
+        "age": "274",
+        "country": "USA",
+        "score": "2T3z 7 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "6",
+                "zones": "6"
+            }
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "Sungsu LEE",
+        "age": "219",
+        "country": "KOR",
+        "score": "1T3z 1 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "Dillon COUNTRYMAN",
+        "age": "286",
+        "country": "USA",
+        "score": "1T4z 1 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "49",
+        "name": "Thilo Jeldrik SCHR\u00d6TER",
+        "age": "232",
+        "country": "NOR",
+        "score": "1T3z 1 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "49",
+        "name": "Nathan MARTIN",
+        "age": "289",
+        "country": "LUX",
+        "score": "1T4z 2 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "51",
+        "name": "Edvards GRUZITIS",
+        "age": "214",
+        "country": "LAT",
+        "score": "1T3z 1 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "51",
+        "name": "Victor BAUDRAND",
+        "age": "265",
+        "country": "CAN",
+        "score": "1T4z 2 19",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "9"
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "53",
+        "name": "Hannes PUMAN",
+        "age": "226",
+        "country": "SWE",
+        "score": "1T3z 1 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "8"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "53",
+        "name": "Yufei PAN",
+        "age": "276",
+        "country": "CHN",
+        "score": "1T3z 1 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "55",
+        "name": "Elias ARRIAGADA KR\u00dcGER",
+        "age": "227",
+        "country": "GER",
+        "score": "1T3z 2 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "55",
+        "name": "Ardch INTRACHUPONGSE",
+        "age": "283",
+        "country": "THA",
+        "score": "1T3z 1 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "57",
+        "name": "James POPE",
+        "age": "221",
+        "country": "GBR",
+        "score": "1T3z 2 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "57",
+        "name": "Christopher COSSER",
+        "age": "279",
+        "country": "RSA",
+        "score": "1T3z 2 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "2",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "59",
+        "name": "Sascha LEHMANN",
+        "age": "218",
+        "country": "SUI",
+        "score": "1T2z 2 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "59",
+        "name": "Luke GOH WEN BIN",
+        "age": "280",
+        "country": "SGP",
+        "score": "1T3z 3 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "59",
+        "name": "Lasse VON FREIER",
+        "age": "238",
+        "country": "GER",
+        "score": "1T2z 2 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "62",
+        "name": "Michael O'NEILL",
+        "age": "281",
+        "country": "IRL",
+        "score": "1T3z 3 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "63",
+        "name": "Hong Il KIM",
+        "age": "243",
+        "country": "KOR",
+        "score": "1T2z 2 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "63",
+        "name": "Hanwool KIM",
+        "age": "293",
+        "country": "KOR",
+        "score": "1T3z 3 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "5",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "65",
+        "name": "Leo AVEZOU",
+        "age": "268",
+        "country": "FRA",
+        "score": "0T4z 0 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "65",
+        "name": "Ram LEVIN",
+        "age": "228",
+        "country": "ISR",
+        "score": "1T2z 3 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "67",
+        "name": "Nils FAVRE",
+        "age": "277",
+        "country": "SUI",
+        "score": "0T3z 0 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "67",
+        "name": "Chia Hsiang LIN",
+        "age": "230",
+        "country": "TPE",
+        "score": "1T2z 6 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "6",
+                "zones": "6"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "Guy MCNAMEE",
+        "age": "267",
+        "country": "CAN",
+        "score": "0T3z 0 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "Cheung-Chi Shoji CHAN",
+        "age": "225",
+        "country": "HKG",
+        "score": "1T2z 6 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "6",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "Dylan PARKS",
+        "age": "287",
+        "country": "AUS",
+        "score": "0T3z 0 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "Christian WAGNER",
+        "age": "241",
+        "country": "CHI",
+        "score": "1T2z 6 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "6",
+                "zones": "5"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "73",
+        "name": "Ciar\u00e1n SCANLON",
+        "age": "282",
+        "country": "IRL",
+        "score": "0T3z 0 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "73",
+        "name": "Liam HEALY",
+        "age": "234",
+        "country": "AUS",
+        "score": "0T2z 0 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "75",
+        "name": "Felipe HO FOGANHOLO",
+        "age": "233",
+        "country": "BRA",
+        "score": "0T2z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "6"
+            }
+        ]
+    },
+    {
+        "rank": "75",
+        "name": "Wan Tong LOK",
+        "age": "292",
+        "country": "MAC",
+        "score": "0T3z 0 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "5"
+            }
+        ]
+    },
+    {
+        "rank": "77",
+        "name": "Minyoung LEE",
+        "age": "231",
+        "country": "KOR",
+        "score": "0T2z 0 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "77",
+        "name": "Cheuk-Hei HO",
+        "age": "284",
+        "country": "HKG",
+        "score": "0T3z 0 13",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "79",
+        "name": "Jinbin HUANG",
+        "age": "240",
+        "country": "CHN",
+        "score": "0T2z 0 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "79",
+        "name": "Theis Lindegren ELFENBEIN",
+        "age": "291",
+        "country": "DEN",
+        "score": "0T2z 0 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "81",
+        "name": "Minsung HAN",
+        "age": "237",
+        "country": "KOR",
+        "score": "0T1z 0 1",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "81",
+        "name": "Anton Young Hong NIELSEN",
+        "age": "290",
+        "country": "DEN",
+        "score": "0T2z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "81",
+        "name": "Jakub ZIETEK",
+        "age": "242",
+        "country": "POL",
+        "score": "0T1z 0 1",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "84",
+        "name": "Ross FULKERSON",
+        "age": "259",
+        "country": "USA",
+        "score": "0T2z 0 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "85",
+        "name": "Meichi NARASAKI",
+        "age": "257",
+        "country": "JPN",
+        "score": "0T1z 0 1",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "85",
+        "name": "Diego LEQUERICA BUSCAGLIA",
+        "age": "239",
+        "country": "PER",
+        "score": "0T1z 0 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "87",
+        "name": "Rodrigo IASI HANADA",
+        "age": "235",
+        "country": "BRA",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "5",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

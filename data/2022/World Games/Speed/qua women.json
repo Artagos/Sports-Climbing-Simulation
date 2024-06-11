@@ -1,0 +1,110 @@
+[
+    {
+        "rank": "1",
+        "name": "Natalia KALUCKA",
+        "country": "8 \u2022 POL",
+        "scores": [
+            "7.25",
+            "7.53"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Emma HUNT",
+        "country": "2 \u2022 USA",
+        "scores": [
+            "7.31",
+            "7.34"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Franziska RITTER",
+        "country": "3 \u2022 GER",
+        "scores": [
+            "7.39",
+            "7.78"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Capucine VIGLIONE",
+        "country": "12 \u2022 FRA",
+        "scores": [
+            "7.61",
+            "7.84"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Andrea ROJAS",
+        "country": "9 \u2022 ECU",
+        "scores": [
+            "7.90",
+            "9.58"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Patrycja CHUDZIAK",
+        "country": "7 \u2022 POL",
+        "scores": [
+            "7.93",
+            "8.47"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Tamara ULZHABAYEVA",
+        "country": "10 \u2022 KAZ",
+        "scores": [
+            "8.10",
+            "11.33"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Yelyzaveta LAVRYKOVA",
+        "country": "1 \u2022 UKR",
+        "scores": [
+            "8.92",
+            "9.24"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Afra H\u00d6NIG",
+        "country": "11 \u2022 GER",
+        "scores": [
+            "10.09",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Laura ST\u00d6CKLER",
+        "country": "4 \u2022 AUT",
+        "scores": [
+            "11.31",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Grace CROWLEY",
+        "country": "5 \u2022 AUS",
+        "scores": [
+            "13.17",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Lauren MUKHEIBIR",
+        "country": "6 \u2022 RSA",
+        "scores": [
+            "15.84",
+            "16.93"
+        ]
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "6.24"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.58"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.65"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "",
+                "time": "5.55"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.51"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.45"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "6.12"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "",
+                "time": "9.09"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Alessandro Boulos",
+                "country": "",
+                "time": "5.75"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.56"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.56"
+            },
+            {
+                "name": "Gian Luca Zodda",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Alessandro Cingari",
+                "country": "",
+                "time": "5.85"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "",
+                "time": "5.72"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.93"
+            },
+            {
+                "name": "Jan Kriz",
+                "country": "",
+                "time": "6.41"
+            },
+            {
+                "name": "Alessandro Boulos",
+                "country": "",
+                "time": "5.96"
+            },
+            {
+                "name": "Sebastian Lucke",
+                "country": "",
+                "time": "9.17"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "6.10"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "6.82"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.68"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "5.90"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Lawrence Bogeschdorfer",
+                "country": "",
+                "time": "6.16"
+            },
+            {
+                "name": "Gian Luca Zodda",
+                "country": "",
+                "time": "5.82"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Alessandro Cingari",
+                "country": "",
+                "time": "6.02"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "6.20"
+            }
+        ]
+    }
+]

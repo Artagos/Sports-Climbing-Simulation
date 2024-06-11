@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.93"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.83"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.52"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.58"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "8.96"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.34"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.42"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "7.06"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "",
+                "time": "8.03"
+            },
+            {
+                "name": "Aurelia Sarisson",
+                "country": "",
+                "time": "12.26"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.67"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.51"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.67"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "8.87"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "7.08"
+            },
+            {
+                "name": "Karin HAYASHI",
+                "country": "",
+                "time": "8.98"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "",
+                "time": "9.00"
+            },
+            {
+                "name": "Aurelia Sarisson",
+                "country": "",
+                "time": "7.51"
+            },
+            {
+                "name": "Nuria Brockfeld",
+                "country": "",
+                "time": "8.22"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.82"
+            },
+            {
+                "name": "Victoire Andrier",
+                "country": "",
+                "time": "8.38"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.47"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "",
+                "time": "9.36"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "7.70"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "9.37"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "8.41"
+            },
+            {
+                "name": "Tetiana Kolkotina",
+                "country": "",
+                "time": "8.64"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.96"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "8.13"
+            }
+        ]
+    }
+]

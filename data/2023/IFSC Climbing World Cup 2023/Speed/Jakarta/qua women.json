@@ -1,0 +1,472 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "age": "108",
+        "country": "POL",
+        "scores": [
+            "6.36",
+            "6.40"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Desak MADE RITA KUSUMA DEWI",
+        "age": "106",
+        "country": "INA",
+        "scores": [
+            "6.65",
+            "7.24"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Lijuan DENG",
+        "age": "123",
+        "country": "CHN",
+        "scores": [
+            "6.74",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Natalia KALUCKA",
+        "age": "147",
+        "country": "POL",
+        "scores": [
+            "6.74",
+            "6.96"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Aleksandra KALUCKA",
+        "age": "115",
+        "country": "POL",
+        "scores": [
+            "6.82",
+            "8.22"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Rajiah SALLSABILLAH",
+        "age": "142",
+        "country": "INA",
+        "scores": [
+            "6.92",
+            "7.01"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Emma HUNT",
+        "age": "109",
+        "country": "USA",
+        "scores": [
+            "6.97",
+            "7.01"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Di NIU",
+        "age": "114",
+        "country": "CHN",
+        "scores": [
+            "7.03",
+            "8.85"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Nurul IQAMAH",
+        "age": "102",
+        "country": "INA",
+        "scores": [
+            "7.05",
+            "7.27"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Shengyan WANG",
+        "age": "111",
+        "country": "CHN",
+        "scores": [
+            "7.23",
+            "7.36"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Narda Mutia AMANDA",
+        "age": "139",
+        "country": "INA",
+        "scores": [
+            "7.30",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Jimin JEONG",
+        "age": "134",
+        "country": "KOR",
+        "scores": [
+            "7.32",
+            "8.47"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Franziska RITTER",
+        "age": "135",
+        "country": "GER",
+        "scores": [
+            "7.37",
+            "8.48"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Capucine VIGLIONE",
+        "age": "122",
+        "country": "FRA",
+        "scores": [
+            "7.38",
+            "7.66"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Patrycja CHUDZIAK",
+        "age": "105",
+        "country": "POL",
+        "scores": [
+            "7.38",
+            "8.68"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Yafei ZHOU",
+        "age": "130",
+        "country": "CHN",
+        "scores": [
+            "7.42",
+            "7.55"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Giulia RANDI",
+        "age": "129",
+        "country": "ITA",
+        "scores": [
+            "7.43",
+            "7.48"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Andrea ROJAS",
+        "age": "110",
+        "country": "ECU",
+        "scores": [
+            "7.46",
+            "7.58"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Yuju MU",
+        "age": "132",
+        "country": "CHN",
+        "scores": [
+            "7.49",
+            "10.65"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Shaoqin ZHANG",
+        "age": "119",
+        "country": "CHN",
+        "scores": [
+            "7.56",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Alivany VER KHADIJAH",
+        "age": "104",
+        "country": "INA",
+        "scores": [
+            "7.62",
+            "7.64"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Victoire ANDRIER",
+        "age": "125",
+        "country": "FRA",
+        "scores": [
+            "7.69",
+            "9.63"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Berthdigna Devi Surya KUSUMA",
+        "age": "116",
+        "country": "INA",
+        "scores": [
+            "7.75",
+            "8.32"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Nurma ANJANI",
+        "age": "128",
+        "country": "INA",
+        "scores": [
+            "7.75",
+            "7.76"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Anna BROZEK",
+        "age": "144",
+        "country": "POL",
+        "scores": [
+            "7.85",
+            "7.91"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Piper KELLY",
+        "age": "131",
+        "country": "USA",
+        "scores": [
+            "7.92",
+            "8.12"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Liberty RUNNELS",
+        "age": "117",
+        "country": "USA",
+        "scores": [
+            "8.09",
+            "8.09"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Sophia CURCIO",
+        "age": "138",
+        "country": "USA",
+        "scores": [
+            "8.17",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Fumika KAWAKAMI",
+        "age": "118",
+        "country": "JPN",
+        "scores": [
+            "8.21",
+            "9.27"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Ai TAKEUCHI",
+        "age": "112",
+        "country": "JPN",
+        "scores": [
+            "8.29",
+            "8.38"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Lison GAUTRON",
+        "age": "143",
+        "country": "FRA",
+        "scores": [
+            "8.35",
+            "8.52"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Beatrice COLLI",
+        "age": "133",
+        "country": "ITA",
+        "scores": [
+            "8.40",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Haruka KANETANI",
+        "age": "146",
+        "country": "JPN",
+        "scores": [
+            "8.44",
+            "12.57"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Heeju NOH",
+        "age": "107",
+        "country": "KOR",
+        "scores": [
+            "8.51",
+            "9.76"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Susan NURHIDAYAH",
+        "age": "113",
+        "country": "INA",
+        "scores": [
+            "8.68",
+            "10.29"
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "Aurelia SARISSON",
+        "age": "141",
+        "country": "FRA",
+        "scores": [
+            "8.99",
+            "11.59"
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Natsumi HAYASHI",
+        "age": "127",
+        "country": "JPN",
+        "scores": [
+            "9.16",
+            "10.13"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "Erica VELEV",
+        "age": "137",
+        "country": "CAN",
+        "scores": [
+            "9.35",
+            "9.70"
+        ]
+    },
+    {
+        "rank": "39",
+        "name": "Karin HAYASHI",
+        "age": "140",
+        "country": "JPN",
+        "scores": [
+            "9.42",
+            "12.30"
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "Nawoo CHOI",
+        "age": "126",
+        "country": "KOR",
+        "scores": [
+            "9.51",
+            "10.72"
+        ]
+    },
+    {
+        "rank": "41",
+        "name": "Abigail RUANO",
+        "age": "136",
+        "country": "ECU",
+        "scores": [
+            "9.92",
+            "10.10"
+        ]
+    },
+    {
+        "rank": "42",
+        "name": "Shivpreet PANNU",
+        "age": "120",
+        "country": "IND",
+        "scores": [
+            "9.94",
+            "9.98"
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "Puja LESTARI",
+        "age": "101",
+        "country": "INA",
+        "scores": [
+            "10.56",
+            "11.86"
+        ]
+    },
+    {
+        "rank": "44",
+        "name": "Grace CROWLEY",
+        "age": "121",
+        "country": "AUS",
+        "scores": [
+            "10.75",
+            "11.46"
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "Mi YANG",
+        "age": "103",
+        "country": "CHN",
+        "scores": [
+            "10.99",
+            "11.14"
+        ]
+    },
+    {
+        "rank": "46",
+        "name": "Callie CLOSE",
+        "age": "145",
+        "country": "USA",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "Eka DIAN KRISMAWATI",
+        "age": "124",
+        "country": "INA",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    }
+]

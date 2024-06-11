@@ -1,0 +1,209 @@
+[
+    {
+        "rank": "1",
+        "name": "Tobias PLANGGER",
+        "country": "12 \u2022 AUT",
+        "scores": [
+            "5.69",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Alessandro CINGARI",
+        "country": "24 \u2022 ITA",
+        "scores": [
+            "5.98",
+            "6.18"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Ryo OMASA",
+        "country": "11 \u2022 JPN",
+        "scores": [
+            "6.00",
+            "7.07"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Matteo ZURLONI",
+        "country": "13 \u2022 ITA",
+        "scores": [
+            "6.26",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "country": "22 \u2022 ESP",
+        "scores": [
+            "6.36",
+            "6.40"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Hajime TAKEDA",
+        "country": "5 \u2022 JPN",
+        "scores": [
+            "6.39",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Darren SKOLNIK",
+        "country": "3 \u2022 USA",
+        "scores": [
+            "6.45",
+            "6.50"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Artem HLUSHKO",
+        "country": "1 \u2022 UKR",
+        "scores": [
+            "6.47",
+            "6.48"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Dmytro ILIUKHIN",
+        "country": "4 \u2022 UKR",
+        "scores": [
+            "6.56",
+            "8.39"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Aidan GODDARD",
+        "country": "16 \u2022 USA",
+        "scores": [
+            "6.80",
+            "7.42"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Daeseong KIM",
+        "country": "17 \u2022 KOR",
+        "scores": [
+            "6.98",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Dorian ZEDLER",
+        "country": "14 \u2022 GER",
+        "scores": [
+            "7.00",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Lukas KNAPP",
+        "country": "2 \u2022 AUT",
+        "scores": [
+            "7.31",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Andrea BIASSONI",
+        "country": "19 \u2022 ITA",
+        "scores": [
+            "7.45",
+            "9.88"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Nicholas MONTELLA",
+        "country": "10 \u2022 USA",
+        "scores": [
+            "7.48",
+            "7.54"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Valentin STERNIK",
+        "country": "8 \u2022 ARG",
+        "scores": [
+            "7.59",
+            "7.73"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Ioannis-Filippos NOEL-BAKER",
+        "country": "6 \u2022 GRE",
+        "scores": [
+            "8.47",
+            "9.50"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Akihisa KAJI",
+        "country": "7 \u2022 JPN",
+        "scores": [
+            "8.60",
+            "12.15"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Brendan NIXON",
+        "country": "9 \u2022 USA",
+        "scores": [
+            "8.98",
+            "9.52"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Joris LEIPUS",
+        "country": "21 \u2022 LTU",
+        "scores": [
+            "9.83",
+            "10.88"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Bartlomiej PODLEWSKI",
+        "country": "20 \u2022 POL",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Gustavo Gabriel SUAREZ MUNNE",
+        "country": "18 \u2022 ARG",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Yaroslav TKACH",
+        "country": "23 \u2022 UKR",
+        "scores": [
+            "FALL",
+            "FALSE START"
+        ]
+    }
+]

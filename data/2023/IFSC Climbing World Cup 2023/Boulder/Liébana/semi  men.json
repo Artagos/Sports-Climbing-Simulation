@@ -1,0 +1,698 @@
+[
+    {
+        "rank": "1",
+        "name": "Arthur LE BRIS",
+        "age": "40",
+        "country": "FRA",
+        "score": "3T4z 6 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "2",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Guillermo PEINADO FRANGANILLO",
+        "age": "44",
+        "country": "ESP",
+        "score": "2T4z 4 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Pietro VIDI",
+        "age": "48",
+        "country": "ITA",
+        "score": "2T4z 5 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Lluc MACI\u00c0 LLOBET",
+        "age": "24",
+        "country": "ESP",
+        "score": "2T4z 5 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Alexandre NO\u00cbL",
+        "age": "22",
+        "country": "BEL",
+        "score": "2T4z 5 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Antoine GIRARD",
+        "age": "34",
+        "country": "FRA",
+        "score": "2T4z 5 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Thomas LEMAGNER",
+        "age": "33",
+        "country": "FRA",
+        "score": "2T4z 7 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Corentin LAPORTE",
+        "age": "4",
+        "country": "BEL",
+        "score": "2T4z 10 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "6",
+                "zones": "5"
+            }
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Julien CL\u00c9MENCE",
+        "age": "18",
+        "country": "SUI",
+        "score": "2T3z 2 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Leo FAVOT",
+        "age": "38",
+        "country": "FRA",
+        "score": "1T4z 1 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Emil ZIMMERMANN",
+        "age": "21",
+        "country": "GER",
+        "score": "1T4z 1 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Ido FIDEL",
+        "age": "13",
+        "country": "ISR",
+        "score": "1T4z 1 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Don VAN LAERE",
+        "age": "36",
+        "country": "NED",
+        "score": "1T4z 1 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Nicol\u00f2 SARTIRANA",
+        "age": "27",
+        "country": "ITA",
+        "score": "1T4z 2 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Lasse VON FREIER",
+        "age": "19",
+        "country": "GER",
+        "score": "1T4z 3 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Dominik HAERTL",
+        "age": "26",
+        "country": "AUT",
+        "score": "1T3z 3 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "3",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Mikel Asier LINACISORO MOLINA",
+        "age": "41",
+        "country": "ESP",
+        "score": "0T4z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Paul BRAND",
+        "age": "37",
+        "country": "NED",
+        "score": "0T4z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Maksym VNUKOV",
+        "age": "42",
+        "country": "UKR",
+        "score": "0T4z 0 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Michele BONO",
+        "age": "31",
+        "country": "ITA",
+        "score": "0T4z 0 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Theis Lindegren ELFENBEIN",
+        "age": "39",
+        "country": "DEN",
+        "score": "0T4z 0 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Thorben Perry BLOEM",
+        "age": "20",
+        "country": "GER",
+        "score": "0T3z 0 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Eneko CARRETERO CRUZ",
+        "age": "1",
+        "country": "ESP",
+        "score": "0T2z 0 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Andreas HOFHERR",
+        "age": "35",
+        "country": "AUT",
+        "score": "0T2z 0 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

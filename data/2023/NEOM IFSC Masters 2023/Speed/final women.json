@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.88"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "6.72"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.23"
+            },
+            {
+                "name": "NARDA MUTIA AMANDA",
+                "country": "",
+                "time": "6.91"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "7.02"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "12.03"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "6.73"
+            },
+            {
+                "name": "NARDA MUTIA AMANDA",
+                "country": "",
+                "time": "7.94"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.96"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "7.58"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.14"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.32"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "6.99"
+            },
+            {
+                "name": "ALIVANY VER KHADIJAH",
+                "country": "",
+                "time": "7.71"
+            },
+            {
+                "name": "NARDA MUTIA AMANDA",
+                "country": "",
+                "time": "7.00"
+            },
+            {
+                "name": "NURUL IQAMAH",
+                "country": "",
+                "time": "7.23"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "7.22"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "8.34"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "7.677"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.678"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.29"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "",
+                "time": "8.00"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.18"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "",
+                "time": "7.91"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "7.05"
+            },
+            {
+                "name": "Sofia Bellesini",
+                "country": "",
+                "time": "8.96"
+            },
+            {
+                "name": "ALIVANY VER KHADIJAH",
+                "country": "",
+                "time": "7.64"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "NARDA MUTIA AMANDA",
+                "country": "",
+                "time": "7.39"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "",
+                "time": "8.08"
+            },
+            {
+                "name": "NURUL IQAMAH",
+                "country": "",
+                "time": "7.38"
+            },
+            {
+                "name": "Tamara Ulzhabayeva",
+                "country": "",
+                "time": "8.29"
+            }
+        ]
+    }
+]

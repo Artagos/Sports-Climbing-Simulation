@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Hidemasa NISHIDA",
+        "rank": "1",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Hiroto SHIMIZU",
+        "rank": "2",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Manato KURASHIKI",
+        "rank": "3",
+        "country": null,
+        "score": "36"
+    },
+    {
+        "athlete_name": "Radin FOROUGHIAN",
+        "rank": "4",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Tomoaki TAKATA",
+        "rank": "5",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Cheung-Chi Shoji CHAN",
+        "rank": "6",
+        "country": null,
+        "score": "24"
+    },
+    {
+        "athlete_name": "Ka-Chun YAU",
+        "rank": "7",
+        "country": null,
+        "score": "19"
+    },
+    {
+        "athlete_name": "Bharath PEREIRA",
+        "rank": "8",
+        "country": null,
+        "score": "16"
+    }
+]

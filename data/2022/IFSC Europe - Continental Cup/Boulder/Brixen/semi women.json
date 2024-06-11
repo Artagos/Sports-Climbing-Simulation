@@ -1,0 +1,582 @@
+[
+    {
+        "rank": "1",
+        "name": "Julija KRUDER",
+        "age": "103",
+        "country": "SLO",
+        "score": "2T4z 3 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Lana SKUSEK",
+        "age": "165",
+        "country": "SLO",
+        "score": "2T3z 7 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Eliska ADAMOVSKA",
+        "age": "101",
+        "country": "CZE",
+        "score": "2T3z 9 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "6",
+                "zones": "6"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Yael TAUB",
+        "age": "107",
+        "country": "ISR",
+        "score": "2T2z 6 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "5",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Eva Maria HAMMELM\u00dcLLER",
+        "age": "105",
+        "country": "AUT",
+        "score": "1T3z 4 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "4",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Ievgeniia KAZBEKOVA",
+        "age": "152",
+        "country": "UKR",
+        "score": "1T3z 4 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Agathe CALLIET",
+        "age": "166",
+        "country": "FRA",
+        "score": "1T2z 1 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "1",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Sandra LETTNER",
+        "age": "151",
+        "country": "AUT",
+        "score": "1T2z 2 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Sara COPAR",
+        "age": "106",
+        "country": "SLO",
+        "score": "1T2z 2 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Ingrid KINDLIHAGEN",
+        "age": "155",
+        "country": "NOR",
+        "score": "1T1z 2 2",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Lily ABRIAT",
+        "age": "118",
+        "country": "FRA",
+        "score": "0T2z 0 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Irina DAZIANO",
+        "age": "108",
+        "country": "ITA",
+        "score": "0T2z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Selma ELHADJ MIMOUNE",
+        "age": "116",
+        "country": "FRA",
+        "score": "0T2z 0 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Anna Maria APEL",
+        "age": "167",
+        "country": "GER",
+        "score": "0T2z 0 12",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "8"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Giulia MEDICI",
+        "age": "158",
+        "country": "ITA",
+        "score": "0T1z 0 2",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Federica PAPETTI",
+        "age": "179",
+        "country": "ITA",
+        "score": "0T1z 0 3",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Francesca MATUELLA",
+        "age": "175",
+        "country": "ITA",
+        "score": "0T1z 0 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Thea CAMERON",
+        "age": "119",
+        "country": "GBR",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Miriam FOGU",
+        "age": "126",
+        "country": "ITA",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Natalie B\u00c4RTSCHI",
+        "age": "156",
+        "country": "SUI",
+        "score": "0T0z 0 0",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

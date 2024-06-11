@@ -1,0 +1,142 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "age": "45",
+        "country": "POL",
+        "scores": [
+            "6.24",
+            "6.37"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Capucine VIGLIONE",
+        "age": "34",
+        "country": "FRA",
+        "scores": [
+            "6.71",
+            "6.82"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Aleksandra KALUCKA",
+        "age": "46",
+        "country": "POL",
+        "scores": [
+            "FALL",
+            "6.77"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Natalia KALUCKA",
+        "age": "44",
+        "country": "POL",
+        "scores": [
+            "6.92",
+            "7.02"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Beatrice COLLI",
+        "age": "42",
+        "country": "ITA",
+        "scores": [
+            "7.07",
+            "7.15"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "age": "31",
+        "country": "ESP",
+        "scores": [
+            "7.12",
+            "7.45"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "age": "32",
+        "country": "ESP",
+        "scores": [
+            "7.27",
+            "8.46"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Lison GAUTRON",
+        "age": "33",
+        "country": "FRA",
+        "scores": [
+            "7.35",
+            "7.71"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Victoire ANDRIER",
+        "age": "35",
+        "country": "FRA",
+        "scores": [
+            "7.39",
+            "7.48"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Manon LEBON",
+        "age": "36",
+        "country": "FRA",
+        "scores": [
+            "7.45",
+            "7.46"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Patrycja CHUDZIAK",
+        "age": "43",
+        "country": "POL",
+        "scores": [
+            "FALL",
+            "7.45"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Oksana BUROVA",
+        "age": "47",
+        "country": "UKR",
+        "scores": [
+            "8.04",
+            "8.23"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Alina SHCHYHARIEVA",
+        "age": "48",
+        "country": "UKR",
+        "scores": [
+            "8.42",
+            "14.94"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Giulia RANDI",
+        "age": "41",
+        "country": "ITA",
+        "scores": [
+            "8.79",
+            "9.05"
+        ]
+    }
+]

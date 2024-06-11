@@ -1,0 +1,302 @@
+[
+    {
+        "rank": "1",
+        "name": "Ludovico FOSSALI",
+        "age": "73",
+        "country": "ITA",
+        "scores": [
+            "5.21",
+            "5.47"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Luca ROBBIATI",
+        "age": "75",
+        "country": "ITA",
+        "scores": [
+            "5.36",
+            "5.66"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Erik NOYA CARDONA",
+        "age": "57",
+        "country": "ESP",
+        "scores": [
+            "5.42",
+            "5.46"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Sebastian LUCKE",
+        "age": "72",
+        "country": "GER",
+        "scores": [
+            "5.43",
+            "5.51"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Yaroslav TKACH",
+        "age": "50",
+        "country": "UKR",
+        "scores": [
+            "5.45",
+            "5.55"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Alessandro BOULOS",
+        "age": "74",
+        "country": "ITA",
+        "scores": [
+            "5.51",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Kostiantyn PAVLENKO",
+        "age": "52",
+        "country": "UKR",
+        "scores": [
+            "5.59",
+            "5.66"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Hryhorii ILCHYSHYN",
+        "age": "51",
+        "country": "UKR",
+        "scores": [
+            "5.60",
+            "5.71"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Lawrence BOGESCHDORFER",
+        "age": "60",
+        "country": "AUT",
+        "scores": [
+            "5.67",
+            "5.73"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Miguel G\u00d3MEZ BARRIOS",
+        "age": "65",
+        "country": "ESP",
+        "scores": [
+            "5.68",
+            "5.76"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Unax UTERGA FLAMARIQUE",
+        "age": "64",
+        "country": "ESP",
+        "scores": [
+            "5.69",
+            "6.34"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Alessandro GIORGIANNI",
+        "age": "79",
+        "country": "ITA",
+        "scores": [
+            "5.74",
+            "5.86"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Marco RONTINI",
+        "age": "77",
+        "country": "ITA",
+        "scores": [
+            "5.75",
+            "5.83"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "age": "63",
+        "country": "ESP",
+        "scores": [
+            "5.78",
+            "5.82"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Aodhan UMLAUF",
+        "age": "71",
+        "country": "GER",
+        "scores": [
+            "5.83",
+            "5.85"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "J\u00e9r\u00f4me MOREL",
+        "age": "66",
+        "country": "FRA",
+        "scores": [
+            "5.84",
+            "5.98"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Paco LEHMANN",
+        "age": "67",
+        "country": "FRA",
+        "scores": [
+            "5.84",
+            "5.91"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Daniele BALESTRAZZI",
+        "age": "78",
+        "country": "ITA",
+        "scores": [
+            "5.87",
+            "6.69"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Zedler ANDRIN",
+        "age": "70",
+        "country": "GER",
+        "scores": [
+            "5.89",
+            "6.10"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Joshua BRUYNS",
+        "age": "58",
+        "country": "RSA",
+        "scores": [
+            "5.92",
+            "6.93"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Denys MOZOLEVYCH",
+        "age": "53",
+        "country": "UKR",
+        "scores": [
+            "5.93",
+            "6.05"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Dorian ZEDLER",
+        "age": "69",
+        "country": "GER",
+        "scores": [
+            "6.07",
+            "6.70"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Tobias PLANGGER",
+        "age": "59",
+        "country": "AUT",
+        "scores": [
+            "6.20",
+            "7.67"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Bartlomiej PODLEWSKI",
+        "age": "54",
+        "country": "POL",
+        "scores": [
+            "6.31",
+            "9.85"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Adriano EGIDI",
+        "age": "80",
+        "country": "ITA",
+        "scores": [
+            "6.40",
+            "10.28"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Maximilian WAGNER",
+        "age": "61",
+        "country": "AUT",
+        "scores": [
+            "6.58",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Max MENGUAL",
+        "age": "68",
+        "country": "FRA",
+        "scores": [
+            "6.83",
+            "8.20"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Robert ZAJAC",
+        "age": "56",
+        "country": "POL",
+        "scores": [
+            "7.04",
+            "7.12"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Oskar SZALECKI",
+        "age": "55",
+        "country": "POL",
+        "scores": [
+            "7.37",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Alexander BERGMANN",
+        "age": "62",
+        "country": "AUT",
+        "scores": [
+            "8.75",
+            "FALL"
+        ]
+    }
+]

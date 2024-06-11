@@ -1,0 +1,56 @@
+[
+    {
+        "athlete_name": "Colin DUFFY",
+        "rank": "1",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "Ao YURIKUSA",
+        "rank": "2",
+        "country": null,
+        "score": "37+ (3:14)"
+    },
+    {
+        "athlete_name": "Jesse GRUPPER",
+        "rank": "3",
+        "country": null,
+        "score": "37+ (4:28)"
+    },
+    {
+        "athlete_name": "Luka POTOCAR",
+        "rank": "4",
+        "country": null,
+        "score": "37"
+    },
+    {
+        "athlete_name": "Jakob SCHUBERT",
+        "rank": "5",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Satone YOSHIDA",
+        "rank": "6",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Yannick FLOHÉ",
+        "rank": "7",
+        "country": null,
+        "score": "31"
+    },
+    {
+        "athlete_name": "Alexander MEGOS",
+        "rank": "8",
+        "country": null,
+        "score": "28+"
+    },
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "9",
+        "country": null,
+        "score": "21+"
+    }
+]

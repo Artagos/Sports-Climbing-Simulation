@@ -1,0 +1,176 @@
+[
+    {
+        "rank": "1",
+        "name": "Rodrigo IASI HANADA",
+        "age": "42",
+        "country": "BRA",
+        "score": "2T4z 9 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "6",
+                "zones": "6"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Felipe HO FOGANHOLO",
+        "age": "43",
+        "country": "BRA",
+        "score": "1T4z 1 5",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Samuel Carlos DA SILVA",
+        "age": "40",
+        "country": "BRA",
+        "score": "1T3z 2 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Diego LEQUERICA BUSCAGLIA",
+        "age": "58",
+        "country": "PER",
+        "score": "0T3z 0 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Maximo Dario LORGER",
+        "age": "34",
+        "country": "ARG",
+        "score": "0T3z 0 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Gabriel LANCHEROS POVEDA",
+        "age": "47",
+        "country": "COL",
+        "score": "0T2z 0 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Vita LUKAN",
+        "rank": "1",
+        "country": null,
+        "score": "46"
+    },
+    {
+        "athlete_name": "Eliska ADAMOVSKA",
+        "rank": "2",
+        "country": null,
+        "score": "44+"
+    },
+    {
+        "athlete_name": "Manon HILY",
+        "rank": "3",
+        "country": null,
+        "score": "44+"
+    },
+    {
+        "athlete_name": "Nonoha KUME",
+        "rank": "4",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Molly THOMPSON-SMITH",
+        "rank": "5",
+        "country": null,
+        "score": "35"
+    },
+    {
+        "athlete_name": "Camille POUGET",
+        "rank": "6",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Martina DEMMEL",
+        "rank": "7",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "8",
+        "country": null,
+        "score": "12+"
+    }
+]

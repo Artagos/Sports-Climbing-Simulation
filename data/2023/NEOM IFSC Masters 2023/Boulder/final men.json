@@ -1,0 +1,176 @@
+[
+    {
+        "rank": "1",
+        "name": "Mejdi SCHALCK",
+        "age": "2",
+        "country": "FRA",
+        "score": "2T4z 6 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Edvards GRUZITIS",
+        "age": "7",
+        "country": "LAT",
+        "score": "2T4z 9 15",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "8",
+                "zones": "8"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Ritsu KAYOTANI",
+        "age": "4",
+        "country": "JPN",
+        "score": "1T4z 5 20",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "9"
+            },
+            {
+                "route_number": "2",
+                "tops": "5",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "9"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Mathieu TERNANT",
+        "age": "8",
+        "country": "FRA",
+        "score": "1T3z 6 9",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "6",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Manuel CORNU",
+        "age": "6",
+        "country": "FRA",
+        "score": "1T3z 7 15",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "7",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Jan-Luca POSCH",
+        "age": "5",
+        "country": "AUT",
+        "score": "0T1z 0 2",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

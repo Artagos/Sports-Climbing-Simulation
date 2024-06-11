@@ -1,0 +1,212 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "age": "41",
+        "country": "POL",
+        "scores": [
+            "FALL",
+            "6.53"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Beatrice COLLI",
+        "age": "36",
+        "country": "ITA",
+        "scores": [
+            "7.08",
+            "7.17"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "age": "28",
+        "country": "ESP",
+        "scores": [
+            "7.10",
+            "7.16"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Franziska RITTER",
+        "age": "31",
+        "country": "GER",
+        "scores": [
+            "7.16",
+            "11.48"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Patrycja CHUDZIAK",
+        "age": "39",
+        "country": "POL",
+        "scores": [
+            "7.17",
+            "7.26"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "age": "29",
+        "country": "ESP",
+        "scores": [
+            "7.19",
+            "7.29"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Maria SZWED",
+        "age": "40",
+        "country": "POL",
+        "scores": [
+            "FALL",
+            "7.78"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Daria TKACHOVA",
+        "age": "46",
+        "country": "UKR",
+        "scores": [
+            "7.80",
+            "9.22"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Erica PISCOPO",
+        "age": "35",
+        "country": "ITA",
+        "scores": [
+            "7.84",
+            "8.03"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Anna BROZEK",
+        "age": "38",
+        "country": "POL",
+        "scores": [
+            "FALL",
+            "7.86"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Daria MARCINIAK",
+        "age": "42",
+        "country": "POL",
+        "scores": [
+            "7.88",
+            "8.12"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Oksana BUROVA",
+        "age": "45",
+        "country": "UKR",
+        "scores": [
+            "7.93",
+            "15.17"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Julia KOCH",
+        "age": "32",
+        "country": "GER",
+        "scores": [
+            "8.18",
+            "8.19"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Giulia RANDI",
+        "age": "37",
+        "country": "ITA",
+        "scores": [
+            "FALL",
+            "8.35"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Nele THOMAS",
+        "age": "33",
+        "country": "GER",
+        "scores": [
+            "8.40",
+            "8.60"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Alina SHCHYHARIEVA",
+        "age": "44",
+        "country": "UKR",
+        "scores": [
+            "8.53",
+            "9.75"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Johanna NAGL",
+        "age": "26",
+        "country": "AUT",
+        "scores": [
+            "8.61",
+            "9.61"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Kseniia HORIELOVA",
+        "age": "43",
+        "country": "UKR",
+        "scores": [
+            "FALL",
+            "8.66"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Agnese FIORIO",
+        "age": "34",
+        "country": "ITA",
+        "scores": [
+            "8.83",
+            "9.89"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Lucie MRAZOVA",
+        "age": "27",
+        "country": "CZE",
+        "scores": [
+            "9.45",
+            "9.71"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Leire RU\u00cdZ DE ARGANDO\u00d1A OTANO",
+        "age": "30",
+        "country": "ESP",
+        "scores": [
+            "FALL",
+            "9.73"
+        ]
+    }
+]

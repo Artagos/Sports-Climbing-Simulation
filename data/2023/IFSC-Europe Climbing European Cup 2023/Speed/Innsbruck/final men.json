@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Marceau Garnier",
+                "country": "",
+                "time": "5.78"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.47"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.71"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Marceau Garnier",
+                "country": "",
+                "time": "5.77"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.37"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.31"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.84"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "8.74"
+            },
+            {
+                "name": "Marceau Garnier",
+                "country": "",
+                "time": "5.79"
+            },
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "8.36"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.39"
+            },
+            {
+                "name": "Luca Robbiati",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "5.70"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.42"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.66"
+            },
+            {
+                "name": "Jan Kriz",
+                "country": "",
+                "time": "5.95"
+            },
+            {
+                "name": "Rafe Stokes",
+                "country": "",
+                "time": "9.59"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "6.81"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "7.06"
+            },
+            {
+                "name": "Marceau Garnier",
+                "country": "",
+                "time": "6.05"
+            },
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "5.87"
+            },
+            {
+                "name": "Denys Mozolevych",
+                "country": "",
+                "time": "6.57"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.70"
+            },
+            {
+                "name": "Andrea Bortolotto",
+                "country": "",
+                "time": "10.87"
+            },
+            {
+                "name": "Marco Rontini",
+                "country": "",
+                "time": "6.42"
+            },
+            {
+                "name": "Luca Robbiati",
+                "country": "",
+                "time": "5.92"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "5.97"
+            },
+            {
+                "name": "Linus Bader",
+                "country": "",
+                "time": "10.05"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Unax Uterga Flamarique",
+                "country": "",
+                "time": "5.80"
+            }
+        ]
+    }
+]

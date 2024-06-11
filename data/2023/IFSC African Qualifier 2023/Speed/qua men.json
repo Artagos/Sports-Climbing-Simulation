@@ -1,0 +1,74 @@
+[
+    {
+        "rank": "1",
+        "name": "Joshua BRUYNS",
+        "country": "11 \u2022 RSA",
+        "scores": [
+            "FALL",
+            "7.44"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "John-David MULLER",
+        "country": "12 \u2022 RSA",
+        "scores": [
+            "7.90",
+            "8.08"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "John STUCKEN",
+        "country": "14 \u2022 RSA",
+        "scores": [
+            "8.12",
+            "8.16"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Joseph GIBBON",
+        "country": "13 \u2022 RSA",
+        "scores": [
+            "FALL",
+            "9.11"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Dylan ODGERS",
+        "country": "16 \u2022 RSA",
+        "scores": [
+            "10.10",
+            "10.39"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Luke WESTMAN",
+        "country": "17 \u2022 RSA",
+        "scores": [
+            "10.48",
+            "13.62"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Victor ELLIS",
+        "country": "18 \u2022 RSA",
+        "scores": [
+            "11.62",
+            "12.05"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Ethan VERNON",
+        "country": "19 \u2022 RSA",
+        "scores": [
+            "FALL",
+            "18.27"
+        ]
+    }
+]

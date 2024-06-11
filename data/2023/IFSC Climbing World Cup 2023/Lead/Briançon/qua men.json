@@ -1,0 +1,382 @@
+[
+  {
+    "athlete_name": "Sorato ANRAKU",
+    "Time": "1.94",
+    "Extra": "TOP (1)R1 TOP (1)R2"
+  },
+  {
+    "athlete_name": "Satone YOSHIDA",
+    "Time": "3.24",
+    "Extra": "TOP (1)R1 40+ (6)R2"
+  },
+  {
+    "athlete_name": "Taisei HOMMA",
+    "Time": "3.54",
+    "Extra": "45+ (3)R1 TOP (1)R2"
+  },
+  {
+    "athlete_name": "Shion OMATA",
+    "Time": "3.54",
+    "Extra": "45+ (3)R1 TOP (1)R2"
+  },
+  {
+    "athlete_name": "Ao YURIKUSA",
+    "Time": "3.54",
+    "Extra": "45+ (3)R1 TOP (1)R2"
+  },
+  {
+    "athlete_name": "Masahiro HIGUCHI",
+    "Time": "6.71",
+    "Extra": "45+ (3)R1 40 (9)R2"
+  },
+  {
+    "athlete_name": "Luka POTOCAR",
+    "Time": "8.94",
+    "Extra": "40+ (13)R1 43+ (5)R2"
+  },
+  {
+    "athlete_name": "Yoshiyuki OGATA",
+    "Time": "9.75",
+    "Extra": "45+ (3)R1 36 (17)R2"
+  },
+  {
+    "athlete_name": "Sebastian HALENKE",
+    "Time": "10.0",
+    "Extra": "42 (10)R1 37+ (10)R2"
+  },
+  {
+    "athlete_name": "Hannes PUMAN",
+    "Time": "11.42",
+    "Extra": "43+ (9)R1 36+ (13)R2"
+  },
+  {
+    "athlete_name": "Ravianto RAMADHAN",
+    "Time": "11.5",
+    "Extra": "41+ (11)R1 37 (11)R2"
+  },
+  {
+    "athlete_name": "Hamish MCARTHUR",
+    "Time": "12.33",
+    "Extra": "45 (8)R1 36 (17)R2"
+  },
+  {
+    "athlete_name": "Jules MARCHALAND",
+    "Time": "12.91",
+    "Extra": "41+ (11)R1 36+ (13)R2"
+  },
+  {
+    "athlete_name": "Yunchan SONG",
+    "Time": "13.1",
+    "Extra": "39+ (24)R1 40+ (6)R2"
+  },
+  {
+    "athlete_name": "Haruki UEMURA",
+    "Time": "15.23",
+    "Extra": "40+ (13)R1 36+ (13)R2"
+  },
+  {
+    "athlete_name": "Stefano GHISOLFI",
+    "Time": "17.66",
+    "Extra": "40 (20)R1 36+ (13)R2"
+  },
+  {
+    "athlete_name": "Arsène DUVAL",
+    "Time": "18.42",
+    "Extra": "36 (29)R1 37 (11)R2"
+  },
+  {
+    "athlete_name": "Sean MCCOLL",
+    "Time": "20.0",
+    "Extra": "40+ (13)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Nao MONCHOIS",
+    "Time": "20.0",
+    "Extra": "40+ (13)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Yufei PAN",
+    "Time": "20.0",
+    "Extra": "40+ (13)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "James POPE",
+    "Time": "20.0",
+    "Extra": "40+ (13)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Neo SUZUKI",
+    "Time": "20.0",
+    "Extra": "40+ (13)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Campbell HARRISON",
+    "Time": "20.21",
+    "Extra": "40 (20)R1 36 (17)R2"
+  },
+  {
+    "athlete_name": "Ties VANCRAEYNEST",
+    "Time": "22.91",
+    "Extra": "9+ (75)R1 40+ (6)R2"
+  },
+  {
+    "athlete_name": "Giorgio TOMATIS",
+    "Time": "25.42",
+    "Extra": "33 (34)R1 36 (17)R2"
+  },
+  {
+    "athlete_name": "Jordi POLES",
+    "Time": "26.64",
+    "Extra": "40 (20)R1 33+ (31)R2"
+  },
+  {
+    "athlete_name": "Philipp MARTIN",
+    "Time": "28.43",
+    "Extra": "39+ (24)R1 33+ (31)R2"
+  },
+  {
+    "athlete_name": "Martin STRANIK",
+    "Time": "29.75",
+    "Extra": "36 (29)R1 34+ (30)R2"
+  },
+  {
+    "athlete_name": "Auswin AUEAREECHIT",
+    "Time": "29.85",
+    "Extra": "38+ (26)R1 33+ (31)R2"
+  },
+  {
+    "athlete_name": "Milan PRESKAR",
+    "Time": "30.23",
+    "Extra": "40 (20)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Nino GRÜNENFELDER",
+    "Time": "30.41",
+    "Extra": "32 (37)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Christoph HANKE",
+    "Time": "30.7",
+    "Extra": "33+ (32)R1 35 (29)R2"
+  },
+  {
+    "athlete_name": "Davide Marco COLOMBO",
+    "Time": "32.03",
+    "Extra": "24 (54)R1 36 (17)R2"
+  },
+  {
+    "athlete_name": "Hugo PARMENTIER",
+    "Time": "33.87",
+    "Extra": "38+ (26)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Raviandi RAMADHAN",
+    "Time": "34.1",
+    "Extra": "28 (46)R1 35+ (22)R2"
+  },
+  {
+    "athlete_name": "Dimitri FLICK",
+    "Time": "35.75",
+    "Extra": "32+ (35)R1 33 (36)R2"
+  },
+  {
+    "athlete_name": "Martin BERGANT",
+    "Time": "36.3",
+    "Extra": "35+ (31)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Nikolay RUSEV",
+    "Time": "37.17",
+    "Extra": "33+ (32)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Jeremy BONDER",
+    "Time": "38.84",
+    "Extra": "32+ (35)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Oscar BAUDRAND",
+    "Time": "40.42",
+    "Extra": "25+ (48)R1 33+ (31)R2"
+  },
+  {
+    "athlete_name": "Felipe HO FOGANHOLO",
+    "Time": "43.15",
+    "Extra": "31 (38)R1 32 (49)R2"
+  },
+  {
+    "athlete_name": "Mathias POSCH",
+    "Time": "43.24",
+    "Extra": "28+ (43)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Romaric GEFFROY",
+    "Time": "44.4",
+    "Extra": "38+ (26)R1 13+ (72)R2"
+  },
+  {
+    "athlete_name": "Mickael MAWEM",
+    "Time": "45.61",
+    "Extra": "30+ (39)R1 31+ (50)R2"
+  },
+  {
+    "athlete_name": "Mikel Asier LINACISORO MOLINA",
+    "Time": "45.87",
+    "Extra": "25+ (48)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Zan LOVENJAK SUDAR",
+    "Time": "45.87",
+    "Extra": "25+ (48)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Slav KIROV",
+    "Time": "46.73",
+    "Extra": "29 (42)R1 31+ (50)R2"
+  },
+  {
+    "athlete_name": "Fredrik SERLACHIUS",
+    "Time": "47.83",
+    "Extra": "28+ (43)R1 31+ (50)R2"
+  },
+  {
+    "athlete_name": "Yuval SHEMLA",
+    "Time": "48.23",
+    "Extra": "18 (70)R1 33+ (31)R2"
+  },
+  {
+    "athlete_name": "Arno LUYPAERT",
+    "Time": "48.79",
+    "Extra": "23+ (55)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Simon POTUCEK",
+    "Time": "48.79",
+    "Extra": "23+ (55)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Minsung HAN",
+    "Time": "49.19",
+    "Extra": "30+ (39)R1 27+ (59)R2"
+  },
+  {
+    "athlete_name": "Adrien LEMAIRE",
+    "Time": "50.07",
+    "Extra": "23 (58)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Gabriele MORONI",
+    "Time": "50.57",
+    "Extra": "28 (46)R1 31 (55)R2"
+  },
+  {
+    "athlete_name": "Victor BAUDRAND",
+    "Time": "50.73",
+    "Extra": "25+ (48)R1 31+ (50)R2"
+  },
+  {
+    "athlete_name": "Hugo HOYER",
+    "Time": "52.25",
+    "Extra": "25 (52)R1 31+ (50)R2"
+  },
+  {
+    "athlete_name": "Joseph XIBERRAS",
+    "Time": "52.56",
+    "Extra": "21+ (62)R1 32+ (37)R2"
+  },
+  {
+    "athlete_name": "Louis GUNDOLF",
+    "Time": "53.29",
+    "Extra": "30+ (39)R1 16 (71)R2"
+  },
+  {
+    "athlete_name": "Anze PEHARC",
+    "Time": "54.46",
+    "Extra": "25 (52)R1 30+ (56)R2"
+  },
+  {
+    "athlete_name": "Luca BOLDRINI",
+    "Time": "56.25",
+    "Extra": "23+ (55)R1 30+ (56)R2"
+  },
+  {
+    "athlete_name": "Johannes HOFHERR",
+    "Time": "56.67",
+    "Extra": "28+ (43)R1 13+ (72)R2"
+  },
+  {
+    "athlete_name": "Jack MACDOUGALL",
+    "Time": "61.4",
+    "Extra": "21+ (62)R1 30 (58)R2"
+  },
+  {
+    "athlete_name": "Santiago DE ALBA FLORES",
+    "Time": "61.45",
+    "Extra": "23 (58)R1 26+ (64)R2"
+  },
+  {
+    "athlete_name": "Nimród Sebestyén TUSNÁDY",
+    "Time": "61.93",
+    "Extra": "23 (58)R1 24+ (65)R2"
+  },
+  {
+    "athlete_name": "Lautaro Nicolás SORIA SANCHEZ",
+    "Time": "62.71",
+    "Extra": "21+ (62)R1 27+ (59)R2"
+  },
+  {
+    "athlete_name": "Bautista GREGORINI",
+    "Time": "64.88",
+    "Extra": "22 (61)R1 19+ (68)R2"
+  },
+  {
+    "athlete_name": "Aiden YANEV",
+    "Time": "65.5",
+    "Extra": "21+ (62)R1 24 (66)R2"
+  },
+  {
+    "athlete_name": "Michael O'NEILL",
+    "Time": "65.99",
+    "Extra": "21+ (62)R1 21 (67)R2"
+  },
+  {
+    "athlete_name": "Diego LEQUERICA BUSCAGLIA",
+    "Time": "66.0",
+    "Extra": "15+ (72)R1 27+ (59)R2"
+  },
+  {
+    "athlete_name": "Gholamali BARATZADEH",
+    "Time": "66.97",
+    "Extra": "21+ (62)R1 19+ (68)R2"
+  },
+  {
+    "athlete_name": "Rodrigo IASI HANADA",
+    "Time": "67.81",
+    "Extra": "6+ (76)R1 27+ (59)R2"
+  },
+  {
+    "athlete_name": "Emiliano TORRIJO",
+    "Time": "68.28",
+    "Extra": "12+ (74)R1 27 (63)R2"
+  },
+  {
+    "athlete_name": "André NERES",
+    "Time": "68.88",
+    "Extra": "21+ (62)R1 13+ (72)R2"
+  },
+  {
+    "athlete_name": "Benjamin AYALA",
+    "Time": "69.0",
+    "Extra": "19+ (69)R1 19+ (68)R2"
+  },
+  {
+    "athlete_name": "Diego Ernesto VÁZQUEZ",
+    "Time": "72.72",
+    "Extra": "18 (70)R1 12+ (75)R2"
+  },
+  {
+    "athlete_name": "Gustavo CUNHA",
+    "Time": "74.48",
+    "Extra": "14+ (73)R1 11 (76)R2"
+  }
+]

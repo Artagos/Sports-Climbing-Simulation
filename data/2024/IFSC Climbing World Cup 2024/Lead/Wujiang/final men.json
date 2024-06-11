@@ -1,0 +1,56 @@
+[
+    {
+        "athlete_name": "Toby ROBERTS",
+        "rank": "1",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "2",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Sorato ANRAKU",
+        "rank": "3",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Zento MURASHITA",
+        "rank": "4",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "5",
+        "country": null,
+        "score": "24"
+    },
+    {
+        "athlete_name": "Hannes VAN DUYSEN",
+        "rank": "6",
+        "country": null,
+        "score": "24"
+    },
+    {
+        "athlete_name": "Shuta TANAKA",
+        "rank": "7",
+        "country": null,
+        "score": "23+"
+    },
+    {
+        "athlete_name": "Maximillian MILNE",
+        "rank": "8",
+        "country": null,
+        "score": "23+"
+    },
+    {
+        "athlete_name": "Shion OMATA",
+        "rank": "9",
+        "country": null,
+        "score": "21+"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "rank": "1",
+        "name": "Yaroslav TKACH",
+        "age": "28",
+        "country": "UKR",
+        "scores": [
+            "5.30",
+            "5.61"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Erik NOYA CARDONA",
+        "age": "25",
+        "country": "ESP",
+        "scores": [
+            "5.52",
+            "5.59"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Leander CARMANNS",
+        "age": "3",
+        "country": "GER",
+        "scores": [
+            "5.57",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Lukas KNAPP",
+        "age": "13",
+        "country": "AUT",
+        "scores": [
+            "5.62",
+            "7.38"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Tobias PLANGGER",
+        "age": "2",
+        "country": "AUT",
+        "scores": [
+            "5.64",
+            "6.35"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Hryhorii ILCHYSHYN",
+        "age": "7",
+        "country": "UKR",
+        "scores": [
+            "5.72",
+            "5.80"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Marco RONTINI",
+        "age": "18",
+        "country": "ITA",
+        "scores": [
+            "5.76",
+            "7.37"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Rafe STOKES",
+        "age": "12",
+        "country": "GBR",
+        "scores": [
+            "5.78",
+            "9.26"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Kostiantyn PAVLENKO",
+        "age": "26",
+        "country": "UKR",
+        "scores": [
+            "5.79",
+            "6.01"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Luca ROBBIATI",
+        "age": "9",
+        "country": "ITA",
+        "scores": [
+            "5.80",
+            "6.12"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Unax UTERGA FLAMARIQUE",
+        "age": "14",
+        "country": "ESP",
+        "scores": [
+            "5.98",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Denys MOZOLEVYCH",
+        "age": "11",
+        "country": "UKR",
+        "scores": [
+            "5.99",
+            "6.29"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Marceau GARNIER",
+        "age": "20",
+        "country": "FRA",
+        "scores": [
+            "6.08",
+            "6.26"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Linus BADER",
+        "age": "17",
+        "country": "GER",
+        "scores": [
+            "6.17",
+            "7.08"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Andrea BORTOLOTTO",
+        "age": "6",
+        "country": "ITA",
+        "scores": [
+            "6.17",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Jan KRIZ",
+        "age": "16",
+        "country": "CZE",
+        "scores": [
+            "6.19",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Alejo BERNAB\u00c9 FERN\u00c1NDEZ",
+        "age": "19",
+        "country": "ESP",
+        "scores": [
+            "6.22",
+            "6.72"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Aodhan UMLAUF",
+        "age": "4",
+        "country": "GER",
+        "scores": [
+            "6.44",
+            "10.61"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Vincent STUMMREITER",
+        "age": "8",
+        "country": "GER",
+        "scores": [
+            "6.48",
+            "6.52"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Kevin AMON",
+        "age": "10",
+        "country": "AUT",
+        "scores": [
+            "6.89",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Lukas WINDISCHER",
+        "age": "27",
+        "country": "AUT",
+        "scores": [
+            "6.99",
+            "7.02"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Alexander BERGMANN",
+        "age": "1",
+        "country": "AUT",
+        "scores": [
+            "7.19",
+            "8.17"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Vojtech VRZAL",
+        "age": "5",
+        "country": "CZE",
+        "scores": [
+            "7.25",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Petr BURIAN",
+        "age": "23",
+        "country": "CZE",
+        "scores": [
+            "7.32",
+            "7.85"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Alberto GARC\u00cdA RODR\u00cdGUEZ DE SEP\u00daLVEDA",
+        "age": "15",
+        "country": "ESP",
+        "scores": [
+            "7.42",
+            "8.51"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Jan SIMUNEK",
+        "age": "21",
+        "country": "CZE",
+        "scores": [
+            "7.46",
+            "12.88"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Raoul WALTENSP\u00dcHL",
+        "age": "22",
+        "country": "SUI",
+        "scores": [
+            "7.52",
+            "8.81"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Andrea BIASSONI",
+        "age": "24",
+        "country": "ITA",
+        "scores": [
+            "7.83",
+            "9.00"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Lawrence BOGESCHDORFER",
+        "age": "29",
+        "country": "AUT",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    }
+]

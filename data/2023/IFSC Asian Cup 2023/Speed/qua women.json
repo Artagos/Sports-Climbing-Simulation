@@ -1,0 +1,47 @@
+[
+    {
+        "rank": "1",
+        "name": "Hung Ying LEE",
+        "country": "24 \u2022 TPE",
+        "scores": [
+            "8.96",
+            "9.82"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Shivpreet PANNU",
+        "country": "22 \u2022 IND",
+        "scores": [
+            "10.19",
+            "13.35"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Anisha VERMA",
+        "country": "23 \u2022 IND",
+        "scores": [
+            "11.34",
+            "11.58"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Amani JANNAT",
+        "country": "25 \u2022 PAK",
+        "scores": [
+            "15.25",
+            "16.28"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Iqra JILANI",
+        "country": "21 \u2022 PAK",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    }
+]

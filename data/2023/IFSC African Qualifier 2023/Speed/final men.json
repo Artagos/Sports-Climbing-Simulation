@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Joshua Bruyns",
+                "country": "",
+                "time": "7.16"
+            },
+            {
+                "name": "John Stucken",
+                "country": "",
+                "time": "7.55"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Joseph Gibbon",
+                "country": "",
+                "time": "8.30"
+            },
+            {
+                "name": "John-David Muller",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Joshua Bruyns",
+                "country": "",
+                "time": "7.28"
+            },
+            {
+                "name": "Joseph Gibbon",
+                "country": "",
+                "time": "8.58"
+            },
+            {
+                "name": "John-David Muller",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "John Stucken",
+                "country": "",
+                "time": "8.57"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Joshua Bruyns",
+                "country": "",
+                "time": "11.99"
+            },
+            {
+                "name": "Ethan Vernon",
+                "country": "",
+                "time": "18.35"
+            },
+            {
+                "name": "Joseph Gibbon",
+                "country": "",
+                "time": "9.91"
+            },
+            {
+                "name": "Dylan Odgers",
+                "country": "",
+                "time": "11.47"
+            },
+            {
+                "name": "John-David Muller",
+                "country": "",
+                "time": "8.75"
+            },
+            {
+                "name": "Victor Ellis",
+                "country": "",
+                "time": "11.52"
+            },
+            {
+                "name": "John Stucken",
+                "country": "",
+                "time": "9.30"
+            },
+            {
+                "name": "Luke Westman",
+                "country": "",
+                "time": "10.14"
+            }
+        ]
+    }
+]

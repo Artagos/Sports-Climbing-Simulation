@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Leslie Adriana Romero Pérez",
+                "country": "",
+                "time": "9.29"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "FALSE START"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Leslie Adriana Romero Pérez",
+                "country": "",
+                "time": "7.65"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "7.79"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "8.35"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "7.66"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Leslie Adriana Romero Pérez",
+                "country": "",
+                "time": "7.72"
+            },
+            {
+                "name": "Julia Koch",
+                "country": "",
+                "time": "8.14"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "María Laborda Sagaste",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "7.66"
+            },
+            {
+                "name": "Sofia Bellesini",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "FALSE START"
+            }
+        ]
+    }
+]

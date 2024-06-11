@@ -1,0 +1,176 @@
+[
+    {
+        "rank": "1",
+        "name": "Ryu NAKAGAWA",
+        "age": "50",
+        "country": "JPN",
+        "score": "4T4z 17 13",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "4",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "7",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "5",
+                "zones": "5"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Mao NAKAMURA",
+        "age": "47",
+        "country": "JPN",
+        "score": "3T4z 9 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "5",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "7"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Mia AOYAGI",
+        "age": "48",
+        "country": "JPN",
+        "score": "2T4z 7 16",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "3"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "5",
+                "zones": "5"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Nonoha KUME",
+        "age": "75",
+        "country": "JPN",
+        "score": "2T3z 3 10",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Giulia MEDICI",
+        "age": "56",
+        "country": "ITA",
+        "score": "2T3z 10 15",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "6"
+            },
+            {
+                "route_number": "3",
+                "tops": "8",
+                "zones": "8"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Cloe COSCOY",
+        "age": "46",
+        "country": "USA",
+        "score": "0T2z 0 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "7"
+            },
+            {
+                "route_number": "2",
+                "tops": "",
+                "zones": "4"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": ""
+            }
+        ]
+    }
+]

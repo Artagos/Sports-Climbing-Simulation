@@ -1,0 +1,146 @@
+[
+    {
+        "rank": "1",
+        "name": "Matteo ZURLONI",
+        "country": "110 \u2022 ITA",
+        "scores": [
+            "5.58",
+            "5.92"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Gian Luca ZODDA",
+        "country": "112 \u2022 ITA",
+        "scores": [
+            "5.64",
+            "5.89"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Alessandro BOULOS",
+        "country": "109 \u2022 ITA",
+        "scores": [
+            "5.75",
+            "5.99"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Kostiantyn PAVLENKO",
+        "country": "117 \u2022 UKR",
+        "scores": [
+            "5.86",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Lukas KNAPP",
+        "country": "103 \u2022 AUT",
+        "scores": [
+            "5.96",
+            "6.13"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Alessandro CINGARI",
+        "country": "111 \u2022 ITA",
+        "scores": [
+            "6.17",
+            "6.53"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Kevin AMON",
+        "country": "102 \u2022 AUT",
+        "scores": [
+            "6.21",
+            "6.39"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Lawrence BOGESCHDORFER",
+        "country": "101 \u2022 AUT",
+        "scores": [
+            "6.25",
+            "8.94"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "country": "104 \u2022 ESP",
+        "scores": [
+            "6.37",
+            "6.77"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Hryhorii ILCHYSHYN",
+        "country": "115 \u2022 UKR",
+        "scores": [
+            "6.48",
+            "9.53"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Dorian ZEDLER",
+        "country": "108 \u2022 GER",
+        "scores": [
+            "6.52",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Joshua BRUYNS",
+        "country": "114 \u2022 RSA",
+        "scores": [
+            "6.80",
+            "10.37"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Jakob SCHIEFER",
+        "country": "107 \u2022 GER",
+        "scores": [
+            "6.88",
+            "7.84"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Alejo BERNAB\u00c9 FERN\u00c1NDEZ",
+        "country": "105 \u2022 ESP",
+        "scores": [
+            "6.95",
+            "10.34"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Hubert PRZYTULA",
+        "country": "113 \u2022 POL",
+        "scores": [
+            "7.07",
+            "7.21"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Vincent STUMMREITER",
+        "country": "106 \u2022 GER",
+        "scores": [
+            "7.12",
+            "8.12"
+        ]
+    }
+]

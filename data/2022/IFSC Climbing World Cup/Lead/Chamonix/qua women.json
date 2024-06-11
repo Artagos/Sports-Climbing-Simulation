@@ -1,0 +1,417 @@
+[
+    {
+        "athlete_name": "Janja GARNBRET",
+        "Time": "5.05",
+        "Extra": "TOP (1)R1 TOP (1)R2"
+    },
+    {
+        "athlete_name": "Natalia GROSSMAN",
+        "Time": "5.05",
+        "Extra": "TOP (1)R1 TOP (1)R2"
+    },
+    {
+        "athlete_name": "Brooke RABOUTOU",
+        "Time": "5.05",
+        "Extra": "TOP (1)R1 TOP (1)R2"
+    },
+    {
+        "athlete_name": "Chaehyun SEO",
+        "Time": "5.05",
+        "Extra": "TOP (1)R1 TOP (1)R2"
+    },
+    {
+        "athlete_name": "Aleksandra TOTKOVA",
+        "Time": "5.05",
+        "Extra": "TOP (1)R1 TOP (1)R2"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "Time": "8.25",
+        "Extra": "TOP (1)R1 37+ (7)R2"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "Time": "8.25",
+        "Extra": "TOP (1)R1 37+ (7)R2"
+    },
+    {
+        "athlete_name": "Hélène JANICOT",
+        "Time": "11.48",
+        "Extra": "TOP (1)R1 33+ (15)R2"
+    },
+    {
+        "athlete_name": "Vita LUKAN",
+        "Time": "11.48",
+        "Extra": "TOP (1)R1 33+ (15)R2"
+    },
+    {
+        "athlete_name": "Manon HILY",
+        "Time": "12.0",
+        "Extra": "39+ (17)R1 37+ (7)R2"
+    },
+    {
+        "athlete_name": "Mei KOTAKE",
+        "Time": "12.37",
+        "Extra": "TOP (1)R1 31+ (17)R2"
+    },
+    {
+        "athlete_name": "Risa OTA",
+        "Time": "12.37",
+        "Extra": "TOP (1)R1 31+ (17)R2"
+    },
+    {
+        "athlete_name": "Camille POUGET",
+        "Time": "13.42",
+        "Extra": "39+ (17)R1 35 (10)R2"
+    },
+    {
+        "athlete_name": "Molly THOMPSON-SMITH",
+        "Time": "15.81",
+        "Extra": "37 (20)R1 34+ (11)R2"
+    },
+    {
+        "athlete_name": "Melina COSTANZA",
+        "Time": "16.49",
+        "Extra": "TOP (1)R1 28 (32)R2"
+    },
+    {
+        "athlete_name": "Futaba ITO",
+        "Time": "17.32",
+        "Extra": "35+ (23)R1 34+ (11)R2"
+    },
+    {
+        "athlete_name": "Zhilu LUO",
+        "Time": "17.32",
+        "Extra": "35+ (23)R1 34+ (11)R2"
+    },
+    {
+        "athlete_name": "Eliska ADAMOVSKA",
+        "Time": "18.49",
+        "Extra": "24 (57)R1 39 (6)R2"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "Time": "20.72",
+        "Extra": "TOP (1)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Giorgia TESIO",
+        "Time": "22.48",
+        "Extra": "36+ (21)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Ryu NAKAGAWA",
+        "Time": "22.86",
+        "Extra": "TOP (1)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Lucka RAKOVEC",
+        "Time": "22.86",
+        "Extra": "TOP (1)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Laura ROGORA",
+        "Time": "22.86",
+        "Extra": "TOP (1)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Miu KAKIZAKI",
+        "Time": "23.24",
+        "Extra": "33+ (28)R1 31+ (17)R2"
+    },
+    {
+        "athlete_name": "Quinn MASON",
+        "Time": "23.58",
+        "Extra": "29+ (42)R1 34+ (11)R2"
+    },
+    {
+        "athlete_name": "Gayeong OH",
+        "Time": "23.75",
+        "Extra": "35+ (23)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Salomé ROMAIN",
+        "Time": "24.37",
+        "Extra": "39+ (17)R1 27+ (33)R2"
+    },
+    {
+        "athlete_name": "Michelle HULLIGER",
+        "Time": "26.55",
+        "Extra": "33+ (28)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Claudia GHISOLFI",
+        "Time": "27.69",
+        "Extra": "34+ (26)R1 28+ (28)R2"
+    },
+    {
+        "athlete_name": "Anne-Sophie KOLLER",
+        "Time": "28.27",
+        "Extra": "32+ (33)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Alannah YIP",
+        "Time": "29.75",
+        "Extra": "33+ (28)R1 28+ (28)R2"
+    },
+    {
+        "athlete_name": "Tjasa SLEMENSEK",
+        "Time": "30.08",
+        "Extra": "30+ (36)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Stasa GEJO",
+        "Time": "32.34",
+        "Extra": "29+ (42)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Eva Maria HAMMELMÜLLER",
+        "Time": "32.34",
+        "Extra": "29+ (42)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Sol SA",
+        "Time": "32.34",
+        "Extra": "29+ (42)R1 30+ (20)R2"
+    },
+    {
+        "athlete_name": "Julia CHANOURDIE",
+        "Time": "33.27",
+        "Extra": "34 (27)R1 24+ (40)R2"
+    },
+    {
+        "athlete_name": "Käthe ATKINS",
+        "Time": "33.7",
+        "Extra": "30+ (36)R1 28+ (28)R2"
+    },
+    {
+        "athlete_name": "Ilaria SCOLARIS",
+        "Time": "36.36",
+        "Extra": "36+ (21)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Yuetong ZHANG",
+        "Time": "38.92",
+        "Extra": "33+ (28)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Noa SHIRAN",
+        "Time": "39.75",
+        "Extra": "29+ (42)R1 26+ (35)R2"
+    },
+    {
+        "athlete_name": "Roxana WIENAND",
+        "Time": "40.64",
+        "Extra": "25+ (56)R1 28+ (28)R2"
+    },
+    {
+        "athlete_name": "Nolwenn ARC",
+        "Time": "41.44",
+        "Extra": "32+ (33)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Lana SKUSEK",
+        "Time": "42.95",
+        "Extra": "33+ (28)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Louna DESHAYES",
+        "Time": "43.08",
+        "Extra": "28+ (48)R1 25+ (37)R2"
+    },
+    {
+        "athlete_name": "Babette ROY",
+        "Time": "43.17",
+        "Extra": "27+ (52)R1 26+ (35)R2"
+    },
+    {
+        "athlete_name": "Kyra CONDIE",
+        "Time": "45.17",
+        "Extra": "22+ (60)R1 27 (34)R2"
+    },
+    {
+        "athlete_name": "Maya DREAMER",
+        "Time": "45.21",
+        "Extra": "26 (54)R1 25+ (37)R2"
+    },
+    {
+        "athlete_name": "Valeri KREMER",
+        "Time": "45.73",
+        "Extra": "32+ (33)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Ina PLASSOUX DJIGA",
+        "Time": "47.2",
+        "Extra": "28+ (48)R1 19 (44)R2"
+    },
+    {
+        "athlete_name": "Valentina AGUADO",
+        "Time": "47.77",
+        "Extra": "23+ (58)R1 25 (39)R2"
+    },
+    {
+        "athlete_name": "Rebecca FRANGOS",
+        "Time": "48.61",
+        "Extra": "27+ (52)R1 19 (44)R2"
+    },
+    {
+        "athlete_name": "Momoko ABE",
+        "Time": "48.66",
+        "Extra": "30+ (36)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Indiana CHAPMAN",
+        "Time": "48.66",
+        "Extra": "30+ (36)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Martina DEMMEL",
+        "Time": "48.66",
+        "Extra": "30+ (36)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Yejoo SEO",
+        "Time": "48.66",
+        "Extra": "30+ (36)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Valentine MANGIN",
+        "Time": "50.0",
+        "Extra": "28+ (48)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Mattea PÖTZI",
+        "Time": "50.0",
+        "Extra": "28+ (48)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Aida TORRES ILLAMOLA",
+        "Time": "50.62",
+        "Extra": "21+ (61)R1 24+ (40)R2"
+    },
+    {
+        "athlete_name": "Lucie VAILLANT BULTEL",
+        "Time": "50.62",
+        "Extra": "21+ (61)R1 24+ (40)R2"
+    },
+    {
+        "athlete_name": "Kylie CULLEN",
+        "Time": "52.31",
+        "Extra": "29+ (42)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Jennifer WOOD",
+        "Time": "53.87",
+        "Extra": "21 (65)R1 23 (43)R2"
+    },
+    {
+        "athlete_name": "Luisa FLOHÉ",
+        "Time": "54.35",
+        "Extra": "23+ (58)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Margarita AGAMBAYEVA",
+        "Time": "55.11",
+        "Extra": "21 (65)R1 19 (44)R2"
+    },
+    {
+        "athlete_name": "Naama YOHAI",
+        "Time": "56.18",
+        "Extra": "21+ (61)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Sukma LINTANG CAHYANI",
+        "Time": "57.89",
+        "Extra": "26 (54)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Thea CAMERON",
+        "Time": "58.38",
+        "Extra": "21 (65)R1 18+ (47)R2"
+    },
+    {
+        "athlete_name": "Joanna NEAME",
+        "Time": "64.43",
+        "Extra": "21 (65)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Hongchun XIANG",
+        "Time": "66.61",
+        "Extra": "21+ (61)R1 17 (71)R2"
+    },
+    {
+        "athlete_name": "Zihan HUANG",
+        "Time": "67.46",
+        "Extra": "20 (74)R1 18 (55)R2"
+    },
+    {
+        "athlete_name": "Emi TAKASHIBA",
+        "Time": "68.49",
+        "Extra": "21 (65)R1 17+ (69)R2"
+    },
+    {
+        "athlete_name": "Nur KHALISHAH",
+        "Time": "70.44",
+        "Extra": "21 (65)R1 16 (73)R2"
+    },
+    {
+        "athlete_name": "Yajun HUANG",
+        "Time": "70.74",
+        "Extra": "20+ (71)R1 17+ (69)R2"
+    },
+    {
+        "athlete_name": "Elizabeth SEPULVEDA",
+        "Time": "72.0",
+        "Extra": "20+ (71)R1 16+ (72)R2"
+    },
+    {
+        "athlete_name": "Bianca MAGALHAES DE CASTRO",
+        "Time": "73.73",
+        "Extra": "20+ (71)R1 15+ (75)R2"
+    },
+    {
+        "athlete_name": "Emily SCOTT",
+        "Time": "75.23",
+        "Extra": "14+ (77)R1 16 (73)R2"
+    },
+    {
+        "athlete_name": "Fadya Devi MONICA",
+        "Time": "76.74",
+        "Extra": "13+ (78)R1 15+ (75)R2"
+    },
+    {
+        "athlete_name": "Nur Diatul JANNAH",
+        "Time": "77.24",
+        "Extra": "17 (76)R1 12+ (78)R2"
+    },
+    {
+        "athlete_name": "María Fernanda HIDALGO AMEZQUITA",
+        "Time": "77.7",
+        "Extra": "19 (75)R1 9+ (80)R2"
+    },
+    {
+        "athlete_name": "Phoebe KENDERDINE",
+        "Time": "78.49",
+        "Extra": "10+ (80)R1 13+ (77)R2"
+    },
+    {
+        "athlete_name": "Wai-Mui LING",
+        "Time": "78.75",
+        "Extra": "12+ (79)R1 12+ (78)R2"
+    },
+    {
+        "athlete_name": "Alyssa MEYER",
+        "Time": "80.75",
+        "Extra": "9+ (81)R1 9+ (80)R2"
+    },
+    {
+        "athlete_name": "Prateeksha ARUN",
+        "Time": "DNS",
+        "Extra": ""
+    },
+    {
+        "athlete_name": "Mariana HANGGI CORREIA",
+        "Time": "DNS",
+        "Extra": ""
+    }
+]

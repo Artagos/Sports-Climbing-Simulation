@@ -1,0 +1,176 @@
+[
+    {
+        "rank": "1",
+        "name": "Kokoro FUJII",
+        "age": "101",
+        "country": "JPN",
+        "score": "4T4z 11 4",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "3",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "3",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Tomoa NARASAKI",
+        "age": "102",
+        "country": "JPN",
+        "score": "4T4z 12 8",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "4",
+                "zones": "1"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "4",
+                "zones": "4"
+            }
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Yoshiyuki OGATA",
+        "age": "103",
+        "country": "JPN",
+        "score": "3T4z 6 7",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "1"
+            }
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Paul JENFT",
+        "age": "114",
+        "country": "FRA",
+        "score": "2T4z 4 11",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "5"
+            },
+            {
+                "route_number": "2",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "3",
+                "zones": "3"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Meichi NARASAKI",
+        "age": "147",
+        "country": "JPN",
+        "score": "2T3z 3 6",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": ""
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "2"
+            },
+            {
+                "route_number": "3",
+                "tops": "1",
+                "zones": "1"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "3"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Keita DOHI",
+        "age": "120",
+        "country": "JPN",
+        "score": "1T4z 2 14",
+        "routes": [
+            {
+                "route_number": "1",
+                "tops": "",
+                "zones": "9"
+            },
+            {
+                "route_number": "2",
+                "tops": "2",
+                "zones": "1"
+            },
+            {
+                "route_number": "3",
+                "tops": "",
+                "zones": "2"
+            },
+            {
+                "route_number": "4",
+                "tops": "",
+                "zones": "2"
+            }
+        ]
+    }
+]

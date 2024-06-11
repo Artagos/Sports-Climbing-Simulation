@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.07"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.34"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "RAHMAD ADI MULYONO",
+                "country": "",
+                "time": "5.43"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.06"
+            },
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "RAHMAD ADI MULYONO",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "WILDCARD"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.17"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "5.32"
+            },
+            {
+                "name": "ASPAR ASPAR",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "RAHMAD ADI MULYONO",
+                "country": "",
+                "time": "5.685"
+            },
+            {
+                "name": "Euncheol SHIN",
+                "country": "",
+                "time": "5.689"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.51"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.27"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.63"
+            },
+            {
+                "name": "ZAINAL ARIPIN",
+                "country": "",
+                "time": "5.50"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "5.32"
+            },
+            {
+                "name": "ASPAR ASPAR",
+                "country": "",
+                "time": "5.40"
+            },
+            {
+                "name": "Yongjun JUNG",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "5.24"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.53"
+            },
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "5.21"
+            },
+            {
+                "name": "RAHMAD ADI MULYONO",
+                "country": "",
+                "time": "5.12"
+            },
+            {
+                "name": "Ryo OMASA",
+                "country": "",
+                "time": "5.22"
+            },
+            {
+                "name": "Euncheol SHIN",
+                "country": "",
+                "time": "5.20"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.18"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "",
+                "time": "5.64"
+            },
+            {
+                "name": "ALFIAN MUHAMMAD FAJRI",
+                "country": "",
+                "time": "7.25"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.76"
+            }
+        ]
+    }
+]

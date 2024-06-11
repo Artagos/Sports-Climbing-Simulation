@@ -1,0 +1,122 @@
+[
+    {
+        "rank": "1",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "age": "39",
+        "country": "ESP",
+        "scores": [
+            "7.16",
+            "7.23"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "age": "35",
+        "country": "ESP",
+        "scores": [
+            "7.67",
+            "8.07"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Alina SHCHYHARIEVA",
+        "age": "38",
+        "country": "UKR",
+        "scores": [
+            "7.92",
+            "8.13"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Sofia BELLESINI",
+        "age": "37",
+        "country": "ITA",
+        "scores": [
+            "8.09",
+            "8.12"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Erica PISCOPO",
+        "age": "42",
+        "country": "ITA",
+        "scores": [
+            "8.22",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Oksana BUROVA",
+        "age": "33",
+        "country": "UKR",
+        "scores": [
+            "8.29",
+            "8.55"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Sofiia HLADKA",
+        "age": "32",
+        "country": "UKR",
+        "scores": [
+            "8.61",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Kseniia HORIELOVA",
+        "age": "36",
+        "country": "UKR",
+        "scores": [
+            "8.75",
+            "9.97"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Nele THOMAS",
+        "age": "31",
+        "country": "GER",
+        "scores": [
+            "8.76",
+            "8.88"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "age": "41",
+        "country": "ESP",
+        "scores": [
+            "8.93",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Laura ST\u00d6CKLER",
+        "age": "40",
+        "country": "AUT",
+        "scores": [
+            "8.96",
+            "10.36"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Aida MIGUEL OCHOA",
+        "age": "34",
+        "country": "ESP",
+        "scores": [
+            "9.95",
+            "10.11"
+        ]
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "rank": "1",
+        "name": "Kiromal KATIBIN",
+        "country": "21 \u2022 INA",
+        "scores": [
+            "5.17",
+            "5.30"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Veddriq LEONARDO",
+        "country": "15 \u2022 INA",
+        "scores": [
+            "5.41",
+            "5.61"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Rahmad ADI MULYONO",
+        "country": "6 \u2022 INA",
+        "scores": [
+            "5.48",
+            "5.71"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Reza ALIPOUR SHENAZANDIFARD",
+        "country": "2 \u2022 IRI",
+        "scores": [
+            "5.49",
+            "5.51"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Aspar ASPAR",
+        "country": "38 \u2022 INA",
+        "scores": [
+            "5.70",
+            "5.77"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Zaenal ARIPIN",
+        "country": "36 \u2022 INA",
+        "scores": [
+            "5.74",
+            "5.82"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Seung Beom LEE",
+        "country": "11 \u2022 KOR",
+        "scores": [
+            "5.76",
+            "5.77"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Erik NOYA CARDONA",
+        "country": "22 \u2022 ESP",
+        "scores": [
+            "5.78",
+            "5.89"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Guillaume MORO",
+        "country": "10 \u2022 FRA",
+        "scores": [
+            "5.79",
+            "6.29"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Alfian MUHAMMAD FAJRI",
+        "country": "24 \u2022 INA",
+        "scores": [
+            "5.80",
+            "6.19"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Yongjun JUNG",
+        "country": "1 \u2022 KOR",
+        "scores": [
+            "5.85",
+            "7.25"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Ludovico FOSSALI",
+        "country": "20 \u2022 ITA",
+        "scores": [
+            "5.88",
+            "6.95"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Tobias PLANGGER",
+        "country": "34 \u2022 AUT",
+        "scores": [
+            "5.88",
+            "7.90"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Raharjati NURSAMSA",
+        "country": "4 \u2022 INA",
+        "scores": [
+            "5.93",
+            "7.54"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Pierre REBREYEND",
+        "country": "5 \u2022 FRA",
+        "scores": [
+            "5.94",
+            "6.08"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Samuel WATSON",
+        "country": "9 \u2022 USA",
+        "scores": [
+            "5.97",
+            "6.17"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Leander CARMANNS",
+        "country": "14 \u2022 GER",
+        "scores": [
+            "6.01",
+            "7.96"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Joe GOODACRE",
+        "country": "27 \u2022 USA",
+        "scores": [
+            "6.12",
+            "6.26"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Yudai IKEDA",
+        "country": "37 \u2022 JPN",
+        "scores": [
+            "6.15",
+            "7.50"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Ryo OMASA",
+        "country": "32 \u2022 JPN",
+        "scores": [
+            "6.17",
+            "6.61"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Dylan LE",
+        "country": "39 \u2022 CAN",
+        "scores": [
+            "6.30",
+            "6.53"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Lukas KNAPP",
+        "country": "7 \u2022 AUT",
+        "scores": [
+            "6.33",
+            "7.98"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Yann LE CLERCQ DE LANNOY",
+        "country": "30 \u2022 FRA",
+        "scores": [
+            "6.36",
+            "6.56"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Minsu KANG",
+        "country": "18 \u2022 KOR",
+        "scores": [
+            "6.38",
+            "7.68"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Noah BRATSCHI",
+        "country": "25 \u2022 USA",
+        "scores": [
+            "6.38",
+            "6.89"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Quinn O'FRANCIA",
+        "country": "8 \u2022 USA",
+        "scores": [
+            "FALL",
+            "6.45"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Taeung MOON",
+        "country": "26 \u2022 KOR",
+        "scores": [
+            "6.53",
+            "7.13"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Akihisa KAJI",
+        "country": "13 \u2022 JPN",
+        "scores": [
+            "6.72",
+            "8.64"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Gian Luca ZODDA",
+        "country": "35 \u2022 ITA",
+        "scores": [
+            "6.89",
+            "7.12"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Euncheol SHIN",
+        "country": "29 \u2022 KOR",
+        "scores": [
+            "6.90",
+            "8.26"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Hyeonu SONG",
+        "country": "28 \u2022 KOR",
+        "scores": [
+            "7.12",
+            "7.76"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Minsoo PARK",
+        "country": "23 \u2022 KOR",
+        "scores": [
+            "7.84",
+            "7.98"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Rishat KHAIBULLIN",
+        "country": "12 \u2022 KAZ",
+        "scores": [
+            "FALL",
+            "8.17"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Shuto FUJINO",
+        "country": "3 \u2022 JPN",
+        "scores": [
+            "8.55",
+            "9.14"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Sanghyun CHO",
+        "country": "31 \u2022 KOR",
+        "scores": [
+            "FALL",
+            "8.78"
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "Linus BADER",
+        "country": "33 \u2022 GER",
+        "scores": [
+            "FALL",
+            "9.22"
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Haram JEON",
+        "country": "16 \u2022 KOR",
+        "scores": [
+            "FALL",
+            "9.34"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "John BROSLER",
+        "country": "17 \u2022 USA",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "Jihwan JU",
+        "country": "19 \u2022 KOR",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    }
+]

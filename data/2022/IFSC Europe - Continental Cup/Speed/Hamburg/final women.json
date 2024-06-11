@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "7.73"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Laura Stöckler",
+                "country": "",
+                "time": "8.50"
+            },
+            {
+                "name": "Daria Tkachova",
+                "country": "",
+                "time": "8.51"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Laura Stöckler",
+                "country": "",
+                "time": "9.53"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.35"
+            },
+            {
+                "name": "Daria Tkachova",
+                "country": "",
+                "time": "8.25"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "7.67"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Sofia Bellesini",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Laura Stöckler",
+                "country": "",
+                "time": "8.63"
+            },
+            {
+                "name": "María Laborda Sagaste",
+                "country": "",
+                "time": "9.38"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.29"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "8.81"
+            },
+            {
+                "name": "Daria Tkachova",
+                "country": "",
+                "time": "8.50"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "7.80"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "8.17"
+            }
+        ]
+    }
+]

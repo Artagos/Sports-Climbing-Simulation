@@ -1,0 +1,434 @@
+[
+    {
+        "rank": "1",
+        "name": "Di NIU",
+        "country": "CHN",
+        "scores": [
+            "6.91",
+            "6.95"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Lijuan DENG",
+        "country": "CHN",
+        "scores": [
+            "6.94",
+            "6.99"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Aleksandra KALUCKA",
+        "country": "POL",
+        "scores": [
+            "6.95",
+            "6.98"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Desak MADE RITA KUSUMA DEWI",
+        "country": "INA",
+        "scores": [
+            "6.97",
+            "7.30"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Rajiah SALLSABILLAH",
+        "country": "INA",
+        "scores": [
+            "7.05",
+            "7.10"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Emma HUNT",
+        "country": "USA",
+        "scores": [
+            "7.19",
+            "7.48"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Aurelia SARISSON",
+        "country": "FRA",
+        "scores": [
+            "7.21",
+            "7.63"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Natalia KALUCKA",
+        "country": "POL",
+        "scores": [
+            "7.26",
+            "7.63"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Shengyan WANG",
+        "country": "CHN",
+        "scores": [
+            "7.36",
+            "7.52"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Capucine VIGLIONE",
+        "country": "FRA",
+        "scores": [
+            "7.38",
+            "7.51"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Patrycja CHUDZIAK",
+        "country": "POL",
+        "scores": [
+            "7.40",
+            "8.18"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Nurul IQAMAH",
+        "country": "INA",
+        "scores": [
+            "7.43",
+            "7.89"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Andrea ROJAS",
+        "country": "ECU",
+        "scores": [
+            "7.60",
+            "9.32"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Anna BROZEK",
+        "country": "POL",
+        "scores": [
+            "7.66",
+            "8.43"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Franziska RITTER",
+        "country": "GER",
+        "scores": [
+            "7.72",
+            "8.93"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Beatrice COLLI",
+        "country": "ITA",
+        "scores": [
+            "7.78",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "country": "ESP",
+        "scores": [
+            "7.80",
+            "7.80"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Alivany VER KHADIJAH",
+        "country": "INA",
+        "scores": [
+            "7.83",
+            "7.94"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Giulia RANDI",
+        "country": "ITA",
+        "scores": [
+            "7.85",
+            "8.19"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Nuria BROCKFELD",
+        "country": "GER",
+        "scores": [
+            "7.92",
+            "7.96"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Victoire ANDRIER",
+        "country": "FRA",
+        "scores": [
+            "7.96",
+            "10.21"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Tamara ULZHABAYEVA",
+        "country": "KAZ",
+        "scores": [
+            "8.00",
+            "8.11"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "country": "ESP",
+        "scores": [
+            "FALL",
+            "8.02"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Jimin JEONG",
+        "country": "KOR",
+        "scores": [
+            "8.05",
+            "9.73"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Guizhen XIE",
+        "country": "CHN",
+        "scores": [
+            "8.07",
+            "8.85"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Karin HAYASHI",
+        "country": "JPN",
+        "scores": [
+            "8.10",
+            "9.38"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Julia KOCH",
+        "country": "GER",
+        "scores": [
+            "8.15",
+            "8.48"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Ai TAKEUCHI",
+        "country": "JPN",
+        "scores": [
+            "8.24",
+            "8.62"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Susan NURHIDAYAH",
+        "country": "INA",
+        "scores": [
+            "8.24",
+            "8.46"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Fumika KAWAKAMI",
+        "country": "JPN",
+        "scores": [
+            "8.33",
+            "8.43"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Piper KELLY",
+        "country": "USA",
+        "scores": [
+            "8.38",
+            "8.48"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "ESP",
+        "scores": [
+            "8.45",
+            "10.12"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Laura ST\u00d6CKLER",
+        "country": "AUT",
+        "scores": [
+            "8.49",
+            "8.52"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Margarita AGAMBAYEVA",
+        "country": "KAZ",
+        "scores": [
+            "8.57",
+            "8.65"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Sarah VOUAUX",
+        "country": "FRA",
+        "scores": [
+            "8.72",
+            "9.07"
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "Heeju NOH",
+        "country": "KOR",
+        "scores": [
+            "8.73",
+            "9.22"
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Erica VELEV",
+        "country": "CAN",
+        "scores": [
+            "8.78",
+            "10.14"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "Assel MARLENOVA",
+        "country": "KAZ",
+        "scores": [
+            "8.80",
+            "10.54"
+        ]
+    },
+    {
+        "rank": "39",
+        "name": "Sophia CURCIO",
+        "country": "USA",
+        "scores": [
+            "8.99",
+            "10.59"
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "Alejandra CONTRERAS",
+        "country": "CHI",
+        "scores": [
+            "9.17",
+            "10.56"
+        ]
+    },
+    {
+        "rank": "41",
+        "name": "Liberty RUNNELS",
+        "country": "USA",
+        "scores": [
+            "9.20",
+            "9.33"
+        ]
+    },
+    {
+        "rank": "42",
+        "name": "Valeria MACIAS FERREIRA",
+        "country": "MEX",
+        "scores": [
+            "9.25",
+            "9.68"
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "Hanareum SUNG",
+        "country": "KOR",
+        "scores": [
+            "9.61",
+            "10.59"
+        ]
+    },
+    {
+        "rank": "44",
+        "name": "Manon LEBON",
+        "country": "FRA",
+        "scores": [
+            "9.64",
+            "11.73"
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "Natsumi HAYASHI",
+        "country": "JPN",
+        "scores": [
+            "9.65",
+            "9.72"
+        ]
+    },
+    {
+        "rank": "46",
+        "name": "Mia WEEDA",
+        "country": "AUS",
+        "scores": [
+            "FALL",
+            "11.45"
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "Mar\u00eda Fernanda HIDALGO AMEZQUITA",
+        "country": "MEX",
+        "scores": [
+            "12.93",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "48",
+        "name": "Yufang XIE",
+        "country": "CHN",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    }
+]

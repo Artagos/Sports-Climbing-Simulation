@@ -1,0 +1,137 @@
+[
+    {
+        "rank": "1",
+        "name": "Julian DAVID",
+        "country": "4 \u2022 NZL",
+        "scores": [
+            "5.95",
+            "7.47"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Hayden BARTON",
+        "country": "16 \u2022 AUS",
+        "scores": [
+            "6.37",
+            "7.97"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Flynn CHISHOLM",
+        "country": "14 \u2022 NZL",
+        "scores": [
+            "6.79",
+            "7.32"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Ned JOHNSTON",
+        "country": "7 \u2022 NZL",
+        "scores": [
+            "8.08",
+            "8.26"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Dylan MARLOW",
+        "country": "1 \u2022 AUS",
+        "scores": [
+            "8.24",
+            "9.85"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Joel SOH",
+        "country": "10 \u2022 AUS",
+        "scores": [
+            "9.79",
+            "13.61"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Carl BARONI",
+        "country": "6 \u2022 AUS",
+        "scores": [
+            "10.32",
+            "11.61"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Luke STOCK",
+        "country": "8 \u2022 NZL",
+        "scores": [
+            "10.40",
+            "11.07"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Erasmus DARWIN",
+        "country": "15 \u2022 AUS",
+        "scores": [
+            "10.47",
+            "11.24"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Jack NILES",
+        "country": "3 \u2022 NZL",
+        "scores": [
+            "10.90",
+            "11.95"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Thomas CHEAH",
+        "country": "9 \u2022 AUS",
+        "scores": [
+            "11.58",
+            "12.82"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Andrew BURGE",
+        "country": "11 \u2022 AUS",
+        "scores": [
+            "12.45",
+            "12.94"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Sturt BOLTIN",
+        "country": "12 \u2022 AUS",
+        "scores": [
+            "12.57",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Karyss ADAMS",
+        "country": "2 \u2022 NZL",
+        "scores": [
+            "12.82",
+            "14.14"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Aaron MATTES",
+        "country": "5 \u2022 AUS",
+        "scores": [
+            "8.52",
+            "FALSE START"
+        ]
+    }
+]

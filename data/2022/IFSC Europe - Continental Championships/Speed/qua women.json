@@ -1,0 +1,164 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "country": "2 \u2022 POL",
+        "scores": [
+            "6.63",
+            "6.69"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Aleksandra KALUCKA",
+        "country": "1 \u2022 POL",
+        "scores": [
+            "6.99",
+            "7.10"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Natalia KALUCKA",
+        "country": "3 \u2022 POL",
+        "scores": [
+            "7.32",
+            "7.59"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Anna BROZEK",
+        "country": "11 \u2022 POL",
+        "scores": [
+            "7.60",
+            "8.16"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Patrycja CHUDZIAK",
+        "country": "5 \u2022 POL",
+        "scores": [
+            "7.63",
+            "8.26"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Beatrice COLLI",
+        "country": "6 \u2022 ITA",
+        "scores": [
+            "7.81",
+            "8.21"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Capucine VIGLIONE",
+        "country": "4 \u2022 FRA",
+        "scores": [
+            "7.92",
+            "10.51"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Sofia BELLESINI",
+        "country": "19 \u2022 ITA",
+        "scores": [
+            "8.10",
+            "9.39"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Aurelia SARISSON",
+        "country": "8 \u2022 FRA",
+        "scores": [
+            "8.19",
+            "12.24"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Nuria BROCKFELD",
+        "country": "10 \u2022 GER",
+        "scores": [
+            "8.56",
+            "9.49"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Alina SHCHYHARIEVA",
+        "country": "17 \u2022 UKR",
+        "scores": [
+            "8.67",
+            "11.39"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Giulia RANDI",
+        "country": "9 \u2022 ITA",
+        "scores": [
+            "8.84",
+            "9.50"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Julia KOCH",
+        "country": "15 \u2022 GER",
+        "scores": [
+            "8.90",
+            "11.91"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Erica PISCOPO",
+        "country": "20 \u2022 ITA",
+        "scores": [
+            "8.94",
+            "11.17"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Anna APEL",
+        "country": "18 \u2022 GER",
+        "scores": [
+            "9.01",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Oksana BUROVA",
+        "country": "22 \u2022 UKR",
+        "scores": [
+            "9.78",
+            "11.34"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "country": "13 \u2022 ESP",
+        "scores": [
+            "11.40",
+            "11.83"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "12 \u2022 ESP",
+        "scores": [
+            "12.11",
+            "14.87"
+        ]
+    }
+]

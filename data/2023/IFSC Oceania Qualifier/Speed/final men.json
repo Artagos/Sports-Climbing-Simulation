@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Julian David",
+                "country": "",
+                "time": "6.77"
+            },
+            {
+                "name": "Hayden Barton",
+                "country": "",
+                "time": "7.50"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Dylan Marlow",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Flynn Chisholm",
+                "country": "",
+                "time": "7.09"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Julian David",
+                "country": "",
+                "time": "6.55"
+            },
+            {
+                "name": "Dylan Marlow",
+                "country": "",
+                "time": "7.57"
+            },
+            {
+                "name": "Hayden Barton",
+                "country": "",
+                "time": "6.23"
+            },
+            {
+                "name": "Flynn Chisholm",
+                "country": "",
+                "time": "7.03"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Julian David",
+                "country": "",
+                "time": "6.54"
+            },
+            {
+                "name": "luke stock",
+                "country": "",
+                "time": "10.16"
+            },
+            {
+                "name": "Ned Johnston",
+                "country": "",
+                "time": "7.82"
+            },
+            {
+                "name": "Dylan Marlow",
+                "country": "",
+                "time": "7.72"
+            },
+            {
+                "name": "Hayden Barton",
+                "country": "",
+                "time": "6.13"
+            },
+            {
+                "name": "Carl Baroni",
+                "country": "",
+                "time": "11.40"
+            },
+            {
+                "name": "Flynn Chisholm",
+                "country": "",
+                "time": "7.64"
+            },
+            {
+                "name": "Joel Soh",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    }
+]

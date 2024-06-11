@@ -1,0 +1,56 @@
+[
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "1",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Masahiro HIGUCHI",
+        "rank": "2",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Mejdi SCHALCK",
+        "rank": "3",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Jesse GRUPPER",
+        "rank": "4",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Martin BERGANT",
+        "rank": "5",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Nicolas COLLIN",
+        "rank": "6",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Paul JENFT",
+        "rank": "7",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Yoshiyuki OGATA",
+        "rank": "7",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Mathias POSCH",
+        "rank": "9",
+        "country": null,
+        "score": "18+"
+    }
+]

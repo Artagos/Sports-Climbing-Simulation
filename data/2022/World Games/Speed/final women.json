@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "8.88"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.24"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "7.38"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.32"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.80"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "7.82"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.15"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.40"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "8.79"
+            },
+            {
+                "name": "Yelyzaveta Lavrykova",
+                "country": "",
+                "time": "12.70"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "7.76"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "",
+                "time": "7.84"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.49"
+            },
+            {
+                "name": "Tamara Ulzhabayeva",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.72"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "11.25"
+            }
+        ]
+    }
+]

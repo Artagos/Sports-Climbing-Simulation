@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Grace Crowley",
+                "country": "",
+                "time": "8.88"
+            },
+            {
+                "name": "Sarah Tetzlaff",
+                "country": "",
+                "time": "8.54"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Jorja Rangi",
+                "country": "",
+                "time": "9.53"
+            },
+            {
+                "name": "Abby Gebert",
+                "country": "",
+                "time": "9.17"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Grace Crowley",
+                "country": "",
+                "time": "8.58"
+            },
+            {
+                "name": "Jorja Rangi",
+                "country": "",
+                "time": "9.56"
+            },
+            {
+                "name": "Sarah Tetzlaff",
+                "country": "",
+                "time": "8.95"
+            },
+            {
+                "name": "Abby Gebert",
+                "country": "",
+                "time": "9.17"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Grace Crowley",
+                "country": "",
+                "time": "8.70"
+            },
+            {
+                "name": "Annie McDonnell",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Jorja Rangi",
+                "country": "",
+                "time": "9.78"
+            },
+            {
+                "name": "Mischa Boorman",
+                "country": "",
+                "time": "10.54"
+            },
+            {
+                "name": "Sarah Tetzlaff",
+                "country": "",
+                "time": "9.20"
+            },
+            {
+                "name": "Justina Chan",
+                "country": "",
+                "time": "15.61"
+            },
+            {
+                "name": "Abby Gebert",
+                "country": "",
+                "time": "9.73"
+            },
+            {
+                "name": "Meredith Butcher",
+                "country": "",
+                "time": "12.06"
+            }
+        ]
+    }
+]

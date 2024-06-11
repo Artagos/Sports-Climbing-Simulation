@@ -1,0 +1,242 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "age": "15",
+        "country": "POL",
+        "scores": [
+            "6.54",
+            "6.56"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Natalia KALUCKA",
+        "age": "20",
+        "country": "POL",
+        "scores": [
+            "6.87",
+            "7.22"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Aleksandra KALUCKA",
+        "age": "16",
+        "country": "POL",
+        "scores": [
+            "6.89",
+            "6.93"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Patrycja CHUDZIAK",
+        "age": "17",
+        "country": "POL",
+        "scores": [
+            "7.34",
+            "8.14"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "age": "4",
+        "country": "ESP",
+        "scores": [
+            "7.36",
+            "7.60"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Anna BROZEK",
+        "age": "21",
+        "country": "POL",
+        "scores": [
+            "7.56",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "age": "2",
+        "country": "ESP",
+        "scores": [
+            "7.58",
+            "8.07"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Capucine VIGLIONE",
+        "age": "7",
+        "country": "FRA",
+        "scores": [
+            "7.65",
+            "11.26"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Lison GAUTRON",
+        "age": "6",
+        "country": "FRA",
+        "scores": [
+            "7.67",
+            "7.77"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Victoire ANDRIER",
+        "age": "8",
+        "country": "FRA",
+        "scores": [
+            "7.86",
+            "11.32"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Kseniia HORIELOVA",
+        "age": "24",
+        "country": "UKR",
+        "scores": [
+            "8.23",
+            "9.51"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Alina SHCHYHARIEVA",
+        "age": "22",
+        "country": "UKR",
+        "scores": [
+            "8.28",
+            "10.24"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Erica PISCOPO",
+        "age": "11",
+        "country": "ITA",
+        "scores": [
+            "8.30",
+            "9.93"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "age": "3",
+        "country": "ESP",
+        "scores": [
+            "8.31",
+            "8.52"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Maria SZWED",
+        "age": "14",
+        "country": "POL",
+        "scores": [
+            "8.53",
+            "12.17"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Agata LESIEWICZ",
+        "age": "18",
+        "country": "POL",
+        "scores": [
+            "8.62",
+            "8.70"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Daria MARCINIAK",
+        "age": "19",
+        "country": "POL",
+        "scores": [
+            "8.64",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Oksana BUROVA",
+        "age": "23",
+        "country": "UKR",
+        "scores": [
+            "8.67",
+            "9.43"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Nele THOMAS",
+        "age": "9",
+        "country": "GER",
+        "scores": [
+            "8.70",
+            "8.84"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Sofia MILANI",
+        "age": "13",
+        "country": "ITA",
+        "scores": [
+            "9.13",
+            "9.83"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Sofiia HLADKA",
+        "age": "25",
+        "country": "UKR",
+        "scores": [
+            "9.13",
+            "10.85"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Aida MIGUEL OCHOA",
+        "age": "5",
+        "country": "ESP",
+        "scores": [
+            "10.03",
+            "11.60"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Alice STROCCHI",
+        "age": "12",
+        "country": "ITA",
+        "scores": [
+            "10.26",
+            "10.49"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Lucie MRAZOVA",
+        "age": "1",
+        "country": "CZE",
+        "scores": [
+            "10.87",
+            "12.31"
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "rank": "1",
+        "name": "Sofia BELLESINI",
+        "country": "6 \u2022 ITA",
+        "scores": [
+            "8.17",
+            "9.38"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Giulia RANDI",
+        "country": "7 \u2022 ITA",
+        "scores": [
+            "8.25",
+            "11.09"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "country": "3 \u2022 ESP",
+        "scores": [
+            "8.28",
+            "10.07"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "2 \u2022 ESP",
+        "scores": [
+            "8.34",
+            "8.74"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Alina SHCHYHARIEVA",
+        "country": "9 \u2022 UKR",
+        "scores": [
+            "8.35",
+            "8.81"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Oksana BUROVA",
+        "country": "10 \u2022 UKR",
+        "scores": [
+            "8.54",
+            "10.27"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Daria TKACHOVA",
+        "country": "12 \u2022 UKR",
+        "scores": [
+            "8.56",
+            "10.46"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Laura ST\u00d6CKLER",
+        "country": "1 \u2022 AUT",
+        "scores": [
+            "8.72",
+            "9.38"
+        ]
+    }
+]

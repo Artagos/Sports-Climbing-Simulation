@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.68"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.42"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.36"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "5.73"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "10.15"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.35"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "6.55"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "6.95"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.75"
+            },
+            {
+                "name": "Marco Rontini",
+                "country": "",
+                "time": "5.79"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.39"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.42"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.31"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "5.38"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "6.22"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "5.53"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.52"
+            },
+            {
+                "name": "Alejo Bernab\u00e9 Fern\u00e1ndez",
+                "country": "",
+                "time": "6.21"
+            },
+            {
+                "name": "Marco Rontini",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Mikolaj Wroblewski",
+                "country": "",
+                "time": "5.77"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.76"
+            },
+            {
+                "name": "Marceau Garnier",
+                "country": "",
+                "time": "6.06"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.64"
+            },
+            {
+                "name": "Marius Payet Gaboriaud",
+                "country": "",
+                "time": "6.04"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "5.58"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "6.00"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "5.92"
+            },
+            {
+                "name": "Lawrence Bogeschdorfer",
+                "country": "",
+                "time": "6.02"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "5.78"
+            },
+            {
+                "name": "Jan Kriz",
+                "country": "",
+                "time": "5.89"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "5.64"
+            }
+        ]
+    }
+]

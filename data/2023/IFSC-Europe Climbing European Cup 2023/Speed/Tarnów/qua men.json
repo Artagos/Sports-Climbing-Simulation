@@ -1,0 +1,302 @@
+[
+    {
+        "rank": "1",
+        "name": "Bassa MAWEM",
+        "age": "37",
+        "country": "FRA",
+        "scores": [
+            "5.36",
+            "6.16"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Marcin DZIENSKI",
+        "age": "45",
+        "country": "POL",
+        "scores": [
+            "5.52",
+            "6.35"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Yaroslav TKACH",
+        "age": "55",
+        "country": "UKR",
+        "scores": [
+            "5.53",
+            "5.72"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Hryhorii ILCHYSHYN",
+        "age": "54",
+        "country": "UKR",
+        "scores": [
+            "5.55",
+            "6.11"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Erik NOYA CARDONA",
+        "age": "32",
+        "country": "ESP",
+        "scores": [
+            "5.64",
+            "5.66"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Kevin AMON",
+        "age": "27",
+        "country": "AUT",
+        "scores": [
+            "5.72",
+            "7.23"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Kostiantyn PAVLENKO",
+        "age": "57",
+        "country": "UKR",
+        "scores": [
+            "5.77",
+            "6.09"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Marco RONTINI",
+        "age": "42",
+        "country": "ITA",
+        "scores": [
+            "5.80",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Mikolaj WROBLEWSKI",
+        "age": "48",
+        "country": "POL",
+        "scores": [
+            "5.85",
+            "5.93"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Lawrence BOGESCHDORFER",
+        "age": "26",
+        "country": "AUT",
+        "scores": [
+            "5.85",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Oskar SZALECKI",
+        "age": "47",
+        "country": "POL",
+        "scores": [
+            "5.90",
+            "7.39"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Marius PAYET GABORIAUD",
+        "age": "36",
+        "country": "FRA",
+        "scores": [
+            "5.94",
+            "6.03"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Marceau GARNIER",
+        "age": "34",
+        "country": "FRA",
+        "scores": [
+            "5.98",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Jan KRIZ",
+        "age": "28",
+        "country": "CZE",
+        "scores": [
+            "6.01",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "age": "31",
+        "country": "ESP",
+        "scores": [
+            "6.02",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Alejo BERNAB\u00c9 FERN\u00c1NDEZ",
+        "age": "33",
+        "country": "ESP",
+        "scores": [
+            "6.18",
+            "6.56"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Joshua BRUYNS",
+        "age": "52",
+        "country": "RSA",
+        "scores": [
+            "6.25",
+            "6.30"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Adriano EGIDI",
+        "age": "41",
+        "country": "ITA",
+        "scores": [
+            "6.29",
+            "9.60"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Dmytro ILIUKHIN",
+        "age": "56",
+        "country": "UKR",
+        "scores": [
+            "6.47",
+            "6.48"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Aodhan UMLAUF",
+        "age": "38",
+        "country": "GER",
+        "scores": [
+            "6.51",
+            "6.53"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Hubert PRZYTULA",
+        "age": "44",
+        "country": "POL",
+        "scores": [
+            "6.60",
+            "6.66"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Vincent STUMMREITER",
+        "age": "39",
+        "country": "GER",
+        "scores": [
+            "6.67",
+            "8.06"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Andrea BORTOLOTTO",
+        "age": "43",
+        "country": "ITA",
+        "scores": [
+            "6.70",
+            "6.90"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Alberto GARC\u00cdA RODR\u00cdGUEZ DE SEP\u00daLVEDA",
+        "age": "30",
+        "country": "ESP",
+        "scores": [
+            "6.73",
+            "6.79"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Jan TKACZYK",
+        "age": "46",
+        "country": "POL",
+        "scores": [
+            "6.78",
+            "7.00"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Jan KROSZKA",
+        "age": "49",
+        "country": "POL",
+        "scores": [
+            "7.33",
+            "7.39"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Jan SIMUNEK",
+        "age": "29",
+        "country": "CZE",
+        "scores": [
+            "7.43",
+            "8.52"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Bartlomiej PODLEWSKI",
+        "age": "50",
+        "country": "POL",
+        "scores": [
+            "8.37",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Olaf MALINOWSKI",
+        "age": "51",
+        "country": "POL",
+        "scores": [
+            "FALSE START",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Ti\u0307mur TA\u015e",
+        "age": "53",
+        "country": "TUR",
+        "scores": [
+            "FALSE START",
+            "FALSE START"
+        ]
+    }
+]

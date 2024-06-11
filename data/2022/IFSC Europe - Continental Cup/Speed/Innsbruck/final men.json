@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.66"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "8.22"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.63"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.82"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "5.88"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.40"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.62"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "6.26"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "6.74"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "6.28"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "8.12"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "6.16"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "6.28"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "5.77"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.76"
+            },
+            {
+                "name": "Alessandro Boulos",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "5.93"
+            },
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "6.32"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Linus Bader",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Gian Luca Zodda",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "5.93"
+            },
+            {
+                "name": "Lawrence Bogeschdorfer",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Danyil Boldyrev",
+                "country": "",
+                "time": "5.81"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "7.65"
+            }
+        ]
+    }
+]

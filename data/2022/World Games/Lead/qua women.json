@@ -1,0 +1,74 @@
+[
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "1",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "2",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Momoko ABE",
+        "rank": "3",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Ievgeniia KAZBEKOVA",
+        "rank": "3",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Salomé ROMAIN",
+        "rank": "3",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Ignacia MELLADO QUINTEROS",
+        "rank": "6",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Lana SKUSEK",
+        "rank": "6",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Chloe CAULIER",
+        "rank": "8",
+        "country": null,
+        "score": "28+"
+    },
+    {
+        "athlete_name": "Ayala KEREM",
+        "rank": "9",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Cloe COSCOY",
+        "rank": "10",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Lucija TARKUS",
+        "rank": "11",
+        "country": null,
+        "score": "15"
+    },
+    {
+        "athlete_name": "Lauren MUKHEIBIR",
+        "rank": "12",
+        "country": null,
+        "score": "14"
+    }
+]

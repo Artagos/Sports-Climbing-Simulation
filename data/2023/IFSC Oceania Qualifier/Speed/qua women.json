@@ -1,0 +1,92 @@
+[
+    {
+        "rank": "1",
+        "name": "Grace CROWLEY",
+        "country": "3 \u2022 AUS",
+        "scores": [
+            "8.49",
+            "8.56"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Sarah TETZLAFF",
+        "country": "5 \u2022 NZL",
+        "scores": [
+            "9.04",
+            "9.13"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Abby GEBERT",
+        "country": "7 \u2022 NZL",
+        "scores": [
+            "9.06",
+            "9.49"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Jorja RANGI",
+        "country": "8 \u2022 NZL",
+        "scores": [
+            "9.62",
+            "9.87"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Mischa BOORMAN",
+        "country": "1 \u2022 NZL",
+        "scores": [
+            "10.90",
+            "10.94"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Meredith BUTCHER",
+        "country": "10 \u2022 NZL",
+        "scores": [
+            "12.39",
+            "13.10"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Justina CHAN",
+        "country": "2 \u2022 AUS",
+        "scores": [
+            "16.76",
+            "18.03"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Annie MCDONNELL",
+        "country": "6 \u2022 AUS",
+        "scores": [
+            "18.34",
+            "19.92"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Olivia BURGE",
+        "country": "4 \u2022 AUS",
+        "scores": [
+            "21.32",
+            "22.41"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Tarni CAVANAGH",
+        "country": "9 \u2022 AUS",
+        "scores": [
+            "25.90",
+            "28.43"
+        ]
+    }
+]

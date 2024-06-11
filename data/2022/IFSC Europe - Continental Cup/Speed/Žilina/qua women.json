@@ -1,0 +1,89 @@
+[
+    {
+        "rank": "1",
+        "name": "Anna BROZEK",
+        "country": "238 \u2022 POL",
+        "scores": [
+            "7.42",
+            "7.94"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "country": "231 \u2022 ESP",
+        "scores": [
+            "8.27",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Oksana BUROVA",
+        "country": "240 \u2022 UKR",
+        "scores": [
+            "8.28",
+            "8.40"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Julia KOCH",
+        "country": "233 \u2022 GER",
+        "scores": [
+            "8.45",
+            "8.94"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Alina SHCHYHARIEVA",
+        "country": "239 \u2022 UKR",
+        "scores": [
+            "8.56",
+            "8.80"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Daria TKACHOVA",
+        "country": "241 \u2022 UKR",
+        "scores": [
+            "8.90",
+            "8.95"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "232 \u2022 ESP",
+        "scores": [
+            "9.14",
+            "9.99"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Agata LESIEWICZ",
+        "country": "236 \u2022 POL",
+        "scores": [
+            "9.24",
+            "9.59"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Arlena SZNAJDER",
+        "country": "237 \u2022 POL",
+        "scores": [
+            "12.62",
+            "13.25"
+        ]
+    },
+    {
+        "rank": "",
+        "name": "Sara TRAJKOSKA",
+        "country": "126 \u2022 MKD",
+        "scores": []
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "USA",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "USA",
+                "time": "7.52"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Andrea Rojas",
+                "country": "ECU",
+                "time": "7.59"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "USA",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "USA",
+                "time": "6.71"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "ECU",
+                "time": "7.74"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "USA",
+                "time": "9.67"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "USA",
+                "time": "7.69"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "USA",
+                "time": "6.76"
+            },
+            {
+                "name": "Carmen Contreras",
+                "country": "CHI",
+                "time": "9.30"
+            },
+            {
+                "name": "Valeria Macias Ferreira",
+                "country": "MEX",
+                "time": "8.19"
+            },
+            {
+                "name": "Andrea Rojas",
+                "country": "ECU",
+                "time": "7.60"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "USA",
+                "time": "7.83"
+            },
+            {
+                "name": "Erica Velev",
+                "country": "CAN",
+                "time": "8.41"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "USA",
+                "time": "7.85"
+            },
+            {
+                "name": "Anah\u00ed Riveros",
+                "country": "CHI",
+                "time": "8.57"
+            }
+        ]
+    }
+]

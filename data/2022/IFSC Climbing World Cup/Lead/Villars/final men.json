@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "1",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Jesse GRUPPER",
+        "rank": "2",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Colin DUFFY",
+        "rank": "3",
+        "country": null,
+        "score": "34"
+    },
+    {
+        "athlete_name": "Yannick FLOHÉ",
+        "rank": "4",
+        "country": null,
+        "score": "33"
+    },
+    {
+        "athlete_name": "Satone YOSHIDA",
+        "rank": "5",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Yoshiyuki OGATA",
+        "rank": "6",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Mejdi SCHALCK",
+        "rank": "7",
+        "country": null,
+        "score": "19+"
+    },
+    {
+        "athlete_name": "Ao YURIKUSA",
+        "rank": "8",
+        "country": null,
+        "score": "18+"
+    }
+]

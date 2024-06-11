@@ -1,0 +1,248 @@
+[
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "1",
+        "country": null,
+        "score": "1.5"
+    },
+    {
+        "athlete_name": "Hidemasa NISHIDA",
+        "rank": "2",
+        "country": null,
+        "score": "2.12"
+    },
+    {
+        "athlete_name": "Ao YURIKUSA",
+        "rank": "2",
+        "country": null,
+        "score": "2.12"
+    },
+    {
+        "athlete_name": "Sohta AMAGASA",
+        "rank": "4",
+        "country": null,
+        "score": "4.69"
+    },
+    {
+        "athlete_name": "Georg PARMA",
+        "rank": "5",
+        "country": null,
+        "score": "4.9"
+    },
+    {
+        "athlete_name": "Campbell HARRISON",
+        "rank": "6",
+        "country": null,
+        "score": "6.42"
+    },
+    {
+        "athlete_name": "Mikel Asier LINACISORO MOLINA",
+        "rank": "7",
+        "country": null,
+        "score": "7.25"
+    },
+    {
+        "athlete_name": "Ryoei NUKUI",
+        "rank": "7",
+        "country": null,
+        "score": "7.25"
+    },
+    {
+        "athlete_name": "Dimitri VOGT",
+        "rank": "9",
+        "country": null,
+        "score": "10.25"
+    },
+    {
+        "athlete_name": "Derek NEW",
+        "rank": "10",
+        "country": null,
+        "score": "11.22"
+    },
+    {
+        "athlete_name": "Simon POTUCEK",
+        "rank": "11",
+        "country": null,
+        "score": "11.4"
+    },
+    {
+        "athlete_name": "Charlie OSBORNE",
+        "rank": "12",
+        "country": null,
+        "score": "11.83"
+    },
+    {
+        "athlete_name": "Alessandro LARCHER",
+        "rank": "13",
+        "country": null,
+        "score": "14.49"
+    },
+    {
+        "athlete_name": "Andoni ESPARTA FRADE",
+        "rank": "14",
+        "country": null,
+        "score": "14.97"
+    },
+    {
+        "athlete_name": "Peter KURIC",
+        "rank": "15",
+        "country": null,
+        "score": "15.3"
+    },
+    {
+        "athlete_name": "Maxim PARE",
+        "rank": "16",
+        "country": null,
+        "score": "16.61"
+    },
+    {
+        "athlete_name": "Donggun PARK",
+        "rank": "17",
+        "country": null,
+        "score": "17.15"
+    },
+    {
+        "athlete_name": "Stefan FELLNER",
+        "rank": "18",
+        "country": null,
+        "score": "17.25"
+    },
+    {
+        "athlete_name": "Samuel HSIN",
+        "rank": "19",
+        "country": null,
+        "score": "17.44"
+    },
+    {
+        "athlete_name": "Roman NEUWIRTH",
+        "rank": "20",
+        "country": null,
+        "score": "17.55"
+    },
+    {
+        "athlete_name": "Olaf MALINOWSKI",
+        "rank": "21",
+        "country": null,
+        "score": "21.35"
+    },
+    {
+        "athlete_name": "Leonid OSADCHYI",
+        "rank": "21",
+        "country": null,
+        "score": "21.35"
+    },
+    {
+        "athlete_name": "Stepan POTUCEK",
+        "rank": "23",
+        "country": null,
+        "score": "22.91"
+    },
+    {
+        "athlete_name": "Pavel KRATOCHVIL",
+        "rank": "24",
+        "country": null,
+        "score": "24.78"
+    },
+    {
+        "athlete_name": "Matthaios VALSAMIDIS",
+        "rank": "25",
+        "country": null,
+        "score": "25.46"
+    },
+    {
+        "athlete_name": "Aiden YANEV",
+        "rank": "26",
+        "country": null,
+        "score": "25.72"
+    },
+    {
+        "athlete_name": "Joshua DAMASCO",
+        "rank": "27",
+        "country": null,
+        "score": "27.98"
+    },
+    {
+        "athlete_name": "Joris LEIPUS",
+        "rank": "28",
+        "country": null,
+        "score": "28.98"
+    },
+    {
+        "athlete_name": "Tomáš BUČEK",
+        "rank": "29",
+        "country": null,
+        "score": "29.28"
+    },
+    {
+        "athlete_name": "Thomas WALDIN",
+        "rank": "30",
+        "country": null,
+        "score": "29.7"
+    },
+    {
+        "athlete_name": "Alex KIECHLE-CORNISH",
+        "rank": "31",
+        "country": null,
+        "score": "29.8"
+    },
+    {
+        "athlete_name": "Matias OCHOA MARCOS",
+        "rank": "32",
+        "country": null,
+        "score": "30.74"
+    },
+    {
+        "athlete_name": "Gyujin PARK",
+        "rank": "32",
+        "country": null,
+        "score": "30.74"
+    },
+    {
+        "athlete_name": "Mykhayil TKACHUK",
+        "rank": "34",
+        "country": null,
+        "score": "31.86"
+    },
+    {
+        "athlete_name": "Ioannis-Filippos NOEL-BAKER",
+        "rank": "35",
+        "country": null,
+        "score": "33.2"
+    },
+    {
+        "athlete_name": "Orfeas TSIAOUSIS",
+        "rank": "36",
+        "country": null,
+        "score": "35.0"
+    },
+    {
+        "athlete_name": "Michail VOLYRAKIS",
+        "rank": "36",
+        "country": null,
+        "score": "35.0"
+    },
+    {
+        "athlete_name": "Joaquin PIRIZ",
+        "rank": "38",
+        "country": null,
+        "score": "36.47"
+    },
+    {
+        "athlete_name": "Nicolas SALABERRY",
+        "rank": "39",
+        "country": null,
+        "score": "36.95"
+    },
+    {
+        "athlete_name": "Marcell BENSE",
+        "rank": "40",
+        "country": null,
+        "score": "40.0"
+    },
+    {
+        "athlete_name": "Tim WÜRTHNER",
+        "rank": "",
+        "country": null,
+        "score": "DNS"
+    }
+]

@@ -1,0 +1,518 @@
+[
+    {
+        "athlete_name": "Janja GARNBRET",
+        "rank": "1",
+        "country": null,
+        "score": "2.24"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "2",
+        "country": null,
+        "score": "3.32"
+    },
+    {
+        "athlete_name": "Natalia GROSSMAN",
+        "rank": "3",
+        "country": null,
+        "score": "3.54"
+    },
+    {
+        "athlete_name": "Brooke RABOUTOU",
+        "rank": "3",
+        "country": null,
+        "score": "3.54"
+    },
+    {
+        "athlete_name": "Chaehyun SEO",
+        "rank": "5",
+        "country": null,
+        "score": "4.24"
+    },
+    {
+        "athlete_name": "Laura ROGORA",
+        "rank": "6",
+        "country": null,
+        "score": "7.66"
+    },
+    {
+        "athlete_name": "Jain KIM",
+        "rank": "7",
+        "country": null,
+        "score": "8.22"
+    },
+    {
+        "athlete_name": "Nonoha KUME",
+        "rank": "8",
+        "country": null,
+        "score": "8.37"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "rank": "9",
+        "country": null,
+        "score": "10.25"
+    },
+    {
+        "athlete_name": "Molly THOMPSON-SMITH",
+        "rank": "10",
+        "country": null,
+        "score": "10.39"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "11",
+        "country": null,
+        "score": "11.37"
+    },
+    {
+        "athlete_name": "Salom\u00e9 ROMAIN",
+        "rank": "12",
+        "country": null,
+        "score": "11.83"
+    },
+    {
+        "athlete_name": "Mattea P\u00d6TZI",
+        "rank": "13",
+        "country": null,
+        "score": "14.14"
+    },
+    {
+        "athlete_name": "Manon HILY",
+        "rank": "14",
+        "country": null,
+        "score": "14.54"
+    },
+    {
+        "athlete_name": "Yuetong ZHANG",
+        "rank": "14",
+        "country": null,
+        "score": "14.54"
+    },
+    {
+        "athlete_name": "Vita LUKAN",
+        "rank": "16",
+        "country": null,
+        "score": "15.97"
+    },
+    {
+        "athlete_name": "Lana SKUSEK",
+        "rank": "17",
+        "country": null,
+        "score": "18.14"
+    },
+    {
+        "athlete_name": "Lynn VAN DER MEER",
+        "rank": "18",
+        "country": null,
+        "score": "20.57"
+    },
+    {
+        "athlete_name": "Lucia D\u00d6RFFEL",
+        "rank": "19",
+        "country": null,
+        "score": "21.68"
+    },
+    {
+        "athlete_name": "Ryu NAKAGAWA",
+        "rank": "20",
+        "country": null,
+        "score": "22.74"
+    },
+    {
+        "athlete_name": "Lucka RAKOVEC",
+        "rank": "21",
+        "country": null,
+        "score": "24.48"
+    },
+    {
+        "athlete_name": "Oriane BERTONE",
+        "rank": "22",
+        "country": null,
+        "score": "25.65"
+    },
+    {
+        "athlete_name": "H\u00e9l\u00e8ne JANICOT",
+        "rank": "23",
+        "country": null,
+        "score": "26.32"
+    },
+    {
+        "athlete_name": "Elnaz REKABI",
+        "rank": "24",
+        "country": null,
+        "score": "26.77"
+    },
+    {
+        "athlete_name": "Sol SA",
+        "rank": "24",
+        "country": null,
+        "score": "26.77"
+    },
+    {
+        "athlete_name": "Anastasia SANDERS",
+        "rank": "24",
+        "country": null,
+        "score": "26.77"
+    },
+    {
+        "athlete_name": "Kyra CONDIE",
+        "rank": "27",
+        "country": null,
+        "score": "28.68"
+    },
+    {
+        "athlete_name": "Ievgeniia KAZBEKOVA",
+        "rank": "27",
+        "country": null,
+        "score": "28.68"
+    },
+    {
+        "athlete_name": "Zhilu LUO",
+        "rank": "27",
+        "country": null,
+        "score": "28.68"
+    },
+    {
+        "athlete_name": "Hana KOIKE",
+        "rank": "30",
+        "country": null,
+        "score": "29.01"
+    },
+    {
+        "athlete_name": "Rebecca FRANGOS",
+        "rank": "31",
+        "country": null,
+        "score": "29.37"
+    },
+    {
+        "athlete_name": "Petra KLINGLER",
+        "rank": "32",
+        "country": null,
+        "score": "29.88"
+    },
+    {
+        "athlete_name": "Futaba ITO",
+        "rank": "33",
+        "country": null,
+        "score": "30.27"
+    },
+    {
+        "athlete_name": "Liv EGLI",
+        "rank": "34",
+        "country": null,
+        "score": "30.92"
+    },
+    {
+        "athlete_name": "Miu KAKIZAKI",
+        "rank": "34",
+        "country": null,
+        "score": "30.92"
+    },
+    {
+        "athlete_name": "Roxana WIENAND",
+        "rank": "36",
+        "country": null,
+        "score": "31.23"
+    },
+    {
+        "athlete_name": "Miho NONAKA",
+        "rank": "37",
+        "country": null,
+        "score": "34.35"
+    },
+    {
+        "athlete_name": "Chloe CAULIER",
+        "rank": "38",
+        "country": null,
+        "score": "35.95"
+    },
+    {
+        "athlete_name": "Erin MCNEICE",
+        "rank": "38",
+        "country": null,
+        "score": "35.95"
+    },
+    {
+        "athlete_name": "Valeri KREMER",
+        "rank": "40",
+        "country": null,
+        "score": "38.48"
+    },
+    {
+        "athlete_name": "Eva Maria HAMMELM\u00dcLLER",
+        "rank": "41",
+        "country": null,
+        "score": "39.45"
+    },
+    {
+        "athlete_name": "Ilaria SCOLARIS",
+        "rank": "42",
+        "country": null,
+        "score": "40.62"
+    },
+    {
+        "athlete_name": "Valentina AGUADO",
+        "rank": "43",
+        "country": null,
+        "score": "41.62"
+    },
+    {
+        "athlete_name": "Martina DEMMEL",
+        "rank": "43",
+        "country": null,
+        "score": "41.62"
+    },
+    {
+        "athlete_name": "Michelle HULLIGER",
+        "rank": "45",
+        "country": null,
+        "score": "44.18"
+    },
+    {
+        "athlete_name": "Tina Johnsen HAFSAAS",
+        "rank": "46",
+        "country": null,
+        "score": "45.32"
+    },
+    {
+        "athlete_name": "K\u00e4the ATKINS",
+        "rank": "47",
+        "country": null,
+        "score": "45.41"
+    },
+    {
+        "athlete_name": "Zoe PEETERMANS",
+        "rank": "48",
+        "country": null,
+        "score": "47.2"
+    },
+    {
+        "athlete_name": "Zo\u00e9 EGLI",
+        "rank": "49",
+        "country": null,
+        "score": "47.78"
+    },
+    {
+        "athlete_name": "Claudia GHISOLFI",
+        "rank": "50",
+        "country": null,
+        "score": "48.85"
+    },
+    {
+        "athlete_name": "Lianet CASTILLO",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "Cloe COSCOY",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "Ema GALEOVA",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "Anne-Sophie KOLLER",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "No\u00e9 LOOSER",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "Noa SHIRAN",
+        "rank": "51",
+        "country": null,
+        "score": "52.18"
+    },
+    {
+        "athlete_name": "Rahil RAMEZANI",
+        "rank": "57",
+        "country": null,
+        "score": "52.73"
+    },
+    {
+        "athlete_name": "Sara COPAR",
+        "rank": "58",
+        "country": null,
+        "score": "54.55"
+    },
+    {
+        "athlete_name": "Andrea K\u00dcMIN",
+        "rank": "58",
+        "country": null,
+        "score": "54.55"
+    },
+    {
+        "athlete_name": "Federica PAPETTI",
+        "rank": "60",
+        "country": null,
+        "score": "56.24"
+    },
+    {
+        "athlete_name": "Nolwenn ARC",
+        "rank": "61",
+        "country": null,
+        "score": "56.5"
+    },
+    {
+        "athlete_name": "Valentina ARNOLDI",
+        "rank": "62",
+        "country": null,
+        "score": "57.16"
+    },
+    {
+        "athlete_name": "Indiana CHAPMAN",
+        "rank": "63",
+        "country": null,
+        "score": "59.33"
+    },
+    {
+        "athlete_name": "Adriene Akiko CLARK",
+        "rank": "63",
+        "country": null,
+        "score": "59.33"
+    },
+    {
+        "athlete_name": "Alejandra CONTRERAS",
+        "rank": "63",
+        "country": null,
+        "score": "59.33"
+    },
+    {
+        "athlete_name": "Franziska STERRER",
+        "rank": "63",
+        "country": null,
+        "score": "59.33"
+    },
+    {
+        "athlete_name": "Marketa JANOSOVA",
+        "rank": "67",
+        "country": null,
+        "score": "64.25"
+    },
+    {
+        "athlete_name": "Svana BJARNASON",
+        "rank": "68",
+        "country": null,
+        "score": "68.35"
+    },
+    {
+        "athlete_name": "Zoe GARCIA MOLINA",
+        "rank": "69",
+        "country": null,
+        "score": "69.0"
+    },
+    {
+        "athlete_name": "Muykuay SILVA",
+        "rank": "70",
+        "country": null,
+        "score": "69.24"
+    },
+    {
+        "athlete_name": "Laura FARHAT DE ARAUJO FRAGA TIMO",
+        "rank": "71",
+        "country": null,
+        "score": "71.74"
+    },
+    {
+        "athlete_name": "Emily SCOTT",
+        "rank": "72",
+        "country": null,
+        "score": "71.97"
+    },
+    {
+        "athlete_name": "Mariana HANGGI CORREIA",
+        "rank": "73",
+        "country": null,
+        "score": "72.48"
+    },
+    {
+        "athlete_name": "Elizabeth SEPULVEDA",
+        "rank": "74",
+        "country": null,
+        "score": "73.48"
+    },
+    {
+        "athlete_name": "Chloe EARLE",
+        "rank": "75",
+        "country": null,
+        "score": "73.5"
+    },
+    {
+        "athlete_name": "Tegwen OATES",
+        "rank": "76",
+        "country": null,
+        "score": "76.99"
+    },
+    {
+        "athlete_name": "Prateeksha ARUN",
+        "rank": "77",
+        "country": null,
+        "score": "77.24"
+    },
+    {
+        "athlete_name": "Mar\u00eda Fernanda HIDALGO AMEZQUITA",
+        "rank": "78",
+        "country": null,
+        "score": "77.75"
+    },
+    {
+        "athlete_name": "Alyssa MEYER",
+        "rank": "79",
+        "country": null,
+        "score": "79.25"
+    },
+    {
+        "athlete_name": "Sara TRAJKOSKA",
+        "rank": "79",
+        "country": null,
+        "score": "79.25"
+    },
+    {
+        "athlete_name": "Iris Pamela DURON ANTONIO",
+        "rank": "81",
+        "country": null,
+        "score": "80.5"
+    },
+    {
+        "athlete_name": "Vinnith IM",
+        "rank": "82",
+        "country": null,
+        "score": "82.0"
+    },
+    {
+        "athlete_name": "Grecia Daniela HERNANDEZ GUERRERO",
+        "rank": "83",
+        "country": null,
+        "score": "83.0"
+    },
+    {
+        "athlete_name": "Anastasia KOBETS",
+        "rank": "",
+        "country": null,
+        "score": "DNS"
+    },
+    {
+        "athlete_name": "Nika POTAPOVA",
+        "rank": "",
+        "country": null,
+        "score": "DNS"
+    },
+    {
+        "athlete_name": "Lucija TARKUS",
+        "rank": "",
+        "country": null,
+        "score": "DNS"
+    }
+]

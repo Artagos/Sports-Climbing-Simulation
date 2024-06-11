@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "USA",
+                "time": "5.37"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "USA",
+                "time": "5.96"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Ethan Pitcher",
+                "country": "CAN",
+                "time": "5.59"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "ECU",
+                "time": "5.52"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "USA",
+                "time": "5.32"
+            },
+            {
+                "name": "Ethan Pitcher",
+                "country": "CAN",
+                "time": "FALL"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "ECU",
+                "time": "FALL"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "USA",
+                "time": "5.37"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "USA",
+                "time": "5.05"
+            },
+            {
+                "name": "Isaac Estevez",
+                "country": "ECU",
+                "time": "5.68"
+            },
+            {
+                "name": "Ethan Pitcher",
+                "country": "CAN",
+                "time": "5.66"
+            },
+            {
+                "name": "Valentin Sternik",
+                "country": "ARG",
+                "time": "9.19"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "ECU",
+                "time": "5.57"
+            },
+            {
+                "name": "Dylan Le",
+                "country": "CAN",
+                "time": "5.84"
+            },
+            {
+                "name": "Pedro Egg",
+                "country": "BRA",
+                "time": "7.04"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "USA",
+                "time": "5.47"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "USA",
+                "time": "5.55"
+            },
+            {
+                "name": "Emilio Flores",
+                "country": "GUA",
+                "time": "10.61"
+            },
+            {
+                "name": "Isaac Estevez",
+                "country": "ECU",
+                "time": "5.85"
+            },
+            {
+                "name": "jose tomas Ledesma",
+                "country": "CHI",
+                "time": "6.22"
+            },
+            {
+                "name": "Ethan Pitcher",
+                "country": "CAN",
+                "time": "5.71"
+            },
+            {
+                "name": "Andr\u00e9s Alencaster",
+                "country": "MEX",
+                "time": "7.35"
+            },
+            {
+                "name": "Michael Finn-Henry",
+                "country": "CAN",
+                "time": "7.20"
+            },
+            {
+                "name": "Valentin Sternik",
+                "country": "ARG",
+                "time": "6.86"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "ECU",
+                "time": "5.74"
+            },
+            {
+                "name": "Joaquin Tapia",
+                "country": "CHI",
+                "time": "7.85"
+            },
+            {
+                "name": "Dylan Le",
+                "country": "CAN",
+                "time": "6.10"
+            },
+            {
+                "name": "Gabriel Cancel",
+                "country": "ECU",
+                "time": "6.56"
+            },
+            {
+                "name": "John Brosler",
+                "country": "USA",
+                "time": "7.67"
+            },
+            {
+                "name": "Pedro Egg",
+                "country": "BRA",
+                "time": "7.35"
+            },
+            {
+                "name": "Gustavo Jose Perez",
+                "country": "VEN",
+                "time": "10.27"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "USA",
+                "time": "5.48"
+            }
+        ]
+    }
+]

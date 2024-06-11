@@ -1,0 +1,317 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra MIROSLAW",
+        "country": "47 \u2022 POL",
+        "scores": [
+            "6.64",
+            "6.73"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Desak MADE RITA KUSUMA DEWI",
+        "country": "74 \u2022 INA",
+        "scores": [
+            "7.15",
+            "9.03"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Rajiah SALLSABILLAH",
+        "country": "53 \u2022 INA",
+        "scores": [
+            "7.26",
+            "7.30"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Nurul IQAMAH",
+        "country": "56 \u2022 INA",
+        "scores": [
+            "7.31",
+            "7.42"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Aleksandra KALUCKA",
+        "country": "61 \u2022 POL",
+        "scores": [
+            "7.40",
+            "7.61"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Patrycja CHUDZIAK",
+        "country": "62 \u2022 POL",
+        "scores": [
+            "7.51",
+            "7.76"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Franziska RITTER",
+        "country": "49 \u2022 GER",
+        "scores": [
+            "7.55",
+            "7.76"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Capucine VIGLIONE",
+        "country": "60 \u2022 FRA",
+        "scores": [
+            "7.67",
+            "9.03"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Beatrice COLLI",
+        "country": "71 \u2022 ITA",
+        "scores": [
+            "FALL",
+            "7.80"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Natalia KALUCKA",
+        "country": "63 \u2022 POL",
+        "scores": [
+            "7.83",
+            "9.32"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Emma HUNT",
+        "country": "67 \u2022 USA",
+        "scores": [
+            "7.99",
+            "8.17"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Aurelia SARISSON",
+        "country": "46 \u2022 FRA",
+        "scores": [
+            "FALL",
+            "8.05"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Jimin JEONG",
+        "country": "59 \u2022 KOR",
+        "scores": [
+            "8.12",
+            "14.67"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Alivany VER KHADIJAH",
+        "country": "44 \u2022 INA",
+        "scores": [
+            "8.18",
+            "9.64"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Nuria BROCKFELD",
+        "country": "68 \u2022 GER",
+        "scores": [
+            "FALL",
+            "8.20"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Lison GAUTRON",
+        "country": "45 \u2022 FRA",
+        "scores": [
+            "8.23",
+            "8.40"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "69 \u2022 ESP",
+        "scores": [
+            "FALL",
+            "8.47"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Fumika KAWAKAMI",
+        "country": "64 \u2022 JPN",
+        "scores": [
+            "8.48",
+            "9.39"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Ai TAKEUCHI",
+        "country": "66 \u2022 JPN",
+        "scores": [
+            "8.62",
+            "9.21"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Karin HAYASHI",
+        "country": "73 \u2022 JPN",
+        "scores": [
+            "8.67",
+            "11.20"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Andrea ROJAS",
+        "country": "58 \u2022 ECU",
+        "scores": [
+            "FALL",
+            "8.78"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Giulia RANDI",
+        "country": "65 \u2022 ITA",
+        "scores": [
+            "FALL",
+            "9.14"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Heeju NOH",
+        "country": "48 \u2022 KOR",
+        "scores": [
+            "FALL",
+            "9.22"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Callie CLOSE",
+        "country": "50 \u2022 USA",
+        "scores": [
+            "9.24",
+            "10.86"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Seoyeon PARK",
+        "country": "52 \u2022 KOR",
+        "scores": [
+            "9.30",
+            "9.50"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Youjin CHA",
+        "country": "43 \u2022 KOR",
+        "scores": [
+            "9.39",
+            "9.75"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Hanareum SUNG",
+        "country": "75 \u2022 KOR",
+        "scores": [
+            "9.44",
+            "9.67"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Sophia CURCIO",
+        "country": "55 \u2022 USA",
+        "scores": [
+            "9.45",
+            "9.67"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Nawoo CHOI",
+        "country": "72 \u2022 KOR",
+        "scores": [
+            "9.86",
+            "10.30"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Hyebin KIM",
+        "country": "70 \u2022 KOR",
+        "scores": [
+            "10.06",
+            "11.27"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Yena PI",
+        "country": "41 \u2022 KOR",
+        "scores": [
+            "10.72",
+            "10.84"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Victoire ANDRIER",
+        "country": "42 \u2022 FRA",
+        "scores": [
+            "FALL",
+            "11.06"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Dasom YUN",
+        "country": "54 \u2022 KOR",
+        "scores": [
+            "11.23",
+            "11.90"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Grace CROWLEY",
+        "country": "57 \u2022 AUS",
+        "scores": [
+            "11.57",
+            "13.62"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Yejin JUNG",
+        "country": "51 \u2022 KOR",
+        "scores": [
+            "FALSE START",
+            "12.12"
+        ]
+    }
+]

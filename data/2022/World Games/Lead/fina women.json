@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "1",
+        "country": null,
+        "score": "42+"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "2",
+        "country": null,
+        "score": "35"
+    },
+    {
+        "athlete_name": "Lana SKUSEK",
+        "rank": "3",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Ignacia MELLADO QUINTEROS",
+        "rank": "4",
+        "country": null,
+        "score": "33"
+    },
+    {
+        "athlete_name": "Ievgeniia KAZBEKOVA",
+        "rank": "5",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Salomé ROMAIN",
+        "rank": "5",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Momoko ABE",
+        "rank": "7",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Chloe CAULIER",
+        "rank": "8",
+        "country": null,
+        "score": "29"
+    }
+]

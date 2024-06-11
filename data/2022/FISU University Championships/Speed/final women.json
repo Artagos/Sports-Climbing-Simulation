@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.10"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "11.33"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.27"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.39"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.18"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.42"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "WILDCARD"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.81"
+            },
+            {
+                "name": "Mia Weeda",
+                "country": "",
+                "time": "11.78"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.39"
+            },
+            {
+                "name": "Agata LESIEWICZ",
+                "country": "",
+                "time": "9.06"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.77"
+            },
+            {
+                "name": "Helen Stephens",
+                "country": "",
+                "time": "11.23"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "8.97"
+            },
+            {
+                "name": "Emma Wetsel",
+                "country": "",
+                "time": "10.63"
+            }
+        ]
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.49"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.74"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "6.30"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.65"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "7.78"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "6.94"
+            },
+            {
+                "name": "Alejandro Rivas Domínguez",
+                "country": "",
+                "time": "8.30"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "6.31"
+            },
+            {
+                "name": "Petr Burian",
+                "country": "",
+                "time": "6.68"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.75"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "6.16"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "6.40"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "6.25"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "5.89"
+            },
+            {
+                "name": "Hubert Przytula",
+                "country": "",
+                "time": "7.97"
+            },
+            {
+                "name": "Alejandro Rivas Domínguez",
+                "country": "",
+                "time": "6.24"
+            },
+            {
+                "name": "Denys Mozolevych",
+                "country": "",
+                "time": "6.41"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "6.63"
+            },
+            {
+                "name": "Matthew Fall",
+                "country": "",
+                "time": "7.01"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "7.09"
+            },
+            {
+                "name": "Petr Burian",
+                "country": "",
+                "time": "6.82"
+            },
+            {
+                "name": "Bassa Mawem",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Jan Tkaczyk",
+                "country": "",
+                "time": "9.16"
+            },
+            {
+                "name": "Linus Bader",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Leander Carmanns",
+                "country": "",
+                "time": "5.97"
+            },
+            {
+                "name": "Hryhorii Ilchyshyn",
+                "country": "",
+                "time": "6.15"
+            },
+            {
+                "name": "Jan Simunek",
+                "country": "",
+                "time": "6.91"
+            },
+            {
+                "name": "Oskar Szalecki",
+                "country": "",
+                "time": "6.28"
+            },
+            {
+                "name": "Dmytro Iliukhin",
+                "country": "",
+                "time": "6.69"
+            }
+        ]
+    }
+]

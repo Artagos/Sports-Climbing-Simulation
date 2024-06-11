@@ -1,0 +1,158 @@
+[
+    {
+        "athlete_name": "Toby ROBERTS",
+        "rank": "1",
+        "country": null,
+        "score": "45+"
+    },
+    {
+        "athlete_name": "Sorato ANRAKU",
+        "rank": "2",
+        "country": null,
+        "score": "44+"
+    },
+    {
+        "athlete_name": "Shuta TANAKA",
+        "rank": "3",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Maximillian MILNE",
+        "rank": "4",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "5",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "6",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Hannes VAN DUYSEN",
+        "rank": "7",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Zento MURASHITA",
+        "rank": "8",
+        "country": null,
+        "score": "31"
+    },
+    {
+        "athlete_name": "Shion OMATA",
+        "rank": "8",
+        "country": null,
+        "score": "31"
+    },
+    {
+        "athlete_name": "Tomoa NARASAKI",
+        "rank": "10",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Satone YOSHIDA",
+        "rank": "11",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Sam AVEZOU",
+        "rank": "12",
+        "country": null,
+        "score": "28+"
+    },
+    {
+        "athlete_name": "Ao YURIKUSA",
+        "rank": "12",
+        "country": null,
+        "score": "28+"
+    },
+    {
+        "athlete_name": "Masahiro HIGUCHI",
+        "rank": "14",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Luka POTOCAR",
+        "rank": "15",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Dohyun LEE",
+        "rank": "16",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Martin STRANIK",
+        "rank": "17",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Filip SCHENK",
+        "rank": "18",
+        "country": null,
+        "score": "26"
+    },
+    {
+        "athlete_name": "Yoshiyuki OGATA",
+        "rank": "19",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Colin DUFFY",
+        "rank": "20",
+        "country": null,
+        "score": "15+"
+    },
+    {
+        "athlete_name": "Yuta IMAIZUMI",
+        "rank": "21",
+        "country": null,
+        "score": "15+"
+    },
+    {
+        "athlete_name": "Stefano GHISOLFI",
+        "rank": "22",
+        "country": null,
+        "score": "15+"
+    },
+    {
+        "athlete_name": "Jonas UTELLI",
+        "rank": "23",
+        "country": null,
+        "score": "15+"
+    },
+    {
+        "athlete_name": "Campbell HARRISON",
+        "rank": "24",
+        "country": null,
+        "score": "15+"
+    },
+    {
+        "athlete_name": "Musauwir MUSAUWIR",
+        "rank": "25",
+        "country": null,
+        "score": "15"
+    },
+    {
+        "athlete_name": "Stefan SCHERZ",
+        "rank": "26",
+        "country": null,
+        "score": "13+"
+    }
+]

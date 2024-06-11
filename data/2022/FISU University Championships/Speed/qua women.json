@@ -1,0 +1,116 @@
+[
+    {
+        "rank": "1",
+        "name": "Aleksandra KALUCKA",
+        "country": "33 \u2022 POL",
+        "scores": [
+            "6.98",
+            "7.45"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Natalia KALUCKA",
+        "country": "39 \u2022 POL",
+        "scores": [
+            "7.36",
+            "8.41"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Giulia RANDI",
+        "country": "38 \u2022 ITA",
+        "scores": [
+            "7.96",
+            "9.51"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Alina SHCHYHARIEVA",
+        "country": "26 \u2022 UKR",
+        "scores": [
+            "8.32",
+            "8.59"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Agata LESIEWICZ",
+        "country": "31 \u2022 POL",
+        "scores": [
+            "8.71",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Emma WETSEL",
+        "country": "35 \u2022 USA",
+        "scores": [
+            "10.28",
+            "11.33"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Helen STEPHENS",
+        "country": "29 \u2022 USA",
+        "scores": [
+            "10.53",
+            "10.54"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Mia WEEDA",
+        "country": "30 \u2022 AUS",
+        "scores": [
+            "11.63",
+            "12.12"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Olha SOKOLOVA",
+        "country": "36 \u2022 UKR",
+        "scores": [
+            "12.08",
+            "13.31"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Svitlana VOROBIOVA",
+        "country": "32 \u2022 UKR",
+        "scores": [
+            "25.12",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Oksana BUROVA",
+        "country": "37 \u2022 UKR",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Laura ST\u00d6CKLER",
+        "country": "27 \u2022 AUT",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "",
+        "name": "Vana PICCINI",
+        "country": "34 \u2022 CRO",
+        "scores": []
+    }
+]

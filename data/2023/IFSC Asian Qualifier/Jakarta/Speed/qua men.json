@@ -1,0 +1,224 @@
+[
+    {
+        "rank": "1",
+        "name": "Veddriq LEONARDO",
+        "country": "110 \u2022 INA",
+        "scores": [
+            "5.11",
+            "5.77"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Kiromal KATIBIN",
+        "country": "107 \u2022 INA",
+        "scores": [
+            "5.20",
+            "7.24"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Jun YASUKAWA",
+        "country": "108 \u2022 JPN",
+        "scores": [
+            "5.27",
+            "5.36"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Xinshang WANG",
+        "country": "103 \u2022 CHN",
+        "scores": [
+            "5.30",
+            "5.40"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Peng WU",
+        "country": "101 \u2022 CHN",
+        "scores": [
+            "5.31",
+            "5.34"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Ryo OMASA",
+        "country": "106 \u2022 JPN",
+        "scores": [
+            "5.39",
+            "5.52"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Amir MAIMURATOV",
+        "country": "102 \u2022 KAZ",
+        "scores": [
+            "5.39",
+            "5.56"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Rahmad ADI MULYONO",
+        "country": "116 \u2022 INA",
+        "scores": [
+            "5.39",
+            "6.64"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Rishat KHAIBULLIN",
+        "country": "124 \u2022 KAZ",
+        "scores": [
+            "5.47",
+            "6.47"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Mehdi ALIPOUR SHENAZANDIFARD",
+        "country": "112 \u2022 IRI",
+        "scores": [
+            "5.51",
+            "5.60"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Jianguo LONG",
+        "country": "122 \u2022 CHN",
+        "scores": [
+            "5.60",
+            "5.62"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Seungbeom LEE",
+        "country": "104 \u2022 KOR",
+        "scores": [
+            "5.64",
+            "5.80"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Kazuki TANII",
+        "country": "125 \u2022 JPN",
+        "scores": [
+            "5.70",
+            "6.04"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Reza ALIPOUR SHENAZANDIFARD",
+        "country": "114 \u2022 IRI",
+        "scores": [
+            "5.98",
+            "7.02"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Deepu MALLESH",
+        "country": "115 \u2022 IND",
+        "scores": [
+            "FALL",
+            "6.11"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Yongjun JUNG",
+        "country": "113 \u2022 KOR",
+        "scores": [
+            "6.13",
+            "6.97"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Aphiwit LIMPANICHPAKDEE",
+        "country": "119 \u2022 THA",
+        "scores": [
+            "6.20",
+            "6.68"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Tan BING QIAN",
+        "country": "105 \u2022 SGP",
+        "scores": [
+            "6.27",
+            "6.53"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Chia Hsiang LIN",
+        "country": "120 \u2022 TPE",
+        "scores": [
+            "6.48",
+            "6.63"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Yongsu LEE",
+        "country": "111 \u2022 KOR",
+        "scores": [
+            "6.97",
+            "10.27"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Milad ALIPOURSHENAZANDIFARD",
+        "country": "118 \u2022 IRI",
+        "scores": [
+            "FALL",
+            "7.06"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Zaheer AHMAD",
+        "country": "121 \u2022 PAK",
+        "scores": [
+            "7.19",
+            "7.40"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Mir Abuzar FAIZ",
+        "country": "109 \u2022 PAK",
+        "scores": [
+            "7.21",
+            "10.75"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Zhandos KALIBAY",
+        "country": "117 \u2022 KAZ",
+        "scores": [
+            "7.58",
+            "9.45"
+        ]
+    },
+    {
+        "rank": "",
+        "name": "Fazal WADOOD",
+        "country": "123 \u2022 PAK",
+        "scores": []
+    }
+]

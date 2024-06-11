@@ -1,0 +1,623 @@
+[
+    {
+        "rank": "1",
+        "name": "Kiromal KATIBIN",
+        "country": "INA",
+        "scores": [
+            "5.04",
+            "5.09"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Long CAO",
+        "country": "CHN",
+        "scores": [
+            "5.21",
+            "5.49"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Jianguo LONG",
+        "country": "CHN",
+        "scores": [
+            "5.22",
+            "5.26"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Peng WU",
+        "country": "CHN",
+        "scores": [
+            "5.32",
+            "5.51"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Reza ALIPOUR SHENAZANDIFARD",
+        "country": "IRI",
+        "scores": [
+            "5.33",
+            "5.41"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "John BROSLER",
+        "country": "USA",
+        "scores": [
+            "5.35",
+            "5.71"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Jinbao LONG",
+        "country": "CHN",
+        "scores": [
+            "5.36",
+            "5.47"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Veddriq LEONARDO",
+        "country": "INA",
+        "scores": [
+            "5.37",
+            "5.42"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Alfian MUHAMMAD FAJRI",
+        "country": "INA",
+        "scores": [
+            "5.43",
+            "5.56"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Rahmad ADI MULYONO",
+        "country": "INA",
+        "scores": [
+            "5.45",
+            "5.47"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Ludovico FOSSALI",
+        "country": "ITA",
+        "scores": [
+            "5.45",
+            "5.64"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Guillaume MORO",
+        "country": "FRA",
+        "scores": [
+            "5.49",
+            "5.63"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Erik NOYA CARDONA",
+        "country": "ESP",
+        "scores": [
+            "5.50",
+            "5.57"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Marcin DZIENSKI",
+        "country": "POL",
+        "scores": [
+            "5.54",
+            "5.65"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Zaenal ARIPIN",
+        "country": "INA",
+        "scores": [
+            "5.57",
+            "5.62"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Samuel WATSON",
+        "country": "USA",
+        "scores": [
+            "5.58",
+            "5.81"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Aspar ASPAR",
+        "country": "INA",
+        "scores": [
+            "5.59",
+            "5.61"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Ryo OMASA",
+        "country": "JPN",
+        "scores": [
+            "5.61",
+            "5.78"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Euncheol SHIN",
+        "country": "KOR",
+        "scores": [
+            "5.63",
+            "5.65"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Gian Luca ZODDA",
+        "country": "ITA",
+        "scores": [
+            "5.70",
+            "5.80"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Rishat KHAIBULLIN",
+        "country": "KAZ",
+        "scores": [
+            "5.70",
+            "5.83"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Yongjun JUNG",
+        "country": "KOR",
+        "scores": [
+            "FALL",
+            "5.73"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Leander CARMANNS",
+        "country": "GER",
+        "scores": [
+            "5.74",
+            "5.89"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Alessandro CINGARI",
+        "country": "ITA",
+        "scores": [
+            "5.78",
+            "5.96"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Noah BRATSCHI",
+        "country": "USA",
+        "scores": [
+            "5.79",
+            "5.85"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Alessandro BOULOS",
+        "country": "ITA",
+        "scores": [
+            "5.79",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Tobias PLANGGER",
+        "country": "AUT",
+        "scores": [
+            "5.83",
+            "5.85"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Pierre REBREYEND",
+        "country": "FRA",
+        "scores": [
+            "5.83",
+            "5.96"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Matteo ZURLONI",
+        "country": "ITA",
+        "scores": [
+            "5.84",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Carlos GRANJA",
+        "country": "ECU",
+        "scores": [
+            "5.85",
+            "6.05"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Michael FINN-HENRY",
+        "country": "CAN",
+        "scores": [
+            "5.87",
+            "5.97"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Ethan PITCHER",
+        "country": "CAN",
+        "scores": [
+            "5.88",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Ehsan ASRAR",
+        "country": "IRI",
+        "scores": [
+            "FALL",
+            "5.90"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Zach HAMMER",
+        "country": "USA",
+        "scores": [
+            "5.90",
+            "9.03"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Shuto FUJINO",
+        "country": "JPN",
+        "scores": [
+            "5.90",
+            "6.01"
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "Jun YASUKAWA",
+        "country": "JPN",
+        "scores": [
+            "FALL",
+            "5.92"
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "Mohsen SHAFIEI",
+        "country": "IRI",
+        "scores": [
+            "5.96",
+            "8.49"
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "Isaac ESTEVEZ",
+        "country": "ECU",
+        "scores": [
+            "5.98",
+            "6.46"
+        ]
+    },
+    {
+        "rank": "39",
+        "name": "Sebastian LUCKE",
+        "country": "GER",
+        "scores": [
+            "5.98",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "Alisher MURAT",
+        "country": "KAZ",
+        "scores": [
+            "5.99",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "41",
+        "name": "Kostiantyn PAVLENKO",
+        "country": "UKR",
+        "scores": [
+            "5.99",
+            "6.39"
+        ]
+    },
+    {
+        "rank": "42",
+        "name": "Yann LE CLERCQ DE LANNOY",
+        "country": "FRA",
+        "scores": [
+            "6.00",
+            "7.03"
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "Lukas KNAPP",
+        "country": "AUT",
+        "scores": [
+            "6.09",
+            "6.23"
+        ]
+    },
+    {
+        "rank": "44",
+        "name": "Oskar SZALECKI",
+        "country": "POL",
+        "scores": [
+            "6.13",
+            "8.29"
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "Cheung-Chi Shoji CHAN",
+        "country": "HKG",
+        "scores": [
+            "6.18",
+            "6.93"
+        ]
+    },
+    {
+        "rank": "46",
+        "name": "Quinn O'FRANCIA",
+        "country": "USA",
+        "scores": [
+            "6.20",
+            "6.34"
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "Linus BADER",
+        "country": "GER",
+        "scores": [
+            "6.22",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "48",
+        "name": "Ayumu MITA",
+        "country": "JPN",
+        "scores": [
+            "6.27",
+            "6.28"
+        ]
+    },
+    {
+        "rank": "49",
+        "name": "Yudai IKEDA",
+        "country": "JPN",
+        "scores": [
+            "6.28",
+            "7.06"
+        ]
+    },
+    {
+        "rank": "50",
+        "name": "Minsu KANG",
+        "country": "KOR",
+        "scores": [
+            "6.33",
+            "6.49"
+        ]
+    },
+    {
+        "rank": "51",
+        "name": "Taeung MOON",
+        "country": "KOR",
+        "scores": [
+            "6.34",
+            "7.96"
+        ]
+    },
+    {
+        "rank": "52",
+        "name": "Jan KRIZ",
+        "country": "CZE",
+        "scores": [
+            "6.35",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "53",
+        "name": "Joe GOODACRE",
+        "country": "USA",
+        "scores": [
+            "6.39",
+            "7.49"
+        ]
+    },
+    {
+        "rank": "54",
+        "name": "Dylan LE",
+        "country": "CAN",
+        "scores": [
+            "6.46",
+            "6.62"
+        ]
+    },
+    {
+        "rank": "55",
+        "name": "Chi-Fung AU",
+        "country": "HKG",
+        "scores": [
+            "6.55",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "56",
+        "name": "Matvey YESSIPOV",
+        "country": "KAZ",
+        "scores": [
+            "6.55",
+            "7.39"
+        ]
+    },
+    {
+        "rank": "57",
+        "name": "Marius PAYET GABORIAUD",
+        "country": "FRA",
+        "scores": [
+            "6.58",
+            "6.61"
+        ]
+    },
+    {
+        "rank": "58",
+        "name": "Cheuk-Nam WONG",
+        "country": "HKG",
+        "scores": [
+            "6.61",
+            "6.63"
+        ]
+    },
+    {
+        "rank": "59",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "country": "ESP",
+        "scores": [
+            "FALL",
+            "6.68"
+        ]
+    },
+    {
+        "rank": "60",
+        "name": "Liang ZHANG",
+        "country": "CHN",
+        "scores": [
+            "6.75",
+            "7.14"
+        ]
+    },
+    {
+        "rank": "61",
+        "name": "Micah LISS",
+        "country": "USA",
+        "scores": [
+            "7.29",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "62",
+        "name": "Joshua BRUYNS",
+        "country": "RSA",
+        "scores": [
+            "7.30",
+            "9.24"
+        ]
+    },
+    {
+        "rank": "63",
+        "name": "Matthew FALL",
+        "country": "GBR",
+        "scores": [
+            "7.50",
+            "8.42"
+        ]
+    },
+    {
+        "rank": "64",
+        "name": "Valentin STERNIK",
+        "country": "ARG",
+        "scores": [
+            "7.88",
+            "9.19"
+        ]
+    },
+    {
+        "rank": "65",
+        "name": "Rafe STOKES",
+        "country": "GBR",
+        "scores": [
+            "7.93",
+            "9.23"
+        ]
+    },
+    {
+        "rank": "66",
+        "name": "Amir MAIMURATOV",
+        "country": "KAZ",
+        "scores": [
+            "FALL",
+            "10.94"
+        ]
+    },
+    {
+        "rank": "67",
+        "name": "Tsz-Kiu LAU",
+        "country": "HKG",
+        "scores": [
+            "FALL",
+            "12.17"
+        ]
+    },
+    {
+        "rank": "68",
+        "name": "Lawrence BOGESCHDORFER",
+        "country": "AUT",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "Man-Hei CHUNG",
+        "country": "HKG",
+        "scores": [
+            "FALSE START",
+            ""
+        ]
+    }
+]

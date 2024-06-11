@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.55"
+            },
+            {
+                "name": "Aleksandra KALUCKA",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.94"
+            },
+            {
+                "name": "Natalia KALUCKA",
+                "country": "",
+                "time": "7.14"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.41 (PaR)"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.81"
+            },
+            {
+                "name": "Natalia KALUCKA",
+                "country": "",
+                "time": "7.25"
+            },
+            {
+                "name": "Aleksandra KALUCKA",
+                "country": "",
+                "time": "7.03"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.64"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "",
+                "time": "7.82"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "7.26"
+            },
+            {
+                "name": "MENGLI ZHANG",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Natalia KALUCKA",
+                "country": "",
+                "time": "7.30"
+            },
+            {
+                "name": "GUIZHEN XIE",
+                "country": "",
+                "time": "7.77"
+            },
+            {
+                "name": "Aleksandra KALUCKA",
+                "country": "",
+                "time": "7.18"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "",
+                "time": "9.53"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.72"
+            },
+            {
+                "name": "Abby Gebert",
+                "country": "",
+                "time": "9.12"
+            },
+            {
+                "name": "Sophia Curcio",
+                "country": "",
+                "time": "8.57"
+            },
+            {
+                "name": "MI YANG",
+                "country": "",
+                "time": "9.76"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "7.25"
+            },
+            {
+                "name": "Haruka KANETANI",
+                "country": "",
+                "time": "8.74"
+            },
+            {
+                "name": "MENGLI ZHANG",
+                "country": "",
+                "time": "7.54"
+            },
+            {
+                "name": "Karin HAYASHI",
+                "country": "",
+                "time": "8.01"
+            },
+            {
+                "name": "Natalia KALUCKA",
+                "country": "",
+                "time": "7.52"
+            },
+            {
+                "name": "Isis ROTHFORK",
+                "country": "",
+                "time": "7.95"
+            },
+            {
+                "name": "GUIZHEN XIE",
+                "country": "",
+                "time": "7.65"
+            },
+            {
+                "name": "JINGYUE FAN",
+                "country": "",
+                "time": "7.81"
+            },
+            {
+                "name": "Aleksandra KALUCKA",
+                "country": "",
+                "time": "7.87"
+            },
+            {
+                "name": "Liberty Runnels",
+                "country": "",
+                "time": "9.65"
+            },
+            {
+                "name": "Piper Kelly",
+                "country": "",
+                "time": "7.73"
+            },
+            {
+                "name": "Kaitlyn Bone",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    }
+]

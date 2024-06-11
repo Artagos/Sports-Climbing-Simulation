@@ -1,0 +1,110 @@
+[
+    {
+        "rank": "1",
+        "name": "Kiromal KATIBIN",
+        "country": "2 \u2022 INA",
+        "scores": [
+            "5.27",
+            "6.42"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Veddriq LEONARDO",
+        "country": "5 \u2022 INA",
+        "scores": [
+            "5.28",
+            "5.30"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "John BROSLER",
+        "country": "1 \u2022 USA",
+        "scores": [
+            "5.43",
+            "7.02"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Yaroslav TKACH",
+        "country": "8 \u2022 UKR",
+        "scores": [
+            "5.56",
+            "5.80"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Danyil BOLDYREV",
+        "country": "3 \u2022 UKR",
+        "scores": [
+            "5.66",
+            "5.78"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Rishat KHAIBULLIN",
+        "country": "7 \u2022 KAZ",
+        "scores": [
+            "5.66",
+            "5.94"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Marcin DZIENSKI",
+        "country": "10 \u2022 POL",
+        "scores": [
+            "5.79",
+            "6.06"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Guillaume MORO",
+        "country": "6 \u2022 FRA",
+        "scores": [
+            "5.81",
+            "5.85"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Noah BRATSCHI",
+        "country": "9 \u2022 USA",
+        "scores": [
+            "6.11",
+            "6.69"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Lawrence BOGESCHDORFER",
+        "country": "11 \u2022 AUT",
+        "scores": [
+            "6.27",
+            "8.13"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Christopher COSSER",
+        "country": "4 \u2022 RSA",
+        "scores": [
+            "6.78",
+            "10.39"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Tobias PLANGGER",
+        "country": "12 \u2022 AUT",
+        "scores": [
+            "8.53",
+            "10.40"
+        ]
+    }
+]

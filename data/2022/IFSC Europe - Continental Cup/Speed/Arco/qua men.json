@@ -1,0 +1,191 @@
+[
+    {
+        "rank": "1",
+        "name": "Ludovico FOSSALI",
+        "country": "45 \u2022 ITA",
+        "scores": [
+            "FALL",
+            "5.62"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Tobias PLANGGER",
+        "country": "5 \u2022 AUT",
+        "scores": [
+            "FALL",
+            "5.66"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Alessandro BOULOS",
+        "country": "52 \u2022 ITA",
+        "scores": [
+            "5.72",
+            "5.72"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Gian Luca ZODDA",
+        "country": "44 \u2022 ITA",
+        "scores": [
+            "5.75",
+            "6.32"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Yaroslav TKACH",
+        "country": "67 \u2022 UKR",
+        "scores": [
+            "5.75",
+            "6.02"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Marco RONTINI",
+        "country": "48 \u2022 ITA",
+        "scores": [
+            "5.82",
+            "6.18"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Sebastian LUCKE",
+        "country": "26 \u2022 GER",
+        "scores": [
+            "FALL",
+            "5.90"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Alessandro CINGARI",
+        "country": "46 \u2022 ITA",
+        "scores": [
+            "5.99",
+            "6.15"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Yann LE CLERCQ DE LANNOY",
+        "country": "21 \u2022 FRA",
+        "scores": [
+            "6.07",
+            "6.11"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Lukas KNAPP",
+        "country": "4 \u2022 AUT",
+        "scores": [
+            "6.12",
+            "6.35"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Matteo ZURLONI",
+        "country": "47 \u2022 ITA",
+        "scores": [
+            "6.12",
+            "10.32"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Hryhorii ILCHYSHYN",
+        "country": "66 \u2022 UKR",
+        "scores": [
+            "6.17",
+            "7.48"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Kostiantyn PAVLENKO",
+        "country": "70 \u2022 UKR",
+        "scores": [
+            "FALL",
+            "6.25"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Linus BADER",
+        "country": "27 \u2022 GER",
+        "scores": [
+            "FALL",
+            "6.27"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Lawrence BOGESCHDORFER",
+        "country": "3 \u2022 AUT",
+        "scores": [
+            "6.30",
+            "6.64"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Leander CARMANNS",
+        "country": "32 \u2022 GER",
+        "scores": [
+            "6.34",
+            "8.43"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Kevin AMON",
+        "country": "2 \u2022 AUT",
+        "scores": [
+            "6.36",
+            "6.44"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Denys MOZOLEVYCH",
+        "country": "65 \u2022 UKR",
+        "scores": [
+            "6.39",
+            "6.64"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Dorian ZEDLER",
+        "country": "28 \u2022 GER",
+        "scores": [
+            "6.76",
+            "6.91"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Daniele BALESTRAZZI",
+        "country": "49 \u2022 ITA",
+        "scores": [
+            "7.17",
+            "11.00"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Francesco GOVONI",
+        "country": "51 \u2022 ITA",
+        "scores": [
+            "FALSE START",
+            "FALSE START"
+        ]
+    }
+]

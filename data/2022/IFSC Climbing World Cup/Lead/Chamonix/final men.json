@@ -1,0 +1,56 @@
+[
+    {
+        "athlete_name": "Adam ONDRA",
+        "rank": "1",
+        "country": null,
+        "score": "39+"
+    },
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "2",
+        "country": null,
+        "score": "39+"
+    },
+    {
+        "athlete_name": "Sean BAILEY",
+        "rank": "3",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Luka POTOCAR",
+        "rank": "4",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Yannick FLOHÉ",
+        "rank": "5",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Sam AVEZOU",
+        "rank": "6",
+        "country": null,
+        "score": "25+"
+    },
+    {
+        "athlete_name": "Hamish MCARTHUR",
+        "rank": "7",
+        "country": null,
+        "score": "25+"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "8",
+        "country": null,
+        "score": "20+"
+    },
+    {
+        "athlete_name": "Satone YOSHIDA",
+        "rank": "9",
+        "country": null,
+        "score": "12"
+    }
+]

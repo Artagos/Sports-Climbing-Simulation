@@ -1,0 +1,74 @@
+[
+    {
+        "athlete_name": "Jesse GRUPPER",
+        "rank": "1",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "Martin BERGANT",
+        "rank": "2",
+        "country": null,
+        "score": "37"
+    },
+    {
+        "athlete_name": "Nicolas COLLIN",
+        "rank": "3",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Paul JENFT",
+        "rank": "4",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Yoshiyuki OGATA",
+        "rank": "4",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Mathias POSCH",
+        "rank": "6",
+        "country": null,
+        "score": "35"
+    },
+    {
+        "athlete_name": "Mejdi SCHALCK",
+        "rank": "7",
+        "country": null,
+        "score": "34"
+    },
+    {
+        "athlete_name": "Masahiro HIGUCHI",
+        "rank": "8",
+        "country": null,
+        "score": "33+"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "8",
+        "country": null,
+        "score": "33+"
+    },
+    {
+        "athlete_name": "Anze PEHARC",
+        "rank": "10",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Benjamin VARGAS",
+        "rank": "11",
+        "country": null,
+        "score": "23+"
+    },
+    {
+        "athlete_name": "Mel JANSE VAN RENSBURG",
+        "rank": "12",
+        "country": null,
+        "score": "19+"
+    }
+]

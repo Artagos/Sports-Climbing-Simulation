@@ -1,0 +1,146 @@
+[
+    {
+        "rank": "1",
+        "name": "Samuel WATSON",
+        "country": "USA",
+        "scores": [
+            "5.38",
+            "6.44"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Carlos GRANJA",
+        "country": "ECU",
+        "scores": [
+            "5.59",
+            "5.84"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "John BROSLER",
+        "country": "USA",
+        "scores": [
+            "5.69",
+            "5.70"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Ethan PITCHER",
+        "country": "CAN",
+        "scores": [
+            "5.77",
+            "5.78"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Michael FINN-HENRY",
+        "country": "CAN",
+        "scores": [
+            "5.83",
+            "7.42"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Gustavo Jose PEREZ",
+        "country": "VEN",
+        "scores": [
+            "5.90",
+            "11.27"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Dylan LE",
+        "country": "CAN",
+        "scores": [
+            "5.97",
+            "6.77"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Isaac ESTEVEZ",
+        "country": "ECU",
+        "scores": [
+            "6.13",
+            "8.54"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Jose Tomas LEDESMA",
+        "country": "CHI",
+        "scores": [
+            "6.28",
+            "6.41"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Gabriel CANCEL",
+        "country": "ECU",
+        "scores": [
+            "6.29",
+            "7.18"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Noah BRATSCHI",
+        "country": "USA",
+        "scores": [
+            "6.56",
+            "6.58"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Valentin STERNIK",
+        "country": "ARG",
+        "scores": [
+            "6.76",
+            "6.95"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Andr\u00e9s ALENCASTER",
+        "country": "MEX",
+        "scores": [
+            "7.18",
+            "7.46"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Pedro EGG",
+        "country": "BRA",
+        "scores": [
+            "7.42",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Joaquin TAPIA",
+        "country": "CHI",
+        "scores": [
+            "8.73",
+            "9.40"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Emilio FLORES",
+        "country": "GUA",
+        "scores": [
+            "10.75",
+            "10.83"
+        ]
+    }
+]

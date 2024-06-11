@@ -1,0 +1,56 @@
+[
+    {
+        "rank": "1",
+        "name": "Aniya HOLDER",
+        "country": "3 \u2022 RSA",
+        "scores": [
+            "11.89",
+            "14.98"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Tegwen OATES",
+        "country": "1 \u2022 RSA",
+        "scores": [
+            "14.46",
+            "14.61"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Alyssa MEYER",
+        "country": "2 \u2022 RSA",
+        "scores": [
+            "16.53",
+            "17.48"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Samantha GOODWIN",
+        "country": "6 \u2022 RSA",
+        "scores": [
+            "19.00",
+            "19.93"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Dominique SWEENEY",
+        "country": "5 \u2022 RSA",
+        "scores": [
+            "24.55",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Doriane SARAMANDIF",
+        "country": "4 \u2022 MRI",
+        "scores": [
+            "FALL",
+            "30.46"
+        ]
+    }
+]

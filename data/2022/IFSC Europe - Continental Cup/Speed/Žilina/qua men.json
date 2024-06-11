@@ -1,0 +1,146 @@
+[
+    {
+        "rank": "1",
+        "name": "Erik NOYA CARDONA",
+        "country": "205 \u2022 ESP",
+        "scores": [
+            "5.62",
+            "5.67"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Bassa MAWEM",
+        "country": "206 \u2022 FRA",
+        "scores": [
+            "5.64",
+            "5.71"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Hryhorii ILCHYSHYN",
+        "country": "215 \u2022 UKR",
+        "scores": [
+            "5.90",
+            "6.69"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Kostiantyn PAVLENKO",
+        "country": "216 \u2022 UKR",
+        "scores": [
+            "6.05",
+            "6.15"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Kevin AMON",
+        "country": "200 \u2022 AUT",
+        "scores": [
+            "6.06",
+            "6.61"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Oskar SZALECKI",
+        "country": "212 \u2022 POL",
+        "scores": [
+            "6.14",
+            "6.58"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Linus BADER",
+        "country": "208 \u2022 GER",
+        "scores": [
+            "6.40",
+            "6.45"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Alejandro RIVAS DOM\u00cdNGUEZ",
+        "country": "204 \u2022 ESP",
+        "scores": [
+            "6.48",
+            "6.67"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Denys MOZOLEVYCH",
+        "country": "217 \u2022 UKR",
+        "scores": [
+            "6.51",
+            "6.67"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Leander CARMANNS",
+        "country": "209 \u2022 GER",
+        "scores": [
+            "6.64",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Dmytro ILIUKHIN",
+        "country": "214 \u2022 UKR",
+        "scores": [
+            "6.72",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Petr BURIAN",
+        "country": "202 \u2022 CZE",
+        "scores": [
+            "6.74",
+            "6.98"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Matthew FALL",
+        "country": "207 \u2022 GBR",
+        "scores": [
+            "7.04",
+            "7.10"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Jan SIMUNEK",
+        "country": "201 \u2022 CZE",
+        "scores": [
+            "7.57",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Jan TKACZYK",
+        "country": "213 \u2022 POL",
+        "scores": [
+            "7.63",
+            "7.83"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Hubert PRZYTULA",
+        "country": "211 \u2022 POL",
+        "scores": [
+            "8.03",
+            "FALL"
+        ]
+    }
+]

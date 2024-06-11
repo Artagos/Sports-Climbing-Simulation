@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "4.89"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "6.71"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "7.21"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "5.48"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "4.81"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.02"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "6.54"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "4.88"
+            },
+            {
+                "name": "Merritt ERNSBERGER",
+                "country": "",
+                "time": "5.35"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.27"
+            },
+            {
+                "name": "Kazuki TANII",
+                "country": "",
+                "time": "5.41"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "6.88"
+            },
+            {
+                "name": "YU Lin",
+                "country": "",
+                "time": "7.90"
+            },
+            {
+                "name": "Zach Hammer",
+                "country": "",
+                "time": "6.82"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "5.51"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "5.23"
+            },
+            {
+                "name": "Damir TOKTAROV",
+                "country": "",
+                "time": "5.67"
+            },
+            {
+                "name": "Merritt ERNSBERGER",
+                "country": "",
+                "time": "5.61"
+            },
+            {
+                "name": "John Brosler",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "5.32"
+            },
+            {
+                "name": "Kostiantyn Pavlenko",
+                "country": "",
+                "time": "6.25"
+            },
+            {
+                "name": "Beknur ALTYNBEKOV",
+                "country": "",
+                "time": "5.55"
+            },
+            {
+                "name": "Kazuki TANII",
+                "country": "",
+                "time": "5.46"
+            },
+            {
+                "name": "Yaroslav Tkach",
+                "country": "",
+                "time": "6.40"
+            },
+            {
+                "name": "Kevin Amon",
+                "country": "",
+                "time": "5.88"
+            },
+            {
+                "name": "YU Lin",
+                "country": "",
+                "time": "5.48"
+            },
+            {
+                "name": "DINGFENG ZHANG",
+                "country": "",
+                "time": "5.50"
+            },
+            {
+                "name": "Zach Hammer",
+                "country": "",
+                "time": "5.21"
+            },
+            {
+                "name": "SHOUHONG CHU",
+                "country": "",
+                "time": "6.11"
+            },
+            {
+                "name": "JINGJIE HUANG",
+                "country": "",
+                "time": "5.85"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "5.52"
+            }
+        ]
+    }
+]

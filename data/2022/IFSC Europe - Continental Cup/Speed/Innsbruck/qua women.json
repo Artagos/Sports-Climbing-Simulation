@@ -1,0 +1,110 @@
+[
+    {
+        "rank": "1",
+        "name": "Leslie Adriana ROMERO P\u00c9REZ",
+        "country": "9 \u2022 ESP",
+        "scores": [
+            "7.42",
+            "7.69"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Beatrice COLLI",
+        "country": "10 \u2022 ITA",
+        "scores": [
+            "7.57",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Carla MART\u00cdNEZ VIDAL",
+        "country": "8 \u2022 ESP",
+        "scores": [
+            "7.78",
+            "7.97"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Oksana BUROVA",
+        "country": "2 \u2022 UKR",
+        "scores": [
+            "8.03",
+            "8.69"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Mar\u00eda LABORDA SAGASTE",
+        "country": "5 \u2022 ESP",
+        "scores": [
+            "8.07",
+            "8.15"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Alina SHCHYHARIEVA",
+        "country": "12 \u2022 UKR",
+        "scores": [
+            "8.12",
+            "10.25"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Sofia BELLESINI",
+        "country": "11 \u2022 ITA",
+        "scores": [
+            "8.13",
+            "8.70"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Julia KOCH",
+        "country": "6 \u2022 GER",
+        "scores": [
+            "8.16",
+            "8.43"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Laura ST\u00d6CKLER",
+        "country": "1 \u2022 AUT",
+        "scores": [
+            "8.17",
+            "8.83"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Anna BROZEK",
+        "country": "3 \u2022 POL",
+        "scores": [
+            "10.66",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Patrycja CHUDZIAK",
+        "country": "4 \u2022 POL",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Yelyzaveta LAVRYKOVA",
+        "country": "7 \u2022 UKR",
+        "scores": [
+            "",
+            "FALSE START"
+        ]
+    }
+]

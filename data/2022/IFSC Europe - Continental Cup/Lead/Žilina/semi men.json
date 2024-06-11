@@ -1,0 +1,128 @@
+[
+    {
+        "athlete_name": "Toby ROBERTS",
+        "rank": "1",
+        "country": null,
+        "score": "46+"
+    },
+    {
+        "athlete_name": "Dimitri FLICK",
+        "rank": "2",
+        "country": null,
+        "score": "40+"
+    },
+    {
+        "athlete_name": "Giorgio TOMATIS",
+        "rank": "3",
+        "country": null,
+        "score": "40"
+    },
+    {
+        "athlete_name": "Yuval SHEMLA",
+        "rank": "4",
+        "country": null,
+        "score": "40"
+    },
+    {
+        "athlete_name": "Louis GUNDOLF",
+        "rank": "5",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Jules MARCHALAND",
+        "rank": "6",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Alberto GOTTA",
+        "rank": "7",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Mikel Asier LINACISORO MOLINA",
+        "rank": "8",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Peter KURIC",
+        "rank": "9",
+        "country": null,
+        "score": "36"
+    },
+    {
+        "athlete_name": "Slav KIROV",
+        "rank": "10",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Pierre LE CERF",
+        "rank": "11",
+        "country": null,
+        "score": "33+"
+    },
+    {
+        "athlete_name": "Arsène DUVAL",
+        "rank": "12",
+        "country": null,
+        "score": "33"
+    },
+    {
+        "athlete_name": "Leto CAVÉ",
+        "rank": "13",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Simon LORENZI",
+        "rank": "14",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Benjamin HAIDACHER",
+        "rank": "15",
+        "country": null,
+        "score": "28"
+    },
+    {
+        "athlete_name": "Arno LUYPAERT",
+        "rank": "16",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Gregor VEZONIK",
+        "rank": "17",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Eneko CARRETERO CRUZ",
+        "rank": "18",
+        "country": null,
+        "score": "27"
+    },
+    {
+        "athlete_name": "Nikolay RUSEV",
+        "rank": "19",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Javier CANO BLAZQUEZ",
+        "rank": "20",
+        "country": null,
+        "score": "19+"
+    },
+    {
+        "athlete_name": "Alistair DUVAL",
+        "rank": "21",
+        "country": null,
+        "score": "19"
+    }
+]

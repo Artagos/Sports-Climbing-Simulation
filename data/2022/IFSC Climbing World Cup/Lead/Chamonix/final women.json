@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Janja GARNBRET",
+        "rank": "1",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Laura ROGORA",
+        "rank": "2",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Chaehyun SEO",
+        "rank": "3",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "4",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "5",
+        "country": null,
+        "score": "45+"
+    },
+    {
+        "athlete_name": "Natalia GROSSMAN",
+        "rank": "6",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Brooke RABOUTOU",
+        "rank": "7",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "rank": "8",
+        "country": null,
+        "score": "37"
+    }
+]

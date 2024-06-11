@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.43"
+            },
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.52 (AsR)"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "6.64"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.65"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.48"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "6.75"
+            },
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.65"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.69"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.67"
+            },
+            {
+                "name": "DI NIU",
+                "country": "",
+                "time": "6.74"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.71"
+            },
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.69"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.79 (PaR)"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.70"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "6.84"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "7.39"
+            },
+            {
+                "name": "YAFEI ZHOU",
+                "country": "",
+                "time": "7.50"
+            },
+            {
+                "name": "DI NIU",
+                "country": "",
+                "time": "6.94"
+            },
+            {
+                "name": "NURUL IQAMAH",
+                "country": "",
+                "time": "7.20"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.37"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "9.85"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.01"
+            },
+            {
+                "name": "Jimin JEONG",
+                "country": "",
+                "time": "7.29"
+            },
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "6.94"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.48"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "6.93"
+            },
+            {
+                "name": "SHENGYAN WANG",
+                "country": "",
+                "time": "7.78"
+            },
+            {
+                "name": "LIJUAN DENG",
+                "country": "",
+                "time": "6.83"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "7.69"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "7.11"
+            },
+            {
+                "name": "NARDA MUTIA AMANDA",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    }
+]

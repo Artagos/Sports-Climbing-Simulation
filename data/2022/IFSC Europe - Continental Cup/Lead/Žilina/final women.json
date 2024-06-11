@@ -1,0 +1,56 @@
+[
+    {
+        "athlete_name": "Mattea PÖTZI",
+        "rank": "1",
+        "country": null,
+        "score": "47+"
+    },
+    {
+        "athlete_name": "Camille POUGET",
+        "rank": "2",
+        "country": null,
+        "score": "46+"
+    },
+    {
+        "athlete_name": "Ilaria SCOLARIS",
+        "rank": "3",
+        "country": null,
+        "score": "46+"
+    },
+    {
+        "athlete_name": "Claudia GHISOLFI",
+        "rank": "4",
+        "country": null,
+        "score": "45+"
+    },
+    {
+        "athlete_name": "Iziar MARTÍNEZ ALMENDROS",
+        "rank": "5",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Ina PLASSOUX DJIGA",
+        "rank": "6",
+        "country": null,
+        "score": "42+"
+    },
+    {
+        "athlete_name": "Julia FISER",
+        "rank": "7",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "Stasa GEJO",
+        "rank": "8",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Erin MCNEICE",
+        "rank": "9",
+        "country": null,
+        "score": "34"
+    }
+]

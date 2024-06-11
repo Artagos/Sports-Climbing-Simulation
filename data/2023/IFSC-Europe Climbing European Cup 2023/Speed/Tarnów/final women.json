@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.40"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "6.79"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.37"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.03"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.59"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.34"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.09"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.62"
+            },
+            {
+                "name": "Lison Gautron",
+                "country": "",
+                "time": "9.78"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.28"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "7.34"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.02"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.70"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "6.72"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "7.42"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.79"
+            },
+            {
+                "name": "Agata Lesiewicz",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "8.05"
+            },
+            {
+                "name": "Lison Gautron",
+                "country": "",
+                "time": "7.70"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.55"
+            },
+            {
+                "name": "Erica Piscopo",
+                "country": "",
+                "time": "8.27"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "8.07"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.23"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.29"
+            },
+            {
+                "name": "Maria Szwed",
+                "country": "",
+                "time": "10.29"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.51"
+            },
+            {
+                "name": "Victoire Andrier",
+                "country": "",
+                "time": "7.75"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.14"
+            },
+            {
+                "name": "Mar\u00eda Laborda Sagaste",
+                "country": "",
+                "time": "8.27"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "8.19"
+            },
+            {
+                "name": "Kseniia Horielova",
+                "country": "",
+                "time": "8.90"
+            }
+        ]
+    }
+]

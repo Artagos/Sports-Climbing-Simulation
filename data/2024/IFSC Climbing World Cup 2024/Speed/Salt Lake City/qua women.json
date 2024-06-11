@@ -1,0 +1,242 @@
+[
+    {
+        "rank": "1",
+        "name": "Emma HUNT",
+        "age": "166",
+        "country": "USA",
+        "scores": [
+            "6.57",
+            "6.66"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Natalia KALUCKA",
+        "age": "168",
+        "country": "POL",
+        "scores": [
+            "6.93",
+            "7.13"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Aleksandra KALUCKA",
+        "age": "161",
+        "country": "POL",
+        "scores": [
+            "6.94",
+            "7.20"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Lijuan DENG",
+        "age": "159",
+        "country": "CHN",
+        "scores": [
+            "7.08",
+            "7.15"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Mengli ZHANG",
+        "age": "162",
+        "country": "CHN",
+        "scores": [
+            "7.41",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Piper KELLY",
+        "age": "179",
+        "country": "USA",
+        "scores": [
+            "7.47",
+            "7.82"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Guizhen XIE",
+        "age": "174",
+        "country": "CHN",
+        "scores": [
+            "7.48",
+            "7.90"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Sophia CURCIO",
+        "age": "173",
+        "country": "USA",
+        "scores": [
+            "7.51",
+            "7.65"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Mi YANG",
+        "age": "176",
+        "country": "CHN",
+        "scores": [
+            "7.71",
+            "8.45"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Jingyue FAN",
+        "age": "167",
+        "country": "CHN",
+        "scores": [
+            "7.81",
+            "7.98"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Kaitlyn BONE",
+        "age": "169",
+        "country": "USA",
+        "scores": [
+            "8.04",
+            "9.07"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Karin HAYASHI",
+        "age": "165",
+        "country": "JPN",
+        "scores": [
+            "8.18",
+            "8.80"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Haruka KANETANI",
+        "age": "178",
+        "country": "JPN",
+        "scores": [
+            "8.38",
+            "9.97"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Liberty RUNNELS",
+        "age": "158",
+        "country": "USA",
+        "scores": [
+            "8.40",
+            "8.86"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Isis ROTHFORK",
+        "age": "157",
+        "country": "USA",
+        "scores": [
+            "8.44",
+            "10.43"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Abby GEBERT",
+        "age": "170",
+        "country": "NZL",
+        "scores": [
+            "9.02",
+            "9.28"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Grace CROWLEY",
+        "age": "177",
+        "country": "AUS",
+        "scores": [
+            "9.37",
+            "12.59"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Kailer KORDEWICK",
+        "age": "180",
+        "country": "USA",
+        "scores": [
+            "9.58",
+            "10.29"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Sydney WILLIAMS",
+        "age": "172",
+        "country": "USA",
+        "scores": [
+            "9.60",
+            "10.31"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Jorja RANGI",
+        "age": "175",
+        "country": "NZL",
+        "scores": [
+            "9.61",
+            "9.63"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Valeria MACIAS FERREIRA",
+        "age": "163",
+        "country": "MEX",
+        "scores": [
+            "9.64",
+            "9.81"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Tegwen OATES",
+        "age": "160",
+        "country": "RSA",
+        "scores": [
+            "10.77",
+            "11.06"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Arantza FERN\u00c1NDEZ GUTIERREZ",
+        "age": "164",
+        "country": "MEX",
+        "scores": [
+            "10.92",
+            "12.83"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Yufang XIE",
+        "age": "171",
+        "country": "CHN",
+        "scores": [
+            "7.89",
+            "FALSE START"
+        ]
+    }
+]

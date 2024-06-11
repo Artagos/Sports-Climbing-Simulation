@@ -1,0 +1,317 @@
+[
+    {
+        "rank": "1",
+        "name": "John BROSLER",
+        "country": "190 \u2022 USA",
+        "scores": [
+            "5.20",
+            "5.33"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Kiromal KATIBIN",
+        "country": "137 \u2022 INA",
+        "scores": [
+            "5.42",
+            "6.98"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Amir MAIMURATOV",
+        "country": "158 \u2022 KAZ",
+        "scores": [
+            "5.67",
+            "6.00"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Erik NOYA CARDONA",
+        "country": "119 \u2022 ESP",
+        "scores": [
+            "5.68",
+            "5.84"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Veddriq LEONARDO",
+        "country": "138 \u2022 INA",
+        "scores": [
+            "5.68",
+            "6.67"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Ludovico FOSSALI",
+        "country": "143 \u2022 ITA",
+        "scores": [
+            "5.70",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Carlos GRANJA",
+        "country": "117 \u2022 ECU",
+        "scores": [
+            "5.76",
+            "5.99"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Noah BRATSCHI",
+        "country": "189 \u2022 USA",
+        "scores": [
+            "5.76",
+            "5.93"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Marcin DZIENSKI",
+        "country": "162 \u2022 POL",
+        "scores": [
+            "5.78",
+            "7.13"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Guillaume MORO",
+        "country": "121 \u2022 FRA",
+        "scores": [
+            "5.79",
+            "5.93"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Merritt ERNSBERGER",
+        "country": "177 \u2022 USA",
+        "scores": [
+            "5.89",
+            "6.11"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Pierre REBREYEND",
+        "country": "124 \u2022 FRA",
+        "scores": [
+            "5.92",
+            "7.23"
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "Samuel WATSON",
+        "country": "180 \u2022 USA",
+        "scores": [
+            "6.03",
+            "9.37"
+        ]
+    },
+    {
+        "rank": "14",
+        "name": "Ethan PITCHER",
+        "country": "110 \u2022 CAN",
+        "scores": [
+            "6.06",
+            "9.26"
+        ]
+    },
+    {
+        "rank": "15",
+        "name": "Gian Luca ZODDA",
+        "country": "142 \u2022 ITA",
+        "scores": [
+            "6.06",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "Quinn O'FRANCIA",
+        "country": "186 \u2022 USA",
+        "scores": [
+            "6.09",
+            "6.28"
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "Joe GOODACRE",
+        "country": "178 \u2022 USA",
+        "scores": [
+            "6.10",
+            "9.55"
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "Yudai IKEDA",
+        "country": "156 \u2022 JPN",
+        "scores": [
+            "6.12",
+            "6.22"
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "Tobias PLANGGER",
+        "country": "101 \u2022 AUT",
+        "scores": [
+            "6.15",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "Lukas KNAPP",
+        "country": "102 \u2022 AUT",
+        "scores": [
+            "6.16",
+            "6.19"
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "Nickolaie RIVADENEIRA",
+        "country": "118 \u2022 ECU",
+        "scores": [
+            "6.30",
+            "6.55"
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "Linus BADER",
+        "country": "136 \u2022 GER",
+        "scores": [
+            "6.39",
+            "8.34"
+        ]
+    },
+    {
+        "rank": "23",
+        "name": "Sebastian LUCKE",
+        "country": "135 \u2022 GER",
+        "scores": [
+            "6.43",
+            "7.95"
+        ]
+    },
+    {
+        "rank": "24",
+        "name": "Ayumu MITA",
+        "country": "152 \u2022 JPN",
+        "scores": [
+            "6.47",
+            "6.52"
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "Shuto FUJINO",
+        "country": "157 \u2022 JPN",
+        "scores": [
+            "6.59",
+            "7.51"
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "Akihisa KAJI",
+        "country": "145 \u2022 JPN",
+        "scores": [
+            "6.71",
+            "6.77"
+        ]
+    },
+    {
+        "rank": "27",
+        "name": "Zach HAMMER",
+        "country": "193 \u2022 USA",
+        "scores": [
+            "6.79",
+            "7.15"
+        ]
+    },
+    {
+        "rank": "28",
+        "name": "Oliver KUANG",
+        "country": "196 \u2022 USA",
+        "scores": [
+            "6.81",
+            "7.17"
+        ]
+    },
+    {
+        "rank": "29",
+        "name": "Darren SKOLNIK",
+        "country": "195 \u2022 USA",
+        "scores": [
+            "6.82",
+            "9.84"
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "Hajime TAKEDA",
+        "country": "153 \u2022 JPN",
+        "scores": [
+            "6.85",
+            "8.15"
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "Richard LI",
+        "country": "179 \u2022 USA",
+        "scores": [
+            "7.43",
+            "8.65"
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "Calrin CURTIS",
+        "country": "164 \u2022 RSA",
+        "scores": [
+            "7.79",
+            "8.13"
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "Silas CHANG",
+        "country": "194 \u2022 USA",
+        "scores": [
+            "8.21",
+            "8.80"
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "Micah LISS",
+        "country": "181 \u2022 USA",
+        "scores": [
+            "FALL",
+            "FALL"
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "Ardch INTRACHUPONGSE",
+        "country": "174 \u2022 THA",
+        "scores": [
+            "FALL",
+            "FALSE START"
+        ]
+    }
+]

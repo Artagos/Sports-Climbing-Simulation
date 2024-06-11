@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.64"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.59"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "5.64"
+            },
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.49"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "John Brosler",
+                "country": "",
+                "time": "6.27"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.60"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.59"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "",
+                "time": "5.73"
+            },
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "7.03"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "6.50"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "John Brosler",
+                "country": "",
+                "time": "5.89"
+            },
+            {
+                "name": "Quinn O'Francia",
+                "country": "",
+                "time": "6.26"
+            },
+            {
+                "name": "Noah Bratschi",
+                "country": "",
+                "time": "5.87"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "",
+                "time": "6.69"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "",
+                "time": "7.69"
+            },
+            {
+                "name": "Samuel Watson",
+                "country": "",
+                "time": "5.81"
+            },
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "",
+                "time": "5.48"
+            },
+            {
+                "name": "Pierre Rebreyend",
+                "country": "",
+                "time": "5.93"
+            },
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "",
+                "time": "5.45"
+            },
+            {
+                "name": "Gian Luca Zodda",
+                "country": "",
+                "time": "6.91"
+            },
+            {
+                "name": "Carlos Granja",
+                "country": "",
+                "time": "6.10"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "",
+                "time": "9.40"
+            },
+            {
+                "name": "Amir Maimuratov",
+                "country": "",
+                "time": "5.87"
+            },
+            {
+                "name": "Ethan Pitcher",
+                "country": "",
+                "time": "8.50"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "",
+                "time": "5.79"
+            },
+            {
+                "name": "Merritt Ernsberger",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    }
+]

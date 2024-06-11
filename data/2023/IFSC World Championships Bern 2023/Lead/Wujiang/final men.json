@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Sorato ANRAKU",
+        "rank": "1",
+        "country": null,
+        "score": "39+"
+    },
+    {
+        "athlete_name": "Shion OMATA",
+        "rank": "2",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Taisei HOMMA",
+        "rank": "3",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Yoshiyuki OGATA",
+        "rank": "4",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Yunchan SONG",
+        "rank": "5",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Ao YURIKUSA",
+        "rank": "6",
+        "country": null,
+        "score": "23+"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "7",
+        "country": null,
+        "score": "23"
+    },
+    {
+        "athlete_name": "Nicolas COLLIN",
+        "rank": "8",
+        "country": null,
+        "score": "23"
+    }
+]

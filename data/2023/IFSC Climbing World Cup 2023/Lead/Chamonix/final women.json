@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Jain KIM",
+        "rank": "1",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Nonoha KUME",
+        "rank": "2",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "H\u00e9l\u00e8ne JANICOT",
+        "rank": "3",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "Jessica PILZ",
+        "rank": "4",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Miho NONAKA",
+        "rank": "5",
+        "country": null,
+        "score": "37+"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "rank": "6",
+        "country": null,
+        "score": "33"
+    },
+    {
+        "athlete_name": "Vita LUKAN",
+        "rank": "7",
+        "country": null,
+        "score": "29+"
+    },
+    {
+        "athlete_name": "Chaehyun SEO",
+        "rank": "8",
+        "country": null,
+        "score": "22"
+    }
+]

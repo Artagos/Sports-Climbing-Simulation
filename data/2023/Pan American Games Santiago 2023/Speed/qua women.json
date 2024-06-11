@@ -1,0 +1,110 @@
+[
+    {
+        "rank": "1",
+        "name": "Emma HUNT",
+        "country": "USA",
+        "scores": [
+            "6.82",
+            "6.84"
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "Sophia CURCIO",
+        "country": "USA",
+        "scores": [
+            "7.76",
+            "7.79"
+        ]
+    },
+    {
+        "rank": "3",
+        "name": "Piper KELLY",
+        "country": "USA",
+        "scores": [
+            "7.97",
+            "10.82"
+        ]
+    },
+    {
+        "rank": "4",
+        "name": "Valeria MACIAS FERREIRA",
+        "country": "MEX",
+        "scores": [
+            "8.16",
+            "8.37"
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "Andrea ROJAS",
+        "country": "ECU",
+        "scores": [
+            "8.57",
+            "12.77"
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "Anah\u00ed RIVEROS",
+        "country": "CHI",
+        "scores": [
+            "8.81",
+            "8.93"
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "Erica VELEV",
+        "country": "CAN",
+        "scores": [
+            "8.99",
+            "11.23"
+        ]
+    },
+    {
+        "rank": "8",
+        "name": "Carmen CONTRERAS",
+        "country": "CHI",
+        "scores": [
+            "9.28",
+            "9.67"
+        ]
+    },
+    {
+        "rank": "9",
+        "name": "Arantza FERN\u00c1NDEZ GUTIERREZ",
+        "country": "MEX",
+        "scores": [
+            "9.80",
+            "10.26"
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "Abigail RUANO",
+        "country": "ECU",
+        "scores": [
+            "9.92",
+            "11.45"
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "Nicole MEJIA",
+        "country": "ECU",
+        "scores": [
+            "10.14",
+            "10.42"
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "Mar\u00eda Fernanda HIDALGO AMEZQUITA",
+        "country": "MEX",
+        "scores": [
+            "14.85",
+            "16.68"
+        ]
+    }
+]

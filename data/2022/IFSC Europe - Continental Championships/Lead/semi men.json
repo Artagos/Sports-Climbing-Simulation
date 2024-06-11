@@ -1,0 +1,158 @@
+[
+    {
+        "athlete_name": "Jakob SCHUBERT",
+        "rank": "1",
+        "country": null,
+        "score": "46+"
+    },
+    {
+        "athlete_name": "Adam ONDRA",
+        "rank": "2",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Luka POTOCAR",
+        "rank": "3",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Alberto GINÉS LÓPEZ",
+        "rank": "4",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Alexander MEGOS",
+        "rank": "5",
+        "country": null,
+        "score": "42+"
+    },
+    {
+        "athlete_name": "Domen SKOFIC",
+        "rank": "6",
+        "country": null,
+        "score": "41+"
+    },
+    {
+        "athlete_name": "Yannick FLOHÉ",
+        "rank": "7",
+        "country": null,
+        "score": "40+"
+    },
+    {
+        "athlete_name": "Filip SCHENK",
+        "rank": "8",
+        "country": null,
+        "score": "40"
+    },
+    {
+        "athlete_name": "Sascha LEHMANN",
+        "rank": "9",
+        "country": null,
+        "score": "39+"
+    },
+    {
+        "athlete_name": "Martin STRANIK",
+        "rank": "10",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Jorg VERHOEVEN",
+        "rank": "11",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Hannes VAN DUYSEN",
+        "rank": "12",
+        "country": null,
+        "score": "36+"
+    },
+    {
+        "athlete_name": "Toby ROBERTS",
+        "rank": "13",
+        "country": null,
+        "score": "36"
+    },
+    {
+        "athlete_name": "Michael PICCOLRUAZ",
+        "rank": "14",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Mejdi SCHALCK",
+        "rank": "15",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Nimord MARCUS",
+        "rank": "16",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Stefano GHISOLFI",
+        "rank": "17",
+        "country": null,
+        "score": "34"
+    },
+    {
+        "athlete_name": "Paul JENFT",
+        "rank": "18",
+        "country": null,
+        "score": "34"
+    },
+    {
+        "athlete_name": "Yuval SHEMLA",
+        "rank": "19",
+        "country": null,
+        "score": "34"
+    },
+    {
+        "athlete_name": "Nicolas COLLIN",
+        "rank": "20",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Milan PRESKAR",
+        "rank": "21",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Simon LORENZI",
+        "rank": "22",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Sam AVEZOU",
+        "rank": "23",
+        "country": null,
+        "score": "21+"
+    },
+    {
+        "athlete_name": "James POPE",
+        "rank": "24",
+        "country": null,
+        "score": "21"
+    },
+    {
+        "athlete_name": "Nino GRÜNENFELDER",
+        "rank": "25",
+        "country": null,
+        "score": "16+"
+    },
+    {
+        "athlete_name": "Hamish MCARTHUR",
+        "rank": "",
+        "country": null,
+        "score": "DNS"
+    }
+]

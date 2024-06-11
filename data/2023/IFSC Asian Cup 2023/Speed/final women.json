@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Hung Ying Lee",
+                "country": "",
+                "time": "9.51"
+            },
+            {
+                "name": "Anisha Verma",
+                "country": "",
+                "time": "10.10"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Amani Jannat",
+                "country": "",
+                "time": "15.01"
+            },
+            {
+                "name": "Shivpreet Pannu",
+                "country": "",
+                "time": "12.24"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Hung Ying Lee",
+                "country": "",
+                "time": "10.84"
+            },
+            {
+                "name": "Amani Jannat",
+                "country": "",
+                "time": "15.98"
+            },
+            {
+                "name": "Shivpreet Pannu",
+                "country": "",
+                "time": "10.79"
+            },
+            {
+                "name": "Anisha Verma",
+                "country": "",
+                "time": "10.39"
+            }
+        ]
+    }
+]

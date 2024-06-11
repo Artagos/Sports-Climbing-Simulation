@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Milan PRESKAR",
+        "rank": "1",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Jonas UTELLI",
+        "rank": "2",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Luka POTOCAR",
+        "rank": "3",
+        "country": null,
+        "score": "29"
+    },
+    {
+        "athlete_name": "Stefan SCHERZ",
+        "rank": "4",
+        "country": null,
+        "score": "27"
+    },
+    {
+        "athlete_name": "Giovanni PLACCI",
+        "rank": "5",
+        "country": null,
+        "score": "26"
+    },
+    {
+        "athlete_name": "Yuval SHEMLA",
+        "rank": "6",
+        "country": null,
+        "score": "25+"
+    },
+    {
+        "athlete_name": "Domen SKOFIC",
+        "rank": "7",
+        "country": null,
+        "score": "22+"
+    },
+    {
+        "athlete_name": "Martin STRANIK",
+        "rank": "8",
+        "country": null,
+        "score": "22+"
+    }
+]

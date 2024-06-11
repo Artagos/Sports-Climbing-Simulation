@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Laura ROGORA",
+        "rank": "1",
+        "country": null,
+        "score": "55"
+    },
+    {
+        "athlete_name": "Vita LUKAN",
+        "rank": "2",
+        "country": null,
+        "score": "50"
+    },
+    {
+        "athlete_name": "Aleksandra TOTKOVA",
+        "rank": "3",
+        "country": null,
+        "score": "47"
+    },
+    {
+        "athlete_name": "Mia KRAMPL",
+        "rank": "4",
+        "country": null,
+        "score": "40"
+    },
+    {
+        "athlete_name": "Claudia GHISOLFI",
+        "rank": "5",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Sabina VAN ESSEN",
+        "rank": "6",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Tjasa SLEMENSEK",
+        "rank": "7",
+        "country": null,
+        "score": "25+"
+    },
+    {
+        "athlete_name": "Michaela SMETANOVA",
+        "rank": "8",
+        "country": null,
+        "score": "22"
+    }
+]

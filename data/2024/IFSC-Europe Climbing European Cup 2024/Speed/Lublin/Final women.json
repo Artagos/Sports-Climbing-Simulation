@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "6.84"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "7.03"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.38"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.70"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.71"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "6.91"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.23"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.45"
+            },
+            {
+                "name": "Erica Piscopo",
+                "country": "",
+                "time": "8.64"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "6.89"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.11"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "6.92"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "7.32"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "7.01"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "7.34"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.65"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.95"
+            },
+            {
+                "name": "Daria Tkachova",
+                "country": "",
+                "time": "7.91"
+            },
+            {
+                "name": "Erica Piscopo",
+                "country": "",
+                "time": "7.90"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.09"
+            },
+            {
+                "name": "Julia Koch",
+                "country": "",
+                "time": "8.19"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.25"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "9.31"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "8.00"
+            },
+            {
+                "name": "Nele Thomas",
+                "country": "",
+                "time": "8.32"
+            },
+            {
+                "name": "Maria Szwed",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "7.80"
+            },
+            {
+                "name": "Carla Mart\u00ednez Vidal",
+                "country": "",
+                "time": "6.99"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "7.37"
+            },
+            {
+                "name": "Leslie Adriana Romero P\u00e9rez",
+                "country": "",
+                "time": "7.53"
+            },
+            {
+                "name": "Daria Marciniak",
+                "country": "",
+                "time": "7.84"
+            }
+        ]
+    }
+]

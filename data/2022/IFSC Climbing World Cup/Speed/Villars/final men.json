@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "PENG WU",
+                "country": "CHN",
+                "time": "5.24"
+            },
+            {
+                "name": "JIANGUO LONG",
+                "country": "CHN",
+                "time": "5.23"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "INA",
+                "time": "FALL"
+            },
+            {
+                "name": "JINBAO LONG",
+                "country": "CHN",
+                "time": "5.16"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "INA",
+                "time": "5.35"
+            },
+            {
+                "name": "PENG WU",
+                "country": "CHN",
+                "time": "5.31"
+            },
+            {
+                "name": "JINBAO LONG",
+                "country": "CHN",
+                "time": "6.36"
+            },
+            {
+                "name": "JIANGUO LONG",
+                "country": "CHN",
+                "time": "5.22"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "INA",
+                "time": "FALL"
+            },
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "INA",
+                "time": "5.30"
+            },
+            {
+                "name": "PENG WU",
+                "country": "CHN",
+                "time": "5.51"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "FRA",
+                "time": "6.13"
+            },
+            {
+                "name": "LONG CAO",
+                "country": "CHN",
+                "time": "FALSE START"
+            },
+            {
+                "name": "JINBAO LONG",
+                "country": "CHN",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "JIANGUO LONG",
+                "country": "CHN",
+                "time": "5.19"
+            },
+            {
+                "name": "John Brosler",
+                "country": "USA",
+                "time": "5.31"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "KIROMAL KATIBIN",
+                "country": "INA",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Samuel Watson",
+                "country": "USA",
+                "time": "FALSE START"
+            },
+            {
+                "name": "VEDDRIQ LEONARDO",
+                "country": "INA",
+                "time": "5.52"
+            },
+            {
+                "name": "ALFIAN MUHAMMAD FAJRI",
+                "country": "INA",
+                "time": "6.39"
+            },
+            {
+                "name": "PENG WU",
+                "country": "CHN",
+                "time": "5.55"
+            },
+            {
+                "name": "Erik Noya Cardona",
+                "country": "ESP",
+                "time": "5.66"
+            },
+            {
+                "name": "Reza Alipour Shenazandifard",
+                "country": "IRI",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Guillaume Moro",
+                "country": "FRA",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "LONG CAO",
+                "country": "CHN",
+                "time": "5.45"
+            },
+            {
+                "name": "ZAENAL ARIPIN",
+                "country": "INA",
+                "time": "5.66"
+            },
+            {
+                "name": "JINBAO LONG",
+                "country": "CHN",
+                "time": "5.34"
+            },
+            {
+                "name": "RAHMAD ADI MULYONO",
+                "country": "INA",
+                "time": "5.47"
+            },
+            {
+                "name": "JIANGUO LONG",
+                "country": "CHN",
+                "time": "5.39"
+            },
+            {
+                "name": "Marcin Dzienski",
+                "country": "POL",
+                "time": "5.59"
+            },
+            {
+                "name": "John Brosler",
+                "country": "USA",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Ludovico Fossali",
+                "country": "ITA",
+                "time": "FALSE START"
+            }
+        ]
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "7.08"
+            },
+            {
+                "name": "Darren Skolnik",
+                "country": "",
+                "time": "8.52"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "6.16"
+            },
+            {
+                "name": "Hajime Takeda",
+                "country": "",
+                "time": "6.23"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Darren Skolnik",
+                "country": "",
+                "time": "6.19"
+            },
+            {
+                "name": "Hajime Takeda",
+                "country": "",
+                "time": "6.88"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "5.78"
+            },
+            {
+                "name": "Dmytro Iliukhin",
+                "country": "",
+                "time": "7.35"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "6.06"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "6.09"
+            },
+            {
+                "name": "Nicholas Montella",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Darren Skolnik",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Ryo OMASA",
+                "country": "",
+                "time": "6.43"
+            },
+            {
+                "name": "Hajime Takeda",
+                "country": "",
+                "time": "5.93"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Tobias Plangger",
+                "country": "",
+                "time": "6.41"
+            },
+            {
+                "name": "Valentin Sternik",
+                "country": "",
+                "time": "7.09"
+            },
+            {
+                "name": "Artem Hlushko",
+                "country": "",
+                "time": "FALSE START"
+            },
+            {
+                "name": "Dmytro Iliukhin",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Matteo Zurloni",
+                "country": "",
+                "time": "6.19"
+            },
+            {
+                "name": "Lukas Knapp",
+                "country": "",
+                "time": "6.17"
+            },
+            {
+                "name": "Alejandro Rivas Dom\u00ednguez",
+                "country": "",
+                "time": "6.40"
+            },
+            {
+                "name": "Dorian Zedler",
+                "country": "",
+                "time": "6.75"
+            },
+            {
+                "name": "Alessandro Cingari",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Nicholas Montella",
+                "country": "",
+                "time": "7.46"
+            },
+            {
+                "name": "Darren Skolnik",
+                "country": "",
+                "time": "6.43"
+            },
+            {
+                "name": "Aidan Goddard",
+                "country": "",
+                "time": "6.78"
+            },
+            {
+                "name": "Ryo OMASA",
+                "country": "",
+                "time": "7.08"
+            },
+            {
+                "name": "Andrea Biassoni",
+                "country": "",
+                "time": "9.36"
+            },
+            {
+                "name": "Hajime Takeda",
+                "country": "",
+                "time": "WILDCARD"
+            },
+            {
+                "name": "Daeseong KIM",
+                "country": "",
+                "time": "FALSE START"
+            }
+        ]
+    }
+]

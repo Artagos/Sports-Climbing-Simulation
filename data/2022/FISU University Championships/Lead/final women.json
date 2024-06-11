@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Nonoha KUME",
+        "rank": "1",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Melina COSTANZA",
+        "rank": "2",
+        "country": null,
+        "score": "30"
+    },
+    {
+        "athlete_name": "Ryu NAKAGAWA",
+        "rank": "3",
+        "country": null,
+        "score": "25+"
+    },
+    {
+        "athlete_name": "Momoko ABE",
+        "rank": "4",
+        "country": null,
+        "score": "24+"
+    },
+    {
+        "athlete_name": "Ida KUPS",
+        "rank": "5",
+        "country": null,
+        "score": "21"
+    },
+    {
+        "athlete_name": "Miu KAKIZAKI",
+        "rank": "6",
+        "country": null,
+        "score": "20+"
+    },
+    {
+        "athlete_name": "Mattea PÖTZI",
+        "rank": "7",
+        "country": null,
+        "score": "20+"
+    },
+    {
+        "athlete_name": "Emily HERDIC",
+        "rank": "8",
+        "country": null,
+        "score": "20+"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Camille POUGET",
+        "rank": "1",
+        "country": null,
+        "score": "49+"
+    },
+    {
+        "athlete_name": "Valeri KREMER",
+        "rank": "2",
+        "country": null,
+        "score": "42+"
+    },
+    {
+        "athlete_name": "Lucie WATILLON",
+        "rank": "3",
+        "country": null,
+        "score": "38+"
+    },
+    {
+        "athlete_name": "Kintana ILTIS",
+        "rank": "4",
+        "country": null,
+        "score": "37"
+    },
+    {
+        "athlete_name": "Iziar MARTÍNEZ ALMENDROS",
+        "rank": "5",
+        "country": null,
+        "score": "34+"
+    },
+    {
+        "athlete_name": "Sophia AVENDER",
+        "rank": "6",
+        "country": null,
+        "score": "32+"
+    },
+    {
+        "athlete_name": "Rosa REKAR",
+        "rank": "7",
+        "country": null,
+        "score": "26+"
+    },
+    {
+        "athlete_name": "Ilaria SCOLARIS",
+        "rank": "8",
+        "country": null,
+        "score": "5"
+    }
+]

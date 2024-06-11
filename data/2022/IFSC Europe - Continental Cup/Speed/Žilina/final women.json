@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Anna BROZEK",
+                "country": "",
+                "time": "7.64"
+            },
+            {
+                "name": "María Laborda Sagaste",
+                "country": "",
+                "time": "8.42"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "9.08"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "FALL"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Anna BROZEK",
+                "country": "",
+                "time": "7.98"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "9.47"
+            },
+            {
+                "name": "María Laborda Sagaste",
+                "country": "",
+                "time": "9.43"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "10.22"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Anna BROZEK",
+                "country": "",
+                "time": "8.25"
+            },
+            {
+                "name": "Agata Lesiewicz",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Julia Koch",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "9.89"
+            },
+            {
+                "name": "Carla Martínez Vidal",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "María Laborda Sagaste",
+                "country": "",
+                "time": "9.50"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "8.34"
+            },
+            {
+                "name": "Daria Tkachova",
+                "country": "",
+                "time": "8.52"
+            }
+        ]
+    }
+]

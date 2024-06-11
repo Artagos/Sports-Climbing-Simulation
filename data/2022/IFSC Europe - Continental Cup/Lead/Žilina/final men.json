@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Toby ROBERTS",
+        "rank": "1",
+        "country": null,
+        "score": "TOP"
+    },
+    {
+        "athlete_name": "Jules MARCHALAND",
+        "rank": "2",
+        "country": null,
+        "score": "47+"
+    },
+    {
+        "athlete_name": "Yuval SHEMLA",
+        "rank": "3",
+        "country": null,
+        "score": "44"
+    },
+    {
+        "athlete_name": "Louis GUNDOLF",
+        "rank": "4",
+        "country": null,
+        "score": "43+"
+    },
+    {
+        "athlete_name": "Dimitri FLICK",
+        "rank": "5",
+        "country": null,
+        "score": "41"
+    },
+    {
+        "athlete_name": "Giorgio TOMATIS",
+        "rank": "6",
+        "country": null,
+        "score": "41"
+    },
+    {
+        "athlete_name": "Mikel Asier LINACISORO MOLINA",
+        "rank": "7",
+        "country": null,
+        "score": "30+"
+    },
+    {
+        "athlete_name": "Alberto GOTTA",
+        "rank": "8",
+        "country": null,
+        "score": "13"
+    }
+]

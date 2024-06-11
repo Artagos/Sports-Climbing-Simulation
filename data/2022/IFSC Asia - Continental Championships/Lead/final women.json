@@ -1,0 +1,50 @@
+[
+    {
+        "athlete_name": "Chaehyun SEO",
+        "rank": "1",
+        "country": null,
+        "score": "43"
+    },
+    {
+        "athlete_name": "Gayeong OH",
+        "rank": "2",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Jain KIM",
+        "rank": "3",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Futaba ITO",
+        "rank": "4",
+        "country": null,
+        "score": "35+"
+    },
+    {
+        "athlete_name": "Natsuki TANII",
+        "rank": "5",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Zhilu LUO",
+        "rank": "6",
+        "country": null,
+        "score": "31+"
+    },
+    {
+        "athlete_name": "Sol SA",
+        "rank": "7",
+        "country": null,
+        "score": "27+"
+    },
+    {
+        "athlete_name": "Mia AOYAGI",
+        "rank": "8",
+        "country": null,
+        "score": "27+"
+    }
+]

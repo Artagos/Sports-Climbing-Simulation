@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.92"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.08"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.45"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.19"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.67"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.60"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "6.90"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.06"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.78"
+            },
+            {
+                "name": "Aurelia Sarisson",
+                "country": "",
+                "time": "7.89"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "7.76"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.67"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "6.92"
+            },
+            {
+                "name": "Nuria Brockfeld",
+                "country": "",
+                "time": "10.56"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.43"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.31"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "7.00"
+            },
+            {
+                "name": "Oksana Burova",
+                "country": "",
+                "time": "9.70"
+            },
+            {
+                "name": "Sofia Bellesini",
+                "country": "",
+                "time": "7.79"
+            },
+            {
+                "name": "Aurelia Sarisson",
+                "country": "",
+                "time": "7.74"
+            },
+            {
+                "name": "Anna Brozek",
+                "country": "",
+                "time": "8.38"
+            },
+            {
+                "name": "Julia Koch",
+                "country": "",
+                "time": "9.91"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.68"
+            },
+            {
+                "name": "Giulia Randi",
+                "country": "",
+                "time": "7.72"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.11"
+            },
+            {
+                "name": "Anna APEL",
+                "country": "",
+                "time": "8.42"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "10.86"
+            },
+            {
+                "name": "Nuria Brockfeld",
+                "country": "",
+                "time": "8.15"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "7.60"
+            },
+            {
+                "name": "Erica Piscopo",
+                "country": "",
+                "time": "8.84"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "8.68"
+            },
+            {
+                "name": "Alina Shchyharieva",
+                "country": "",
+                "time": "8.60"
+            }
+        ]
+    }
+]

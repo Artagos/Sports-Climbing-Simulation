@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.72"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.23"
+            }
+        ]
+    },
+    {
+        "name": "Small Final",
+        "athletes": [
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.24"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.58"
+            }
+        ]
+    },
+    {
+        "name": "1/2",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "6.83"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "9.54"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "10.17"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.44"
+            }
+        ]
+    },
+    {
+        "name": "1/4",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "8.44"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "11.87"
+            },
+            {
+                "name": "JIMIN JEONG",
+                "country": "",
+                "time": "8.17"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "8.15"
+            },
+            {
+                "name": "Nuria Brockfeld",
+                "country": "",
+                "time": "10.86"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "8.45"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "FALL"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.99"
+            }
+        ]
+    },
+    {
+        "name": "1/8",
+        "athletes": [
+            {
+                "name": "Aleksandra Miroslaw",
+                "country": "",
+                "time": "7.33"
+            },
+            {
+                "name": "Lison Gautron",
+                "country": "",
+                "time": "8.40"
+            },
+            {
+                "name": "Capucine Viglione",
+                "country": "",
+                "time": "7.65"
+            },
+            {
+                "name": "Beatrice Colli",
+                "country": "",
+                "time": "7.79"
+            },
+            {
+                "name": "NURUL IQAMAH",
+                "country": "",
+                "time": "8.38"
+            },
+            {
+                "name": "JIMIN JEONG",
+                "country": "",
+                "time": "8.15"
+            },
+            {
+                "name": "Aleksandra Kalucka",
+                "country": "",
+                "time": "7.17"
+            },
+            {
+                "name": "Aurelia Sarisson",
+                "country": "",
+                "time": "7.23"
+            },
+            {
+                "name": "DESAK MADE RITA KUSUMA DEWI",
+                "country": "",
+                "time": "9.91"
+            },
+            {
+                "name": "Nuria Brockfeld",
+                "country": "",
+                "time": "8.06"
+            },
+            {
+                "name": "Franziska Ritter",
+                "country": "",
+                "time": "7.50"
+            },
+            {
+                "name": "Natalia Kalucka",
+                "country": "",
+                "time": "9.02"
+            },
+            {
+                "name": "RAJIAH SALLSABILLAH",
+                "country": "",
+                "time": "7.47"
+            },
+            {
+                "name": "Alivany Ver Khadijah",
+                "country": "",
+                "time": "7.96"
+            },
+            {
+                "name": "Patrycja Chudziak",
+                "country": "",
+                "time": "7.47"
+            },
+            {
+                "name": "Emma Hunt",
+                "country": "",
+                "time": "7.22"
+            }
+        ]
+    }
+]
