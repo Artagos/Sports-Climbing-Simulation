@@ -78,39 +78,6 @@ def compare_vectors(player1, player2):
     return 0
 
 
-
-max_heap_boulder_men = MaxHeap()
-
-max_heap_speed_men = MaxHeap()
-
-men_athletes_kde = KDE_for_athlete(athletes_points['men'])
-
-
-
-key_function = cmp_to_key(compare_vectors)
-
-for i in range(0,1000):
-    simulate_event(men_athletes_kde,max_heap_boulder,'boulder',key_function)
-    simulate_event(men_athletes_kde,max_heap_speed,'speed',lambda x: x['score'])
-
-print('BOULDER')
-
-for i in range(0,8):
-    athlete= max_heap_boulder.pop()
-    
-    print(athlete.name,athlete.ranks[0])
-    
-print('SPEED')
-    
-for i in range(0,8):
-    athlete= max_heap_speed.pop()
-    
-    print(athlete.name,athlete.ranks[0])
-
-# for i in range(0,20):
-#     print(np.clip(np.rint(men_athletes_kde['gefen levi']['boulder'].sample(1)), 0, None).astype(int),'--gefen levi',np.clip(np.rint(men_athletes_kde['sorato anraku']['boulder'].sample(1)), 0, None).astype(int) ,'--sorato anraku' )
-    
-    
     
 
     
