@@ -10,16 +10,9 @@ from sklearn.model_selection import GridSearchCV
 
 def CalcKde(points,discipline):
 
-    bandwidths = np.logspace(-1, 1, 20)
-    
-    param_grid = {'bandwidth': bandwidths}
-
-    # Initialize GridSearchCV
-    grid = GridSearchCV(KernelDensity(), param_grid, cv=min(5, len(points)))
-    grid.fit(points)
-
-    # Get the best bandwidth
-    best_bandwidth = grid.best_estimator_.bandwidth
+    best_bandwidth = 1
+    if(discipline=='boulder'):
+        best_bandwidth=2
     
 
     return KernelDensity(kernel="tophat", bandwidth=best_bandwidth).fit(points)
@@ -42,12 +35,13 @@ def modify_scores_based_on_cuantity(points,discipline):
     
     
     if discipline=='boulder':
-        alpha=2
+        alpha=5
         pondVal_first_two_comp=(1-alpha/len(points))
+
         pondVal_last_two_comp=(1+alpha/len(points))
         for vector in points:
             for i in range(2):
-                vector[i]= vector[i]*pondVal_first_two_comp
+                vector[i]= max(vector[i]*pondVal_first_two_comp,0)
                 vector[i+2]= vector[i+2]*pondVal_last_two_comp
     else:
         alpha=4
